@@ -1,0 +1,178 @@
+command_id: 720.728.226185
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '7280462618556'
+  expected_values:
+    FORD_FLI: 33.72549
+- response: 728046261855E
+  expected_values:
+    FORD_FLI: 36.86275
+- response: '7280462618560'
+  expected_values:
+    FORD_FLI: 37.64706
+- response: '7280462618561'
+  expected_values:
+    FORD_FLI: 38.03922
+- response: '7280462618564'
+  expected_values:
+    FORD_FLI: 39.21569
+- response: '7280462618568'
+  expected_values:
+    FORD_FLI: 40.78431
+- response: '7280462618578'
+  expected_values:
+    FORD_FLI: 47.05882
+- response: '7280462618579'
+  expected_values:
+    FORD_FLI: 47.45098
+- response: 728046261857E
+  expected_values:
+    FORD_FLI: 49.41176
+- response: 728046261857F
+  expected_values:
+    FORD_FLI: 49.80392
+- response: '7280462618586'
+  expected_values:
+    FORD_FLI: 52.54902
+- response: '7280462618587'
+  expected_values:
+    FORD_FLI: 52.94118
+- response: 728046261858A
+  expected_values:
+    FORD_FLI: 54.11765
+- response: 728046261858C
+  expected_values:
+    FORD_FLI: 54.90196
+- response: 728046261858D
+  expected_values:
+    FORD_FLI: 55.29412
+- response: 728046261858E
+  expected_values:
+    FORD_FLI: 55.68627
+- response: 728046261858F
+  expected_values:
+    FORD_FLI: 56.07843
+- response: '7280462618592'
+  expected_values:
+    FORD_FLI: 57.2549
+- response: '7280462618593'
+  expected_values:
+    FORD_FLI: 57.64706
+- response: '7280462618594'
+  expected_values:
+    FORD_FLI: 58.03922
+- response: '7280462618595'
+  expected_values:
+    FORD_FLI: 58.43137
+- response: '7280462618596'
+  expected_values:
+    FORD_FLI: 58.82353
+- response: '7280462618597'
+  expected_values:
+    FORD_FLI: 59.21569
+- response: '7280462618598'
+  expected_values:
+    FORD_FLI: 59.60784
+- response: '7280462618599'
+  expected_values:
+    FORD_FLI: 60
+- response: 728046261859A
+  expected_values:
+    FORD_FLI: 60.39216
+- response: 728046261859B
+  expected_values:
+    FORD_FLI: 60.78431
+- response: 728046261859C
+  expected_values:
+    FORD_FLI: 61.17647
+- response: 728046261859E
+  expected_values:
+    FORD_FLI: 61.96078
+- response: 72804626185A0
+  expected_values:
+    FORD_FLI: 62.7451
+- response: 72804626185A1
+  expected_values:
+    FORD_FLI: 63.13725
+- response: 72804626185A6
+  expected_values:
+    FORD_FLI: 65.09804
+- response: 72804626185A7
+  expected_values:
+    FORD_FLI: 65.4902
+- response: 72804626185A8
+  expected_values:
+    FORD_FLI: 65.88235
+- response: 72804626185A9
+  expected_values:
+    FORD_FLI: 66.27451
+- response: 72804626185AC
+  expected_values:
+    FORD_FLI: 67.45098
+- response: 72804626185AD
+  expected_values:
+    FORD_FLI: 67.84314
+- response: 72804626185AE
+  expected_values:
+    FORD_FLI: 68.23529
+- response: 72804626185B0
+  expected_values:
+    FORD_FLI: 69.01961
+- response: 72804626185B2
+  expected_values:
+    FORD_FLI: 69.80392
+- response: 72804626185B3
+  expected_values:
+    FORD_FLI: 70.19608
+- response: 72804626185B4
+  expected_values:
+    FORD_FLI: 70.58824
+- response: 72804626185B6
+  expected_values:
+    FORD_FLI: 71.37255
+- response: 72804626185B9
+  expected_values:
+    FORD_FLI: 72.54902
+- response: 72804626185BA
+  expected_values:
+    FORD_FLI: 72.94118
+- response: 72804626185BB
+  expected_values:
+    FORD_FLI: 73.33333
+- response: 72804626185BC
+  expected_values:
+    FORD_FLI: 73.72549
+- response: 72804626185BD
+  expected_values:
+    FORD_FLI: 74.11765
+- response: 72804626185C4
+  expected_values:
+    FORD_FLI: 76.86275
+- response: 72804626185C5
+  expected_values:
+    FORD_FLI: 77.2549
+- response: 72804626185C6
+  expected_values:
+    FORD_FLI: 77.64706
+- response: 72804626185C7
+  expected_values:
+    FORD_FLI: 78.03922
+- response: 72804626185CE
+  expected_values:
+    FORD_FLI: 80.78431
+- response: 72804626185CF
+  expected_values:
+    FORD_FLI: 81.17647
+- response: 72804626185D9
+  expected_values:
+    FORD_FLI: 85.09804
+- response: '72804626185E2'
+  expected_values:
+    FORD_FLI: 88.62745
+- response: 72804626185F7
+  expected_values:
+    FORD_FLI: 96.86275
+- response: 72804626185FF
+  expected_values:
+    FORD_FLI: 100
