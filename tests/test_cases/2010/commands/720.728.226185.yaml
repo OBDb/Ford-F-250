@@ -2,9 +2,9 @@ command_id: 720.728.226185
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: '7280462618517'
+- response: '7280462618505'
   expected_values:
-    FORD_FLI_V2: 9.01961
+    FORD_FLI_V2: 1.96078
 - response: 72804626185FF
   expected_values:
     FORD_FLI_V2: 100
