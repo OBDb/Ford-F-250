@@ -1,10 +1,10 @@
-command_id: 7E0.010D
+command_id: 7DF.22F45C
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7E803410D00
+- response: 7E80462F45C4A
   expected_values:
-    VSS: 0
-- response: 7E803410D51
+    FORD_EOP: 74
+- response: 7E80462F45C81
   expected_values:
-    VSS: 81
+    FORD_EOP: 129

@@ -1,0 +1,20 @@
+command_id: 7E0.22038F
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80562038F090B
+  expected_values:
+    FORD_ECT: 36.17188
+    FORD_[ECU] ECT: 36.17188
+- response: 7E80562038F0AFE
+  expected_values:
+    FORD_ECT: 43.96875
+    FORD_[ECU] ECT: 43.96875
+- response: 7E80562038F1204
+  expected_values:
+    FORD_ECT: 72.0625
+    FORD_[ECU] ECT: 72.0625
+- response: 7E80562038F1577
+  expected_values:
+    FORD_ECT: 85.85938
+    FORD_[ECU] ECT: 85.85938
