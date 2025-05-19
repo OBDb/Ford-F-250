@@ -5,24 +5,18 @@ test_cases:
 - response: 7E8056203DC0960
   expected_values:
     FORD_HPFP_DES: 3480.90575
-    FORD_[ECU] HPFP Desired: 3480.90575
 - response: 7E8056203DC0B0C
   expected_values:
     FORD_HPFP_DES: 3500
-    FORD_[ECU] HPFP Desired: 3500
 - response: 7E8056203DC0B0E
   expected_values:
     FORD_HPFP_DES: 3500
-    FORD_[ECU] HPFP Desired: 3500
 - response: 7E8056203DC0B2E
   expected_values:
     FORD_HPFP_DES: 3500
-    FORD_[ECU] HPFP Desired: 3500
 - response: 7E8056203DC0B9A
   expected_values:
     FORD_HPFP_DES: 3500
-    FORD_[ECU] HPFP Desired: 3500
 - response: 7E8056203DC0BB8
   expected_values:
     FORD_HPFP_DES: 3500
-    FORD_[ECU] HPFP Desired: 3500
