@@ -5,12 +5,9 @@ test_cases:
 - response: 7E8056203BA017E
   expected_values:
     FORD_AAT_V: 1.86706
-    FORD_[ECU] AAT Sensor V: 1.86706
 - response: 7E8056203BA01FE
   expected_values:
     FORD_AAT_V: 2.49267
-    FORD_[ECU] AAT Sensor V: 2.49267
 - response: 7E8056203BA0201
   expected_values:
     FORD_AAT_V: 2.50733
-    FORD_[ECU] AAT Sensor V: 2.50733

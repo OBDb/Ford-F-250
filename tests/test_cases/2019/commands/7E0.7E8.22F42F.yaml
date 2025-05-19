@@ -2,6 +2,18 @@ command_id: 7E0.7E8.22F42F
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: 7E80462F42F48
+  expected_values:
+    FORD_FLI: 28.23529
+- response: 7E80462F42F4E
+  expected_values:
+    FORD_FLI: 30.58824
+- response: 7E80462F42F6E
+  expected_values:
+    FORD_FLI: 43.13725
+- response: 7E80462F42F7D
+  expected_values:
+    FORD_FLI: 49.01961
 - response: 7E80462F42FA7
   expected_values:
     FORD_FLI: 65.4902

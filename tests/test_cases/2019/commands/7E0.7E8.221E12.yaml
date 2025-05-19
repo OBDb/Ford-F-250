@@ -14,3 +14,6 @@ test_cases:
 - response: 7E804621E1205
   expected_values:
     FORD_GEAR: '5'
+- response: 7E804621E1206
+  expected_values:
+    FORD_GEAR: '6'

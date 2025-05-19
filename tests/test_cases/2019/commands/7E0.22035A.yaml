@@ -5,28 +5,6 @@ test_cases:
 - response: 7E80562035A030E
   expected_values:
     FORD_BARO_V: 3.82209
-    FORD_[ECU] Baro Sensor V: 3.82209
-- response: 7E80562035A0310
+- response: 7E80562035A031E
   expected_values:
-    FORD_BARO_V: 3.83187
-    FORD_[ECU] Baro Sensor V: 3.83187
-- response: 7E80562035A0318
-  expected_values:
-    FORD_BARO_V: 3.87097
-    FORD_[ECU] Baro Sensor V: 3.87097
-- response: 7E80562035A0319
-  expected_values:
-    FORD_BARO_V: 3.87586
-    FORD_[ECU] Baro Sensor V: 3.87586
-- response: 7E80562035A031B
-  expected_values:
-    FORD_BARO_V: 3.88563
-    FORD_[ECU] Baro Sensor V: 3.88563
-- response: 7E80562035A031C
-  expected_values:
-    FORD_BARO_V: 3.89052
-    FORD_[ECU] Baro Sensor V: 3.89052
-- response: 7E80562035A031D
-  expected_values:
-    FORD_BARO_V: 3.89541
-    FORD_[ECU] Baro Sensor V: 3.89541
+    FORD_BARO_V: 3.90029
