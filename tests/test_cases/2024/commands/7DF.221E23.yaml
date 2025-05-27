@@ -1,7 +1,0 @@
-command_id: 7DF.221E23
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
-test_cases:
-- response: 7E904621E2364
-  expected_values:
-    FORD_GEAR_SHFT_V2: 100
