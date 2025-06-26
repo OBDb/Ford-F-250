@@ -1,17 +1,17 @@
 command_id: 7DF.221E12
 test_cases:
-- response: |-
+- expected_values:
+    FORD_GEAR_V2: 1
+  response: |-
     7E804621E1201
     7E904621E1201
-  expected_values:
-    FORD_GEAR_V2: 1
-- response: |-
+- expected_values:
+    FORD_GEAR_V2: 6
+  response: |-
     7E804621E1206
     7E904621E1206
-  expected_values:
-    FORD_GEAR_V2: 6
-- response: |-
+- expected_values:
+    FORD_GEAR_V2: 1
+  response: |-
     7E804621E1246
     7E904621E1201
-  expected_values:
-    FORD_GEAR_V2: 1
