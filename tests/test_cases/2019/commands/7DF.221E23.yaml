@@ -1,8 +1,8 @@
 command_id: 7DF.221E23
 test_cases:
-- response: 7E904621E232E
-  expected_values:
+- expected_values:
     FORD_GEAR_SHFT_V2: 46
-- response: 7E904621E2346
-  expected_values:
+  response: 7E904621E232E
+- expected_values:
     FORD_GEAR_SHFT_V2: 70
+  response: 7E904621E2346

@@ -1,13 +1,23 @@
 command_id: 7E0.7E8.221E12
 test_cases:
-- response: 7E804621E1201
-  expected_values:
+- expected_values:
     FORD_GEAR: '1'
-- response: |-
-    7E804621E1207
-    7E904621E1207
-  expected_values:
-    FORD_GEAR: '7'
-- response: 7E804621E120A
-  expected_values:
+  response: 7E804621E1201
+- expected_values:
+    FORD_GEAR: '1'
+  response: |-
+    7E804621E1201
+    7E904621E1201
+- expected_values:
+    FORD_GEAR: '8'
+  response: |-
+    7E804621E1208
+    7E904621E1208
+- expected_values:
     FORD_GEAR: '10'
+  response: 7E804621E120A
+- expected_values:
+    FORD_GEAR: '2'
+  response: |-
+    7E904621E1202
+    7E804621E1202
