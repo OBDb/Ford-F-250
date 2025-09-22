@@ -10,5 +10,5 @@ test_cases:
     FORD_ODO: 1024
   response: 7E80662DD01000400
 - expected_values:
-    FORD_ODO: 1792
-  response: 7E80662DD01000700
+    FORD_ODO: 11520
+  response: 7E80662DD01002D00

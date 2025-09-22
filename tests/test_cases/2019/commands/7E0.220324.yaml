@@ -4,8 +4,11 @@ test_cases:
     FORD_HPFP_V: 0.32258
   response: '7E8056203240042'
 - expected_values:
-    FORD_HPFP_V: 1.11926
-  response: 7E80562032400E5
+    FORD_HPFP_V: 1.24633
+  response: 7E80562032400FF
 - expected_values:
-    FORD_HPFP_V: 1.43695
-  response: '7E8056203240126'
+    FORD_HPFP_V: 1.27077
+  response: '7E8056203240104'
+- expected_values:
+    FORD_HPFP_V: 2.69795
+  response: '7E8056203240228'
