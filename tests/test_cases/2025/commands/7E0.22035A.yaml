@@ -1,8 +1,8 @@
 command_id: 7E0.22035A
 test_cases:
 - expected_values:
-    FORD_BARO_V: 3.7781
-  response: 7E80562035A0305
+    FORD_BARO_V: 3.75855
+  response: 7E80562035A0301
 - expected_values:
-    FORD_BARO_V: 3.97849
-  response: 7E80562035A032E
+    FORD_BARO_V: 3.98827
+  response: 7E80562035A0330

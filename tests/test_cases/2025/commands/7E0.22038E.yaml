@@ -8,7 +8,7 @@ test_cases:
   response: 7E80562038E0501
 - expected_values:
     FORD_EVAP_V: 5
-  response: 7E80562038E07FE
+  response: 7E80562038E06FF
 - expected_values:
     FORD_EVAP_V: 5
   response: 7E80562038E0E04
