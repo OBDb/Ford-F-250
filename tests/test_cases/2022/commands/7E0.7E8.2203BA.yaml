@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2203BA
+test_cases:
+- expected_values:
+    FORD_AAT_V: 2.23363
+  response: 7E8056203BA01C9
+- expected_values:
+    FORD_AAT_V: 2.49267
+  response: 7E8056203BA01FE
+- expected_values:
+    FORD_AAT_V: 2.51222
+  response: 7E8056203BA0202
