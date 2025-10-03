@@ -64,7 +64,7 @@ test_cases:
     EGR_ENA: 0
     EVAPCMPL: 1
     EVAP_ENA: 1
-    FUEL_CMPL: 1
+    FUEL_CMPL: 0
     FUEL_ENA: 1
     HCATCMPL: 0
     HCAT_ENA: 0
@@ -74,7 +74,7 @@ test_cases:
     MIS_ENA: 1
     O2S_CMPL: 1
     O2S_ENA: 1
-  response: '7E806414100676565'
+  response: '7E806414100476565'
 - expected_values:
     ACRFCMPL: 0
     ACRF_ENA: 0
