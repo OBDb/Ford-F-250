@@ -1,8 +1,0 @@
-command_id: 7E0.220353
-test_cases:
-- expected_values:
-    FORD_BARO: 14.1396
-  response: '7E8056203530186'
-- expected_values:
-    FORD_BARO: 14.64717
-  response: '7E8056203530194'
