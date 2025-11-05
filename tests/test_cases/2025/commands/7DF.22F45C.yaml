@@ -1,0 +1,29 @@
+command_id: 7DF.22F45C
+test_cases:
+- expected_values:
+    FORD_EOP: 70
+  response: 7E80462F45C46
+- expected_values:
+    FORD_EOP: 73
+  response: 7E80462F45C49
+- expected_values:
+    FORD_EOP: 74
+  response: 7E80462F45C4A
+- expected_values:
+    FORD_EOP: 75
+  response: 7E80462F45C4B
+- expected_values:
+    FORD_EOP: 87
+  response: 7E80462F45C57
+- expected_values:
+    FORD_EOP: 88
+  response: 7E80462F45C58
+- expected_values:
+    FORD_EOP: 89
+  response: 7E80462F45C59
+- expected_values:
+    FORD_EOP: 92
+  response: 7E80462F45C5C
+- expected_values:
+    FORD_EOP: 95
+  response: 7E80462F45C5F
