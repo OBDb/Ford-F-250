@@ -1,0 +1,11 @@
+command_id: 7DF.221E23
+test_cases:
+- expected_values:
+    FORD_GEAR_SHFT_V2: 46
+  response: 7E904621E232E
+- expected_values:
+    FORD_GEAR_SHFT_V2: 60
+  response: 7E904621E233C
+- expected_values:
+    FORD_GEAR_SHFT_V2: 70
+  response: 7E904621E2346
