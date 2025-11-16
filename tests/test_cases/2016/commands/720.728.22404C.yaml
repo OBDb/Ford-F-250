@@ -7,8 +7,8 @@ test_cases:
     FORD_ODO_V3: 167231.8
   response: 7280662404C19847E
 - expected_values:
-    FORD_ODO_V3: 167247.7
-  response: 7280662404C19851D
-- expected_values:
     FORD_ODO_V3: 167266.6
   response: 7280662404C1985DA
+- expected_values:
+    FORD_ODO_V3: 167296.8
+  response: 7280662404C198708
