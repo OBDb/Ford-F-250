@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22DD01|fc=1
+test_cases:
+- expected_values:
+    FORD_ODO: 176459
+  response: 7E80662DD0102B14B
+- expected_values:
+    FORD_ODO: 176563
+  response: 7E80662DD0102B1B3
+- expected_values:
+    FORD_ODO: 176565
+  response: 7E80662DD0102B1B5
+- expected_values:
+    FORD_ODO: 176566
+  response: 7E80662DD0102B1B6
+- expected_values:
+    FORD_ODO: 176567
+  response: 7E80662DD0102B1B7
+- expected_values:
+    FORD_ODO: 176568
+  response: 7E80662DD0102B1B8
+- expected_values:
+    FORD_ODO: 176569
+  response: 7E80662DD0102B1B9
+- expected_values:
+    FORD_ODO: 176571
+  response: 7E80662DD0102B1BB
+- expected_values:
+    FORD_ODO: 176572
+  response: 7E80662DD0102B1BC
+- expected_values:
+    FORD_ODO: 176573
+  response: 7E80662DD0102B1BD
