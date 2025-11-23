@@ -4,5 +4,8 @@ test_cases:
     FORD_GEAR_SHFT_V2: 100
   response: 7E904621E2364
 - expected_values:
+    FORD_GEAR_SHFT_V2: 101
+  response: 7E904621E2365
+- expected_values:
     FORD_GEAR_SHFT_V2: 103
   response: 7E904621E2367
