@@ -5,10 +5,10 @@ test_cases:
   response: 7E8056203DC0960
 - expected_values:
     FORD_HPFP_DES: 3500
-  response: 7E8056203DC1300
+  response: 7E8056203DC0D00
 - expected_values:
     FORD_HPFP_DES: 3500
-  response: 7E8056203DC14FC
+  response: 7E8056203DC13FE
 - expected_values:
     FORD_HPFP_DES: 3500
   response: 7E8056203DC467C
