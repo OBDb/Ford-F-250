@@ -10,6 +10,9 @@ test_cases:
     FORD_12V_V: 12.3
   response: 72E0462402A7E
 - expected_values:
+    FORD_12V_V: 14.65
+  response: 72E0462402AAD
+- expected_values:
     FORD_12V_V: 14.7
   response: 72E0462402AAE
 - expected_values:
@@ -21,6 +24,9 @@ test_cases:
 - expected_values:
     FORD_12V_V: 14.85
   response: 72E0462402AB1
+- expected_values:
+    FORD_12V_V: 14.9
+  response: 72E0462402AB2
 - expected_values:
     FORD_12V_V: 15
   response: 72E0462402AB4
