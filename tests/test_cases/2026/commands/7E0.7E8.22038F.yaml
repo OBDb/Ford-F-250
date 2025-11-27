@@ -1,9 +1,13 @@
 command_id: 7E0.7E8.22038F
 test_cases:
 - expected_values:
-    FORD_ECT: 7.67188
-    FORD_[ECU] ECT: 7.67188
-  response: 7E80562038F01EB
+    FORD_ECT: 1.5625
+    FORD_[ECU] ECT: 1.5625
+  response: 7E80562038F0064
+- expected_values:
+    FORD_ECT: 8.17188
+    FORD_[ECU] ECT: 8.17188
+  response: 7E80562038F020B
 - expected_values:
     FORD_ECT: 15.96875
     FORD_[ECU] ECT: 15.96875
