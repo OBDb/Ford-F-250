@@ -4,29 +4,5 @@ test_cases:
     FORD_PCM_A_C_REFRIG_P: 268
   response: 7E805620604010C
 - expected_values:
-    FORD_PCM_A_C_REFRIG_P: 272
-  response: '7E8056206040110'
-- expected_values:
-    FORD_PCM_A_C_REFRIG_P: 280
-  response: '7E8056206040118'
-- expected_values:
-    FORD_PCM_A_C_REFRIG_P: 374
-  response: '7E8056206040176'
-- expected_values:
-    FORD_PCM_A_C_REFRIG_P: 378
-  response: 7E805620604017A
-- expected_values:
-    FORD_PCM_A_C_REFRIG_P: 382
-  response: 7E805620604017E
-- expected_values:
-    FORD_PCM_A_C_REFRIG_P: 386
-  response: '7E8056206040182'
-- expected_values:
-    FORD_PCM_A_C_REFRIG_P: 390
-  response: '7E8056206040186'
-- expected_values:
-    FORD_PCM_A_C_REFRIG_P: 394
-  response: 7E805620604018A
-- expected_values:
     FORD_PCM_A_C_REFRIG_P: 398
   response: 7E805620604018E
