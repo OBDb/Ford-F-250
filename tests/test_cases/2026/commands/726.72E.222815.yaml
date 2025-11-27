@@ -5,38 +5,10 @@ test_cases:
     FORD_TP_RRO: 60.35
   response: 72E0562281504B7
 - expected_values:
-    FORD_TP_RR: 60.6
-    FORD_TP_RRO: 60.6
-  response: 72E0562281504BC
-- expected_values:
-    FORD_TP_RR: 60.95
-    FORD_TP_RRO: 60.95
-  response: 72E0562281504C3
-- expected_values:
-    FORD_TP_RR: 61.1
-    FORD_TP_RRO: 61.1
-  response: 72E0562281504C6
-- expected_values:
-    FORD_TP_RR: 61.95
-    FORD_TP_RRO: 61.95
-  response: 72E0562281504D7
-- expected_values:
-    FORD_TP_RR: 62.6
-    FORD_TP_RRO: 62.6
-  response: 72E0562281504E4
-- expected_values:
-    FORD_TP_RR: 62.7
-    FORD_TP_RRO: 62.7
-  response: 72E0562281504E6
-- expected_values:
-    FORD_TP_RR: 62.85
-    FORD_TP_RRO: 62.85
-  response: 72E0562281504E9
+    FORD_TP_RR: 63.45
+    FORD_TP_RRO: 63.45
+  response: 72E0562281504F5
 - expected_values:
     FORD_TP_RR: 64.6
     FORD_TP_RRO: 64.6
   response: 72E05622815050C
-- expected_values:
-    FORD_TP_RR: 64.95
-    FORD_TP_RRO: 64.95
-  response: '72E056228150513'

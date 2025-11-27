@@ -20,6 +20,12 @@ test_cases:
   response: 7E804621E1F06
 - expected_values:
     FORD_GEAR_ENG: 6
+  response: 7E804621E1F07
+- expected_values:
+    FORD_GEAR_ENG: 6
+  response: 7E804621E1F08
+- expected_values:
+    FORD_GEAR_ENG: 6
   response: 7E804621E1F46
 - expected_values:
     FORD_GEAR_ENG: 6
