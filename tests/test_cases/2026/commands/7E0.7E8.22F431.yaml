@@ -4,29 +4,5 @@ test_cases:
     FORD_DIST_DTC_CLR: 10
   response: 7E80562F431000A
 - expected_values:
-    FORD_DIST_DTC_CLR: 11
-  response: 7E80562F431000B
-- expected_values:
-    FORD_DIST_DTC_CLR: 76
-  response: 7E80562F431004C
-- expected_values:
-    FORD_DIST_DTC_CLR: 77
-  response: 7E80562F431004D
-- expected_values:
-    FORD_DIST_DTC_CLR: 81
-  response: 7E80562F4310051
-- expected_values:
-    FORD_DIST_DTC_CLR: 82
-  response: 7E80562F4310052
-- expected_values:
-    FORD_DIST_DTC_CLR: 91
-  response: 7E80562F431005B
-- expected_values:
-    FORD_DIST_DTC_CLR: 92
-  response: 7E80562F431005C
-- expected_values:
-    FORD_DIST_DTC_CLR: 93
-  response: 7E80562F431005D
-- expected_values:
-    FORD_DIST_DTC_CLR: 94
-  response: 7E80562F431005E
+    FORD_DIST_DTC_CLR: 101
+  response: 7E80562F4310065
