@@ -4,8 +4,8 @@ test_cases:
     FORD_WGDC: 0
   response: '7E8056204620000'
 - expected_values:
-    FORD_WGDC: 2.22778
-  response: 7E80562046202DA
+    FORD_WGDC: 3.1189
+  response: 7E80562046203FE
 - expected_values:
     FORD_WGDC: 3.93982
   response: 7E805620462050B
