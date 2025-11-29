@@ -2,13 +2,13 @@ command_id: 7E0.7E8.2203DC
 test_cases:
 - expected_values:
     FORD_HPFP_DES: 3500
-  response: 7E8056203DC0B3C
-- expected_values:
-    FORD_HPFP_DES: 3500
-  response: 7E8056203DC1004
+  response: 7E8056203DC0B22
 - expected_values:
     FORD_HPFP_DES: 3500
   response: 7E8056203DC11FE
+- expected_values:
+    FORD_HPFP_DES: 3500
+  response: 7E8056203DC1D02
 - expected_values:
     FORD_HPFP_DES: 3500
   response: 7E8056203DC364A
