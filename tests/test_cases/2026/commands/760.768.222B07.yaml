@@ -4,5 +4,5 @@ test_cases:
     FORD_FL_VSS: 0
   response: 76804622B0700
 - expected_values:
-    FORD_FL_VSS: 66
-  response: 76804622B0742
+    FORD_FL_VSS: 81
+  response: 76804622B0751
