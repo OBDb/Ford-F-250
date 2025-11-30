@@ -4,5 +4,5 @@ test_cases:
     FORD_PCM_ACT_ENG_PCT_TRQ: 0
   response: 7E80462F4627D
 - expected_values:
-    FORD_PCM_ACT_ENG_PCT_TRQ: 26
-  response: 7E80462F46297
+    FORD_PCM_ACT_ENG_PCT_TRQ: 31
+  response: 7E80462F4629C
