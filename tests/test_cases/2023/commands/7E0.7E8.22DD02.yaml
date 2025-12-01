@@ -1,26 +1,8 @@
 command_id: 7E0.7E8.22DD02
 test_cases:
 - expected_values:
-    FORD_ECU_V: 4.9
-  response: 7E80462DD0231
+    FORD_ECU_V: 4.3
+  response: 7E80462DD022B
 - expected_values:
-    FORD_ECU_V: 5
-  response: 7E80462DD0232
-- expected_values:
-    FORD_ECU_V: 5.1
-  response: 7E80462DD0233
-- expected_values:
-    FORD_ECU_V: 5.2
-  response: 7E80462DD0234
-- expected_values:
-    FORD_ECU_V: 5.3
-  response: 7E80462DD0235
-- expected_values:
-    FORD_ECU_V: 5.4
-  response: 7E80462DD0236
-- expected_values:
-    FORD_ECU_V: 5.5
-  response: 7E80462DD0237
-- expected_values:
-    FORD_ECU_V: 5.6
-  response: 7E80462DD0238
+    FORD_ECU_V: 5.8
+  response: 7E80462DD023A
