@@ -1,0 +1,17 @@
+command_id: 760.768.22DD01
+test_cases:
+- expected_values:
+    FORD_ODO_BCM: 25345
+  response: 7680662DD01006301
+- expected_values:
+    FORD_ODO_BCM: 25346
+  response: 7680662DD01006302
+- expected_values:
+    FORD_ODO_BCM: 25347
+  response: 7680662DD01006303
+- expected_values:
+    FORD_ODO_BCM: 25348
+  response: 7680662DD01006304
+- expected_values:
+    FORD_ODO_BCM: 25349
+  response: 7680662DD01006305
