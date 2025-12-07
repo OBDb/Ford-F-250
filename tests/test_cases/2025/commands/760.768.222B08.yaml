@@ -4,29 +4,5 @@ test_cases:
     FORD_RR_VSS: 0
   response: 76804622B0800
 - expected_values:
-    FORD_RR_VSS: 1
-  response: 76804622B0801
-- expected_values:
-    FORD_RR_VSS: 4
-  response: 76804622B0804
-- expected_values:
-    FORD_RR_VSS: 5
-  response: 76804622B0805
-- expected_values:
-    FORD_RR_VSS: 6
-  response: 76804622B0806
-- expected_values:
-    FORD_RR_VSS: 10
-  response: 76804622B080A
-- expected_values:
-    FORD_RR_VSS: 14
-  response: 76804622B080E
-- expected_values:
-    FORD_RR_VSS: 23
-  response: 76804622B0817
-- expected_values:
-    FORD_RR_VSS: 52
-  response: 76804622B0834
-- expected_values:
-    FORD_RR_VSS: 57
-  response: 76804622B0839
+    FORD_RR_VSS: 144
+  response: 76804622B0890
