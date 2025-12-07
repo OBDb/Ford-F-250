@@ -1,11 +1,11 @@
 command_id: 760.768.222B11
 test_cases:
 - expected_values:
-    FORD_LAT_G: 0.2
-  response: 76805622B11000A
+    FORD_LAT_G: 0
+  response: 76805622B110000
 - expected_values:
     FORD_LAT_G: -1
-  response: 76805622B11FF7D
+  response: 76805622B11FF51
 - expected_values:
-    FORD_LAT_G: -0.16
-  response: 76805622B11FFF8
+    FORD_LAT_G: -0.04
+  response: 76805622B11FFFE
