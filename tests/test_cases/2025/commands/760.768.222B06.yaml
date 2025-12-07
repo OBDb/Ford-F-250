@@ -1,0 +1,32 @@
+command_id: 760.768.222B06
+test_cases:
+- expected_values:
+    FORD_FR_VSS: 0
+  response: 76804622B0600
+- expected_values:
+    FORD_FR_VSS: 2
+  response: 76804622B0602
+- expected_values:
+    FORD_FR_VSS: 5
+  response: 76804622B0605
+- expected_values:
+    FORD_FR_VSS: 7
+  response: 76804622B0607
+- expected_values:
+    FORD_FR_VSS: 8
+  response: 76804622B0608
+- expected_values:
+    FORD_FR_VSS: 17
+  response: 76804622B0611
+- expected_values:
+    FORD_FR_VSS: 22
+  response: 76804622B0616
+- expected_values:
+    FORD_FR_VSS: 23
+  response: 76804622B0617
+- expected_values:
+    FORD_FR_VSS: 52
+  response: 76804622B0634
+- expected_values:
+    FORD_FR_VSS: 55
+  response: 76804622B0637

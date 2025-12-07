@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.221E19
+test_cases:
+- expected_values:
+    FORD_PCM_CMD_TRANS_GEAR_RATIO: 0.85133
+  response: 7E805621E190D9F
+- expected_values:
+    FORD_PCM_CMD_TRANS_GEAR_RATIO: 1.00002
+  response: 7E805621E191000
+- expected_values:
+    FORD_PCM_CMD_TRANS_GEAR_RATIO: 1.51882
+  response: 7E805621E19184D
+- expected_values:
+    FORD_PCM_CMD_TRANS_GEAR_RATIO: 1.77322
+  response: 7E805621E191C5F
+- expected_values:
+    FORD_PCM_CMD_TRANS_GEAR_RATIO: 2.13187
+  response: 7E805621E19221C
+- expected_values:
+    FORD_PCM_CMD_TRANS_GEAR_RATIO: 2.9185
+  response: 7E805621E192EB2
+- expected_values:
+    FORD_PCM_CMD_TRANS_GEAR_RATIO: 4.6153
+  response: 7E805621E1949D8
