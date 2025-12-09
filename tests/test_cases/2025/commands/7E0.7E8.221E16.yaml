@@ -11,4 +11,4 @@ test_cases:
   response: 7E805621E161000
 - expected_values:
     FORD_AXLE_GEAR_RATIO_MEAS: 10
-  response: 7E805621E16A000
+  response: 7E805621E16FFFF

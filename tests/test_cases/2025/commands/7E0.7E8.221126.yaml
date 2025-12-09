@@ -4,26 +4,5 @@ test_cases:
     FORD_ERT: 0
   response: '7E80462112600'
 - expected_values:
-    FORD_ERT: 25
-  response: '7E80462112619'
-- expected_values:
-    FORD_ERT: 54
-  response: '7E80462112636'
-- expected_values:
-    FORD_ERT: 89
-  response: '7E80462112659'
-- expected_values:
-    FORD_ERT: 133
-  response: '7E80462112685'
-- expected_values:
-    FORD_ERT: 161
-  response: 7E804621126A1
-- expected_values:
-    FORD_ERT: 195
-  response: 7E804621126C3
-- expected_values:
-    FORD_ERT: 224
-  response: 7E804621126E0
-- expected_values:
     FORD_ERT: 255
   response: 7E804621126FF

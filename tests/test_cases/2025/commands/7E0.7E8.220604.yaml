@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.220604
 test_cases:
 - expected_values:
-    FORD_PCM_A_C_REFRIG_P: 282
-  response: 7E805620604011A
+    FORD_PCM_A_C_REFRIG_P: 216
+  response: 7E80562060400D8
 - expected_values:
-    FORD_PCM_A_C_REFRIG_P: 370
-  response: '7E8056206040172'
+    FORD_PCM_A_C_REFRIG_P: 253
+  response: 7E80562060400FD
+- expected_values:
+    FORD_PCM_A_C_REFRIG_P: 258
+  response: '7E8056206040102'
