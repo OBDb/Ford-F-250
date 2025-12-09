@@ -4,5 +4,8 @@ test_cases:
     FORD_IGN_TIM_CYL1: 2.5
   response: 7E80562116B000A
 - expected_values:
-    FORD_IGN_TIM_CYL1: 40.5
-  response: 7E80562116B00A2
+    FORD_IGN_TIM_CYL1: -26.5
+  response: 7E80562116BFF96
+- expected_values:
+    FORD_IGN_TIM_CYL1: -3.5
+  response: 7E80562116BFFF2
