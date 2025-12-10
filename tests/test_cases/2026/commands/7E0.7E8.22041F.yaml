@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22041F
 test_cases:
 - expected_values:
+    FORD_LPFP_DES: 70.47
+  response: 7E80462041FA2
+- expected_values:
     FORD_LPFP_DES: 70.905
   response: 7E80462041FA3
 - expected_values:
