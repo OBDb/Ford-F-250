@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.224194
 test_cases:
 - expected_values:
-    FORD_DTE: 366.3
-  response: 7E8056241940E4F
+    FORD_DTE: 338.8
+  response: 7E8056241940D3C
 - expected_values:
     FORD_DTE: 409.5
   response: 7E8056241940FFF
