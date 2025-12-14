@@ -6,3 +6,15 @@ test_cases:
 - expected_values:
     FORD_MAP: 14.21382
   response: 7E80462F40B62
+- expected_values:
+    FORD_MAP: 14.35886
+  response: 7E80462F40B63
+- expected_values:
+    FORD_MAP: 14.50389
+  response: 7E80462F40B64
+- expected_values:
+    FORD_MAP: 14.64893
+  response: 7E80462F40B65
+- expected_values:
+    FORD_MAP: 18.71002
+  response: 7E80462F40B81
