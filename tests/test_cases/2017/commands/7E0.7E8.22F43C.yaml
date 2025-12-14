@@ -3,3 +3,24 @@ test_cases:
 - expected_values:
     FORD_CAT_TEMP: 84.6
   response: 7E80562F43C04DE
+- expected_values:
+    FORD_CAT_TEMP: 87.3
+  response: 7E80562F43C04F9
+- expected_values:
+    FORD_CAT_TEMP: 87.8
+  response: 7E80562F43C04FE
+- expected_values:
+    FORD_CAT_TEMP: 88.3
+  response: 7E80562F43C0503
+- expected_values:
+    FORD_CAT_TEMP: 104.6
+  response: 7E80562F43C05A6
+- expected_values:
+    FORD_CAT_TEMP: 109.9
+  response: 7E80562F43C05DB
+- expected_values:
+    FORD_CAT_TEMP: 129.8
+  response: 7E80562F43C06A2
+- expected_values:
+    FORD_CAT_TEMP: 138.6
+  response: 7E80562F43C06FA
