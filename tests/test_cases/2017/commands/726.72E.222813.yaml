@@ -4,5 +4,5 @@ test_cases:
     FORD_TP_FL: 58
   response: '72E056228130488'
 - expected_values:
-    FORD_TP_FL: 64.4
-  response: '72E056228130508'
+    FORD_TP_FL: 64.25
+  response: '72E056228130505'
