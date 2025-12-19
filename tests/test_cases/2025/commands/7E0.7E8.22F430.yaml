@@ -4,5 +4,5 @@ test_cases:
     FORD_WARMUP_CLR: 156
   response: 7E80462F4309C
 - expected_values:
-    FORD_WARMUP_CLR: 194
-  response: 7E80462F430C2
+    FORD_WARMUP_CLR: 195
+  response: 7E80462F430C3
