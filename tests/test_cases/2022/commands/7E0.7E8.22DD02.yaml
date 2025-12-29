@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.22DD02
 test_cases:
 - expected_values:
+    FORD_ECU_V: 5.1
+  response: 7E80462DD0233
+- expected_values:
     FORD_ECU_V: 5.8
   response: 7E80462DD023A
