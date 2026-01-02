@@ -10,5 +10,5 @@ test_cases:
     FORD_ODO_BCM: 91647
   response: 7680662DD010165FF
 - expected_values:
-    FORD_ODO_BCM: 96768
-  response: 7680662DD01017A00
+    FORD_ODO_BCM: 97024
+  response: 7680662DD01017B00
