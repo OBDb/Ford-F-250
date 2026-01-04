@@ -4,8 +4,8 @@ test_cases:
     FORD_ENG_LOAD_ACT: 0
   response: 7E80562F4430000
 - expected_values:
-    FORD_ENG_LOAD_ACT: 91.76471
-  response: 7E80562F44300EA
+    FORD_ENG_LOAD_ACT: 97.2549
+  response: 7E80562F44300F8
 - expected_values:
     FORD_ENG_LOAD_ACT: 101.96078
   response: 7E80562F4430104
