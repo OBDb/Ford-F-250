@@ -15,5 +15,5 @@ test_cases:
     7E80662DD01017A65
     7E90662DD01017A65
 - expected_values:
-    FORD_ODO: 98304
-  response: 7E80662DD01018000
+    FORD_ODO: 98560
+  response: 7E80662DD01018100
