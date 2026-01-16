@@ -1,0 +1,8 @@
+command_id: 7DF.22F45C
+test_cases:
+- expected_values:
+    FORD_EOP: 78
+  response: 7E80462F45C4E
+- expected_values:
+    FORD_EOP: 107
+  response: 7E80462F45C6B
