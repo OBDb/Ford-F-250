@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.220604
+test_cases:
+- expected_values:
+    FORD_PCM_A_C_REFRIG_P: 195
+  response: 7E80562060400C3
+- expected_values:
+    FORD_PCM_A_C_REFRIG_P: 200
+  response: 7E80562060400C8
+- expected_values:
+    FORD_PCM_A_C_REFRIG_P: 204
+  response: 7E80562060400CC
+- expected_values:
+    FORD_PCM_A_C_REFRIG_P: 216
+  response: 7E80562060400D8
+- expected_values:
+    FORD_PCM_A_C_REFRIG_P: 220
+  response: 7E80562060400DC
+- expected_values:
+    FORD_PCM_A_C_REFRIG_P: 229
+  response: 7E80562060400E5
+- expected_values:
+    FORD_PCM_A_C_REFRIG_P: 233
+  response: 7E80562060400E9
