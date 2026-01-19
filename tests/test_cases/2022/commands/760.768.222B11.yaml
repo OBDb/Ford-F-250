@@ -4,14 +4,8 @@ test_cases:
     FORD_LAT_G: 0.14
   response: 76805622B110007
 - expected_values:
-    FORD_LAT_G: 0.16
-  response: 76805622B110008
+    FORD_LAT_G: -0.28
+  response: 76805622B11FFF2
 - expected_values:
-    FORD_LAT_G: 0.18
-  response: 76805622B110009
-- expected_values:
-    FORD_LAT_G: 0.36
-  response: 76805622B110012
-- expected_values:
-    FORD_LAT_G: 0.42
-  response: 76805622B110015
+    FORD_LAT_G: -0.24
+  response: 76805622B11FFF4
