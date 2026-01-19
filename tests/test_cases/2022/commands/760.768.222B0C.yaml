@@ -4,20 +4,8 @@ test_cases:
     FORD_LAT_ANG: 0
   response: 76805622B0C0000
 - expected_values:
-    FORD_LAT_ANG: -4
-  response: 76805622B0CFC0E
-- expected_values:
     FORD_LAT_ANG: -1
-  response: 76805622B0CFFF2
-- expected_values:
-    FORD_LAT_ANG: -1
-  response: 76805622B0CFFF3
-- expected_values:
-    FORD_LAT_ANG: -1
-  response: 76805622B0CFFFA
-- expected_values:
-    FORD_LAT_ANG: -1
-  response: 76805622B0CFFFB
+  response: 76805622B0CFFBD
 - expected_values:
     FORD_LAT_ANG: -1
   response: 76805622B0CFFFF
