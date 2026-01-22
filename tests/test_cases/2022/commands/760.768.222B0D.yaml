@@ -15,3 +15,12 @@ test_cases:
 - expected_values:
     FORD_BRK_FL_P: 0
   response: 76805622B0D002C
+- expected_values:
+    FORD_BRK_FL_P: 0
+  response: 76805622B0D002D
+- expected_values:
+    FORD_BRK_FL_P: 0
+  response: 76805622B0D0032
+- expected_values:
+    FORD_BRK_FL_P: 0
+  response: 76805622B0D0054
