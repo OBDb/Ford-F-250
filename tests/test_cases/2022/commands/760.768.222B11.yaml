@@ -7,5 +7,5 @@ test_cases:
     FORD_LAT_G: -1
   response: 76805622B11FF3B
 - expected_values:
-    FORD_LAT_G: -0.1
-  response: 76805622B11FFFB
+    FORD_LAT_G: -0.06
+  response: 76805622B11FFFD
