@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22054B
 test_cases:
 - expected_values:
-    FORD_PCM_ENG_OIL_LIFE_REM: 57
-  response: 7E80462054B39
+    FORD_PCM_ENG_OIL_LIFE_REM: 56
+  response: 7E80462054B38
 - expected_values:
     FORD_PCM_ENG_OIL_LIFE_REM: 81
   response: 7E80462054B51
