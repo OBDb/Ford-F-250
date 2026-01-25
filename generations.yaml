@@ -1,25 +1,23 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_Super_Duty"
+
 generations:
-  - name: "F-Series Super Duty First Generation"
+  - name: "First Generation"
     start_year: 1999
     end_year: 2007
-    description: "The first-generation Super Duty F-250 marked Ford's strategic separation of its heavy-duty trucks from the standard F-150 lineup. With a distinctive appearance featuring a larger grille, higher hood line, and more robust styling cues, it established a visual identity for Ford's work-focused trucks. Available in Regular Cab, SuperCab, and Crew Cab configurations with various bed options, it was designed specifically for commercial use and heavy towing/hauling applications. Engine options included a 5.4L Triton V8, 6.8L Triton V10, and the renowned 7.3L Power Stroke diesel (replaced by a 6.0L Power Stroke in 2003). The interior balanced functionality with comfort, featuring easy-to-use controls and durable materials, with luxury elements in higher trims. This generation established the Super Duty's reputation for capability, with class-leading towing and payload capacities, while creating a distinct heavy-duty truck identity separate from the more consumer-focused F-150."
+    description: "First generation Ford Super Duty F-250 pickup truck. Produced January 1998 - 2006 (US). Featured dedicated heavy-duty chassis separate from F-150. Available with 5.4L Triton V8, 6.8L Triton V10, and Power Stroke diesel engines (7.3L 1999-2003, 6.0L 2003-2007)."
 
-  - name: "F-Series Super Duty Second Generation"
+  - name: "Second Generation"
     start_year: 2008
     end_year: 2010
-    description: "The second-generation Super Duty F-250 featured evolutionary exterior styling with a bolder, more imposing front end and improved aerodynamics. The fully boxed frame was significantly strengthened, enhancing towing and payload capacities. Engine options carried over the 5.4L V8 and 6.8L V10 gasoline engines, while the diesel option transitioned to a new 6.4L Power Stroke with improved emissions control and performance. The interior saw significant improvements in design, material quality, and feature content, especially in upscale King Ranch and Lariat trims. New technology features included an integrated trailer brake controller and enhanced towing packages. Despite its relatively short production run, this generation maintained Ford's strong position in the heavy-duty truck market while addressing emissions requirements that had become more stringent for diesel engines."
+    description: "Second generation Ford Super Duty F-250 pickup truck. Production December 2006 - February 2010. Featured all-new 6.4L Power Stroke diesel engine, redesigned interior with Ford SYNC availability in 2009, and updated exterior styling. Final year for 6.8L V10 in F-250."
 
-  - name: "F-Series Super Duty Third Generation"
+  - name: "Third Generation"
     start_year: 2011
     end_year: 2016
-    description: "The third-generation Super Duty F-250 introduced Ford's in-house designed and built 6.7L Power Stroke diesel engine, replacing the previous Navistar-sourced diesels. This new engine offered improved power, efficiency, and reliability. Gasoline options evolved to a 6.2L V8 replacing both the 5.4L V8 and 6.8L V10. The exterior design featured a larger grille and more pronounced styling elements to emphasize its heavy-duty capabilities. The interior continued to advance with improved materials, design, and technology, including the introduction of SYNC infotainment systems. New features included a factory-installed fifth-wheel/gooseneck prep package and advanced towing assist technology. This generation successfully established Ford's independence in diesel engine development and strengthened the Super Duty's position as a capability leader in the heavy-duty segment."
+    description: "Third generation Ford Super Duty F-250 pickup truck. Production October 2010 - March 2016. Featured all-new 6.7L Power Stroke V8 diesel engine, improved towing capacity, and updated interior with MyFord Touch infotainment system. Introduced Platinum trim level in 2013."
 
-  - name: "F-Series Super Duty Fourth Generation"
+  - name: "Fourth Generation"
     start_year: 2017
-    end_year: 2022
-    description: "The fourth-generation Super Duty F-250 introduced an aluminum body construction similar to the F-150, resulting in weight savings of up to 350 pounds that could be reinvested in strengthened components for improved capability. The fully boxed frame was made of 95% high-strength steel and significantly more rigid than its predecessor. The 6.7L Power Stroke diesel received substantial updates for increased power and torque, eventually reaching 475 HP and 1,050 lb-ft of torque in later model years. The 6.2L gasoline V8 continued as the standard engine, with a 7.3L gasoline V8 added in 2020 as a middle option between the base engine and diesel. The interior offered luxury appointments rivaling high-end sedans in top trims, with advanced technology including SYNC 3, adaptive cruise control, and 360-degree camera systems. This generation established new benchmarks for heavy-duty truck capability while offering unprecedented levels of technology and refinement."
-
-  - name: "F-Series Super Duty Fifth Generation"
-    start_year: 2023
-    end_year: null
-    description: "The current Super Duty F-250 features evolutionary exterior styling with functional improvements including more powerful lighting, enhanced utility with built-in bed steps, and improved aerodynamics. Powertrain options continue with a standard 6.8L V8 (replacing the 6.2L), optional 7.3L Godzilla V8, and thoroughly updated 6.7L Power Stroke diesel plus a new high-output version producing 500 HP and 1,200 lb-ft of torque. All engines are paired with a 10-speed automatic transmission. The strengthened chassis enables best-in-class towing capabilities exceeding 40,000 pounds for properly equipped F-450 models. The interior features a comprehensive technology update with a 12-inch digital instrument cluster, 12-inch center touchscreen running SYNC 4, and new convenience features like a head-up display and configurable interior work surface. Advanced driver assistance features include trailer-specific aids, a blind spot system that accounts for trailer length, and navigation with trailer-routing capability. This generation focuses on improving productivity for commercial users while maintaining the comfort and technology expected in a modern truck, reinforcing Ford's leadership in the heavy-duty segment."
+    end_year: 2025
+    description: "Fourth generation Ford Super Duty F-250 pickup truck. Production began September 2016 for 2017 model year and continues to present. Features all-aluminum body, second-generation 6.7L Power Stroke diesel with improved output, and new Pro Trailer Backup Assist technology."
