@@ -5,6 +5,6 @@ test_cases:
     FORD_BATT_AGE: 787
   response: '72E056240270313'
 - expected_values:
-    FORD_12V_AGE: 20544
-    FORD_BATT_AGE: 856
-  response: '72E056240270358'
+    FORD_12V_AGE: 20568
+    FORD_BATT_AGE: 857
+  response: '72E056240270359'
