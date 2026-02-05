@@ -8,4 +8,4 @@ test_cases:
   response: 76805622B1100FF
 - expected_values:
     FORD_LAT_G: -1
-  response: 76805622B11FF05
+  response: 76805622B11FF04
