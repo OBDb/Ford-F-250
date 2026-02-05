@@ -9,6 +9,11 @@ test_cases:
     7E804621E1201
     7E904621E1201
 - expected_values:
+    FORD_GEAR: '9'
+  response: |-
+    7E804621E1209
+    7E904621E120A
+- expected_values:
     FORD_GEAR: '10'
   response: 7E804621E120A
 - expected_values:
@@ -17,7 +22,7 @@ test_cases:
     7E804621E120A
     7E904621E120A
 - expected_values:
-    FORD_GEAR: '5'
+    FORD_GEAR: '3'
   response: |-
-    7E904621E1205
-    7E804621E1205
+    7E904621E1203
+    7E804621E1203
