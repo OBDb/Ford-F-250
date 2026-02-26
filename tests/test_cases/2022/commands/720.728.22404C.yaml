@@ -1,8 +1,8 @@
 command_id: 720.728.22404C
 test_cases:
 - expected_values:
-    FORD_ODO_V2: 119834.9
-  response: 7280662404C12490D
+    FORD_ODO_V2: 78292.4
+  response: 7280662404C0BF24C
 - expected_values:
     FORD_ODO_V2: 119910.3
   response: 7280662404C124BFF
@@ -15,6 +15,3 @@ test_cases:
 - expected_values:
     FORD_ODO_V2: 153687.8
   response: 7280662404C17736E
-- expected_values:
-    FORD_ODO_V2: 155614.3
-  response: 7280662404C17BEAF
