@@ -7,5 +7,5 @@ test_cases:
     FORD_TIP_DES_ABS: 10.49335
   response: 7E805620466250C
 - expected_values:
-    FORD_TIP_DES_ABS: 42.24557
-  response: '7E8056204669526'
+    FORD_TIP_DES_ABS: 42.82644
+  response: '7E8056204669733'
