@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     FORD_ODO_V2: 334029.2
   response: 7280662404C32F804
+- expected_values:
+    FORD_ODO_V2: 752058.4
+  response: 7280662404C72C148
