@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.220460
+test_cases:
+- expected_values:
+    FORD_CAT_SENS_V: 2.89746
+  response: 7E8056204600B97
+- expected_values:
+    FORD_CAT_SENS_V: 2.90234
+  response: 7E8056204600B9C
+- expected_values:
+    FORD_CAT_SENS_V: 2.90723
+  response: 7E8056204600BA1
+- expected_values:
+    FORD_CAT_SENS_V: 2.91211
+  response: 7E8056204600BA6
+- expected_values:
+    FORD_CAT_SENS_V: 2.91699
+  response: 7E8056204600BAB
+- expected_values:
+    FORD_CAT_SENS_V: 2.92188
+  response: 7E8056204600BB0
+- expected_values:
+    FORD_CAT_SENS_V: 2.93164
+  response: 7E8056204600BBA
+- expected_values:
+    FORD_CAT_SENS_V: 2.96582
+  response: 7E8056204600BDD
