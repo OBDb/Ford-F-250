@@ -5,3 +5,8 @@ test_cases:
   response: |-
     7E804621E1232
     7E904621E1201
+- expected_values:
+    FORD_GEAR_V2: 1
+  response: |-
+    7E804621E1246
+    7E904621E1201
