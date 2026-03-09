@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.221505
+test_cases:
+- expected_values:
+    FORD_VSS_HD: 37.66406
+  response: 7E80562150512D5
+- expected_values:
+    FORD_VSS_HD: 51.19531
+  response: '7E8056215051999'
+- expected_values:
+    FORD_VSS_HD: 53.22656
+  response: 7E8056215051A9D
+- expected_values:
+    FORD_VSS_HD: 54.23438
+  response: 7E8056215051B1E
+- expected_values:
+    FORD_VSS_HD: 57.00781
+  response: 7E8056215051C81
+- expected_values:
+    FORD_VSS_HD: 57.39844
+  response: 7E8056215051CB3
+- expected_values:
+    FORD_VSS_HD: 60.39062
+  response: 7E8056215051E32
+- expected_values:
+    FORD_VSS_HD: 60.54688
+  response: 7E8056215051E46
+- expected_values:
+    FORD_VSS_HD: 69.04688
+  response: '7E8056215052286'

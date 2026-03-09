@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22F4A6
+test_cases:
+- expected_values:
+    FORD_PCM_VEH_ODO: 173015.9
+  response: 7E80762F4A6001A666F
+- expected_values:
+    FORD_PCM_VEH_ODO: 173016.6
+  response: 7E80762F4A6001A6676
+- expected_values:
+    FORD_PCM_VEH_ODO: 173016.8
+  response: 7E80762F4A6001A6678
+- expected_values:
+    FORD_PCM_VEH_ODO: 173017.2
+  response: 7E80762F4A6001A667C
+- expected_values:
+    FORD_PCM_VEH_ODO: 173017.7
+  response: 7E80762F4A6001A6681
+- expected_values:
+    FORD_PCM_VEH_ODO: 173018.2
+  response: 7E80762F4A6001A6686
+- expected_values:
+    FORD_PCM_VEH_ODO: 173018.7
+  response: 7E80762F4A6001A668B
+- expected_values:
+    FORD_PCM_VEH_ODO: 173019
+  response: 7E80762F4A6001A668E
+- expected_values:
+    FORD_PCM_VEH_ODO: 173019.5
+  response: 7E80762F4A6001A6693

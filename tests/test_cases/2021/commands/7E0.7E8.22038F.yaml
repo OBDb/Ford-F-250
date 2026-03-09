@@ -1,0 +1,38 @@
+command_id: 7E0.7E8.22038F
+test_cases:
+- expected_values:
+    FORD_ECT: 85.20312
+    FORD_[ECU] ECT: 85.20312
+  response: 7E80562038F154D
+- expected_values:
+    FORD_ECT: 85.25
+    FORD_[ECU] ECT: 85.25
+  response: 7E80562038F1550
+- expected_values:
+    FORD_ECT: 85.73438
+    FORD_[ECU] ECT: 85.73438
+  response: 7E80562038F156F
+- expected_values:
+    FORD_ECT: 85.8125
+    FORD_[ECU] ECT: 85.8125
+  response: 7E80562038F1574
+- expected_values:
+    FORD_ECT: 86.10938
+    FORD_[ECU] ECT: 86.10938
+  response: 7E80562038F1587
+- expected_values:
+    FORD_ECT: 86.29688
+    FORD_[ECU] ECT: 86.29688
+  response: 7E80562038F1593
+- expected_values:
+    FORD_ECT: 86.54688
+    FORD_[ECU] ECT: 86.54688
+  response: 7E80562038F15A3
+- expected_values:
+    FORD_ECT: 86.65625
+    FORD_[ECU] ECT: 86.65625
+  response: 7E80562038F15AA
+- expected_values:
+    FORD_ECT: 86.8125
+    FORD_[ECU] ECT: 86.8125
+  response: 7E80562038F15B4
