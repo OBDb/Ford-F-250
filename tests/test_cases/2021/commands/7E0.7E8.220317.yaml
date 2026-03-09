@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.220317
+test_cases:
+- expected_values:
+    FORD_VCT_EXH_DUTY: 0
+  response: '7E8056203170000'
+- expected_values:
+    FORD_VCT_EXH_DUTY: 47.1405
+  response: 7E8056203173C57
+- expected_values:
+    FORD_VCT_EXH_DUTY: 52.99072
+  response: 7E80562031743D4
+- expected_values:
+    FORD_VCT_EXH_DUTY: 96.07544
+  response: 7E8056203177AFA
+- expected_values:
+    FORD_VCT_EXH_DUTY: 96.14258
+  response: 7E8056203177B10
+- expected_values:
+    FORD_VCT_EXH_DUTY: 96.15784
+  response: 7E8056203177B15
+- expected_values:
+    FORD_VCT_EXH_DUTY: 96.42334
+  response: 7E8056203177B6C
