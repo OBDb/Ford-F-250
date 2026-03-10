@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22093C
+test_cases:
+- expected_values:
+    FORD_ETC_ANG_ACT: 8.17188
+  response: 7E80562093C1058
+- expected_values:
+    FORD_ETC_ANG_ACT: 8.17969
+  response: 7E80562093C105C
