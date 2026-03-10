@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22035F
+test_cases:
+- expected_values:
+    FORD_RO2_V: 1
+  response: 7E80562035F066D
+- expected_values:
+    FORD_RO2_V: 1
+  response: 7E80562035F066E
