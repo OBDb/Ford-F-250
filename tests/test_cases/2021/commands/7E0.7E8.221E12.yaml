@@ -12,10 +12,10 @@ test_cases:
     FORD_GEAR: '2'
   response: 7E804621E1202
 - expected_values:
-    FORD_GEAR: '6'
-  response: |-
-    7E804621E1206
-    7E904621E1206
+    FORD_GEAR: '9'
+  response: 7E804621E1209
 - expected_values:
-    FORD_GEAR: '7'
-  response: 7E804621E1207
+    FORD_GEAR: '9'
+  response: |-
+    7E804621E1209
+    7E904621E1209
