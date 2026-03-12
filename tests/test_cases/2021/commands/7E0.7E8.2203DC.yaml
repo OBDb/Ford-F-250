@@ -11,4 +11,4 @@ test_cases:
   response: 7E8056203DC21FA
 - expected_values:
     FORD_HPFP_DES: 3500
-  response: 7E8056203DC2F1A
+  response: 7E8056203DC3540
