@@ -4,11 +4,11 @@ test_cases:
     FORD_RUN_TIME: 18
   response: 7E80562F41F0012
 - expected_values:
-    FORD_RUN_TIME: 257
-  response: 7E80562F41F0101
-- expected_values:
     FORD_RUN_TIME: 2815
   response: 7E80562F41F0AFF
 - expected_values:
-    FORD_RUN_TIME: 4111
-  response: 7E80562F41F100F
+    FORD_RUN_TIME: 4352
+  response: 7E80562F41F1100
+- expected_values:
+    FORD_RUN_TIME: 5639
+  response: 7E80562F41F1607
