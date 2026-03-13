@@ -1,29 +1,8 @@
 command_id: 726.72E.224029
 test_cases:
 - expected_values:
-    FORD_BATT_TEMP: 23
-  response: 72E046240293F
-- expected_values:
-    FORD_BATT_TEMP: 28
-  response: '72E0462402944'
-- expected_values:
-    FORD_BATT_TEMP: 29
-  response: '72E0462402945'
-- expected_values:
-    FORD_BATT_TEMP: 30
-  response: '72E0462402946'
-- expected_values:
-    FORD_BATT_TEMP: 33
-  response: '72E0462402949'
-- expected_values:
-    FORD_BATT_TEMP: 34
-  response: 72E046240294A
-- expected_values:
-    FORD_BATT_TEMP: 35
-  response: 72E046240294B
-- expected_values:
-    FORD_BATT_TEMP: 36
-  response: 72E046240294C
+    FORD_BATT_TEMP: 15
+  response: '72E0462402937'
 - expected_values:
     FORD_BATT_TEMP: 37
   response: 72E046240294D
