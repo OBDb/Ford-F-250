@@ -4,8 +4,8 @@ test_cases:
     FORD_LPFP_SENS_V: 0.49707
   response: 7E80562054D01FD
 - expected_values:
-    FORD_LPFP_SENS_V: 2.08594
-  response: 7E80562054D0858
+    FORD_LPFP_SENS_V: 2.08301
+  response: 7E80562054D0855
 - expected_values:
     FORD_LPFP_SENS_V: 2.43945
   response: 7E80562054D09C2

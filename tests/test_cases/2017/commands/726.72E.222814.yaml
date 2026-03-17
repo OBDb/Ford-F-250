@@ -4,8 +4,8 @@ test_cases:
     FORD_TP_FR: 53.75
   response: '72E056228140433'
 - expected_values:
-    FORD_TP_FR: 62.5
-  response: 72E0562281404E2
+    FORD_TP_FR: 63.75
+  response: 72E0562281404FB
 - expected_values:
     FORD_TP_FR: 64
   response: '72E056228140500'
