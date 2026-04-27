@@ -12,3 +12,7 @@ test_cases:
     FORD_TIP_V: 1.26465
     FORD_[ECU] TIP SENSOR VOLTAGE: 1.26465
   response: 7E80562033C0103
+- expected_values:
+    FORD_TIP_V: 2.9541
+    FORD_[ECU] TIP SENSOR VOLTAGE: 2.9541
+  response: 7E80562033C025D
