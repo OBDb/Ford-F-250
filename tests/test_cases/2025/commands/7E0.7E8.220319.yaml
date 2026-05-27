@@ -8,4 +8,4 @@ test_cases:
   response: 7E80562031900FF
 - expected_values:
     FORD_VCT_EXH_ACT: 50
-  response: 7E805620319FFD6
+  response: 7E805620319FFCF
