@@ -4,5 +4,10 @@ test_cases:
     FORD_KS2_RAW: 16
   response: '7E8056204040010'
 - expected_values:
+    FORD_KS2_RAW: 45
+  response: |-
+    7E805620404002D
+    7E805620404002D
+- expected_values:
     FORD_KS2_RAW: 999
   response: 7E80562040403E7
