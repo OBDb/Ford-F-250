@@ -11,3 +11,8 @@ test_cases:
 - expected_values:
     FORD_GEAR: '10'
   response: 7E804621E120A
+- expected_values:
+    FORD_GEAR: '10'
+  response: |-
+    7E804621E120A
+    7E804621E120A
