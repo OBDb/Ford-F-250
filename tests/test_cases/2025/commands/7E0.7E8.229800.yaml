@@ -10,5 +10,5 @@ test_cases:
     FORD_AC_P_SENS_V: 1.49902
   response: 7E80562980005FF
 - expected_values:
-    FORD_AC_P_SENS_V: 2.14844
-  response: '7E8056298000898'
+    FORD_AC_P_SENS_V: 2.00195
+  response: '7E8056298000802'
