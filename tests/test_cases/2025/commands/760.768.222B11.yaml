@@ -4,6 +4,11 @@ test_cases:
     FORD_LAT_G: 0
   response: 76805622B110000
 - expected_values:
+    FORD_LAT_G: 0.4
+  response: |-
+    76805622B110014
+    76805622B110014
+- expected_values:
     FORD_LAT_G: -1
   response: 76805622B11FF11
 - expected_values:
