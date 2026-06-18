@@ -1,9 +1,9 @@
 command_id: 726.72E.224027
 test_cases:
 - expected_values:
-    FORD_12V_AGE: 2256
-    FORD_BATT_AGE: 94
-  response: 72E05624027005E
+    FORD_12V_AGE: 1392
+    FORD_BATT_AGE: 58
+  response: 72E05624027003A
 - expected_values:
     FORD_12V_AGE: 4992
     FORD_BATT_AGE: 208
