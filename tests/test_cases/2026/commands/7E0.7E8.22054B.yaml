@@ -4,5 +4,5 @@ test_cases:
     FORD_PCM_ENG_OIL_LIFE_REM: 32
   response: 7E80462054B20
 - expected_values:
-    FORD_PCM_ENG_OIL_LIFE_REM: 98
-  response: 7E80462054B62
+    FORD_PCM_ENG_OIL_LIFE_REM: 100
+  response: 7E80462054B64
