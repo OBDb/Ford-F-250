@@ -14,6 +14,11 @@ test_cases:
     7E8056203E80B91
     7E8056203E80B91
 - expected_values:
+    FORD_OAR: 0.26245
+  response: |-
+    7E8056203E810CC
+    7E8056203E810CC
+- expected_values:
     FORD_OAR: 1
   response: 7E8056203E8C000
 - expected_values:

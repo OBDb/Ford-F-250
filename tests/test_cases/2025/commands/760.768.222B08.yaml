@@ -14,5 +14,10 @@ test_cases:
     76804622B0825
     76804622B0832
 - expected_values:
+    FORD_RR_VSS: 109
+  response: |-
+    76804622B086C
+    76804622B086D
+- expected_values:
     FORD_RR_VSS: 151
   response: 76804622B0897
