@@ -20,5 +20,10 @@ test_cases:
     7E8056204150137
     7E8056204150138
 - expected_values:
+    FORD_PCM_ENG_EOP_RAW: 342
+  response: |-
+    7E8056204150156
+    7E8056204150156
+- expected_values:
     FORD_PCM_ENG_EOP_RAW: 515
   response: '7E8056204150203'
