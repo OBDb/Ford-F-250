@@ -20,6 +20,11 @@ test_cases:
     7E80562030F7F12
     7E80562030FA666
 - expected_values:
+    FORD_CL: 1.01135
+  response: |-
+    7E80562030F8171
+    7E80562030F8174
+- expected_values:
     FORD_CL: 1.29999
   response: |-
     7E80562030F8666
