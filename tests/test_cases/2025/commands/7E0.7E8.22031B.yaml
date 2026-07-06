@@ -14,3 +14,8 @@ test_cases:
 - expected_values:
     FORD_VCT_EXH_ERR: 50
   response: 7E80562031BFFFF
+- expected_values:
+    FORD_VCT_EXH_ERR: 50
+  response: |-
+    7E80562031BFFFF
+    7E80562031BFFFF
