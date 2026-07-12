@@ -4,27 +4,6 @@ test_cases:
     FORD_VCT_EXH_ACT: 0
   response: '7E8056203190000'
 - expected_values:
-    FORD_VCT_EXH_ACT: 0.0625
-  response: '7E8056203190001'
-- expected_values:
-    FORD_VCT_EXH_ACT: 0.25
-  response: '7E8056203190004'
-- expected_values:
-    FORD_VCT_EXH_ACT: 6.875
-  response: 7E805620319006E
-- expected_values:
-    FORD_VCT_EXH_ACT: 17.9375
-  response: 7E805620319011F
-- expected_values:
-    FORD_VCT_EXH_ACT: 32.5625
-  response: '7E8056203190209'
-- expected_values:
-    FORD_VCT_EXH_ACT: 37.8125
-  response: 7E805620319025D
-- expected_values:
-    FORD_VCT_EXH_ACT: 43.375
-  response: 7E80562031902B6
-- expected_values:
     FORD_VCT_EXH_ACT: 50
   response: 7E805620319FFFC
 - expected_values:

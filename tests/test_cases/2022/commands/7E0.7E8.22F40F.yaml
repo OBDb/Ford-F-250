@@ -21,3 +21,12 @@ test_cases:
 - expected_values:
     FORD_IAT_ALT2: 44
   response: 7E80462F40F54
+- expected_values:
+    FORD_IAT_ALT2: 47
+  response: 7E80462F40F57
+- expected_values:
+    FORD_IAT_ALT2: 48
+  response: 7E80462F40F58
+- expected_values:
+    FORD_IAT_ALT2: 49
+  response: 7E80462F40F59
