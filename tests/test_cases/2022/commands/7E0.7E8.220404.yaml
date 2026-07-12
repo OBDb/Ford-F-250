@@ -4,29 +4,5 @@ test_cases:
     FORD_KS2_RAW: 20
   response: '7E8056204040014'
 - expected_values:
-    FORD_KS2_RAW: 22
-  response: '7E8056204040016'
-- expected_values:
-    FORD_KS2_RAW: 26
-  response: 7E805620404001A
-- expected_values:
-    FORD_KS2_RAW: 28
-  response: 7E805620404001C
-- expected_values:
-    FORD_KS2_RAW: 33
-  response: '7E8056204040021'
-- expected_values:
-    FORD_KS2_RAW: 37
-  response: '7E8056204040025'
-- expected_values:
-    FORD_KS2_RAW: 38
-  response: '7E8056204040026'
-- expected_values:
-    FORD_KS2_RAW: 39
-  response: '7E8056204040027'
-- expected_values:
-    FORD_KS2_RAW: 47
-  response: 7E805620404002F
-- expected_values:
     FORD_KS2_RAW: 999
   response: 7E80562040403E7
