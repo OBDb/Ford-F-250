@@ -3,3 +3,24 @@ test_cases:
 - expected_values:
     FORD_EVAP_PURGE_CMD: 0
   response: '7E8056211660000'
+- expected_values:
+    FORD_EVAP_PURGE_CMD: 10.79407
+  response: 7E8056211660DD1
+- expected_values:
+    FORD_EVAP_PURGE_CMD: 80.0415
+  response: '7E8056211666674'
+- expected_values:
+    FORD_EVAP_PURGE_CMD: 93.26782
+  response: '7E8056211667762'
+- expected_values:
+    FORD_EVAP_PURGE_CMD: 97.40295
+  response: 7E8056211667CAD
+- expected_values:
+    FORD_EVAP_PURGE_CMD: 97.44873
+  response: 7E8056211667CBC
+- expected_values:
+    FORD_EVAP_PURGE_CMD: 97.45178
+  response: 7E8056211667CBD
+- expected_values:
+    FORD_EVAP_PURGE_CMD: 97.45483
+  response: 7E8056211667CBE

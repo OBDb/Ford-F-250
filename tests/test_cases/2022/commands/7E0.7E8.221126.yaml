@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     FORD_ERT: 0
   response: '7E80462112600'
+- expected_values:
+    FORD_ERT: 216
+  response: 7E804621126D8
