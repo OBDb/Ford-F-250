@@ -4,8 +4,8 @@ test_cases:
     FORD_PCM_VEH_ODO: 31167.6
   response: 7E80762F4A60004C17C
 - expected_values:
-    FORD_PCM_VEH_ODO: 86246.3
-  response: 7E80762F4A6000D28FF
+    FORD_PCM_VEH_ODO: 31820.7
+  response: 7E80762F4A60004DAFF
 - expected_values:
     FORD_PCM_VEH_ODO: 86451.2
   response: 7E80762F4A6000D3100
