@@ -12,3 +12,7 @@ test_cases:
     FORD_BARO: 14.42964
     FORD_[ECU] BARO: 14.42964
   response: 7E805620353018E
+- expected_values:
+    FORD_BARO: 14.50215
+    FORD_[ECU] BARO: 14.50215
+  response: '7E8056203530190'
