@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22038C
+test_cases:
+- expected_values:
+    FORD_PCM_MISF_ACCEL_CYL5_NORM: 0
+  response: 7E80462038C00
+- expected_values:
+    FORD_PCM_MISF_ACCEL_CYL5_NORM: 0.04688
+  response: 7E80462038C03
+- expected_values:
+    FORD_PCM_MISF_ACCEL_CYL5_NORM: 0.0625
+  response: 7E80462038C04
+- expected_values:
+    FORD_PCM_MISF_ACCEL_CYL5_NORM: -0.07812
+  response: 7E80462038CFB
+- expected_values:
+    FORD_PCM_MISF_ACCEL_CYL5_NORM: -0.04688
+  response: 7E80462038CFD
+- expected_values:
+    FORD_PCM_MISF_ACCEL_CYL5_NORM: -0.03125
+  response: 7E80462038CFE
+- expected_values:
+    FORD_PCM_MISF_ACCEL_CYL5_NORM: -0.01562
+  response: 7E80462038CFF
