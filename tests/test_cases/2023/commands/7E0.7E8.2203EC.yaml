@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     FORD_IGN_CORR_CYL1: -0.25
   response: 7E8056203ECFF80
+- expected_values:
+    FORD_IGN_CORR_CYL1: -0.18164
+  response: 7E8056203ECFFA3
