@@ -2,19 +2,10 @@ command_id: 7E0.7E8.2203E8
 test_cases:
 - expected_values:
     FORD_OAR: 1
-  response: 7E8056203E8EED4
+  response: 7E8056203E8E7DF
 - expected_values:
     FORD_OAR: 1
-  response: 7E8056203E8F6B9
-- expected_values:
-    FORD_OAR: 1
-  response: 7E8056203E8F7CD
-- expected_values:
-    FORD_OAR: 1
-  response: 7E8056203E8FB76
+  response: 7E8056203E8EE0C
 - expected_values:
     FORD_OAR: 1
   response: 7E8056203E8FC12
-- expected_values:
-    FORD_OAR: 1
-  response: 7E8056203E8FC7F

@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     FORD_VCT_EXH_DUTY: 0
   response: '7E8056203170000'
+- expected_values:
+    FORD_VCT_EXH_DUTY: 43.74695
+  response: 7E80562031737FF
+- expected_values:
+    FORD_VCT_EXH_DUTY: 68.50281
+  response: 7E80562031757AF
