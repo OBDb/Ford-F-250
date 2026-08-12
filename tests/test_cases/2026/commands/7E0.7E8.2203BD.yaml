@@ -1,6 +1,14 @@
 command_id: 7E0.7E8.2203BD
 test_cases:
 - expected_values:
-    FORD_CL_LC: -0.00903
+    FORD_CL_LC: 0
+    FORD_[ECU] CL LAMBDA CORR: 0
+  response: 7E8056203BD0000
+- expected_values:
+    FORD_CL_LC: -0.0155
     FORD_[ECU] CL LAMBDA CORR: 5
-  response: 7E8056203BDFFB6
+  response: 7E8056203BDFF81
+- expected_values:
+    FORD_CL_LC: -0.00623
+    FORD_[ECU] CL LAMBDA CORR: 5
+  response: 7E8056203BDFFCD
