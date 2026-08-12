@@ -1,13 +1,13 @@
 command_id: 726.72E.222815
 test_cases:
 - expected_values:
-    FORD_TP_RR: 59.4
-    FORD_TP_RRO: 59.4
-  response: 72E0562281504A4
+    FORD_TP_RR: 35.2
+    FORD_TP_RRO: 35.2
+  response: 72E0562281502C0
 - expected_values:
-    FORD_TP_RR: 63.9
-    FORD_TP_RRO: 63.9
-  response: 72E0562281504FE
+    FORD_TP_RR: 38.3
+    FORD_TP_RRO: 38.3
+  response: 72E0562281502FE
 - expected_values:
     FORD_TP_RR: 64
     FORD_TP_RRO: 64
