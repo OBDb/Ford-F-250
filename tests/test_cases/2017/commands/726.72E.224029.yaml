@@ -4,5 +4,5 @@ test_cases:
     FORD_BATT_TEMP: 10
   response: '72E0462402932'
 - expected_values:
-    FORD_BATT_TEMP: 41
-  response: '72E0462402951'
+    FORD_BATT_TEMP: 46
+  response: '72E0462402956'
