@@ -1,6 +1,21 @@
 command_id: 7E0.7E8.22F443
 test_cases:
 - expected_values:
+    FORD_ENG_LOAD_ACT: 70.98039
+  response: |-
+    22F443
+    7E80562F44300B5
+- expected_values:
+    FORD_ENG_LOAD_ACT: 72.94118
+  response: |-
+    22F443
+    7E80562F44300BA
+- expected_values:
+    FORD_ENG_LOAD_ACT: 85.4902
+  response: |-
+    22F443
+    7E80562F44300DA
+- expected_values:
     FORD_ENG_LOAD_ACT: 0
   response: 7E80562F4430000
 - expected_values:
