@@ -11,11 +11,16 @@ test_cases:
     22F41F
     7E80562F41F04E6
 - expected_values:
+    FORD_RUN_TIME: 2542
+  response: |-
+    22F41F
+    7E80562F41F09EE
+- expected_values:
     FORD_RUN_TIME: 0
   response: 7E80562F41F0000
 - expected_values:
-    FORD_RUN_TIME: 1275
-  response: 7E80562F41F04FB
+    FORD_RUN_TIME: 2300
+  response: 7E80562F41F08FC
 - expected_values:
-    FORD_RUN_TIME: 2567
-  response: 7E80562F41F0A07
+    FORD_RUN_TIME: 3596
+  response: 7E80562F41F0E0C

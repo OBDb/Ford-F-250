@@ -11,6 +11,11 @@ test_cases:
     22F45C
     7E80462F45C7E
 - expected_values:
+    FORD_EOP: 128
+  response: |-
+    22F45C
+    7E80462F45C80
+- expected_values:
     FORD_EOP: 59
   response: 7E80462F45C3B
 - expected_values:
