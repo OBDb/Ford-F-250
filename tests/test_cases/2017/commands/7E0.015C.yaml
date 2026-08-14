@@ -11,8 +11,13 @@ test_cases:
     015C
     7E803415C7E
 - expected_values:
+    EOT: 88
+  response: |-
+    015C
+    7E803415C80
+- expected_values:
     EOT: 42
   response: 7E803415C52
 - expected_values:
-    EOT: 89
-  response: 7E803415C81
+    EOT: 90
+  response: 7E803415C82
