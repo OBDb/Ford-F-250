@@ -6,6 +6,11 @@ test_cases:
     22F404
     7E80462F40424
 - expected_values:
+    FORD_ENG_LOAD_PCT: 19.21569
+  response: |-
+    22F404
+    7E80462F40431
+- expected_values:
     FORD_ENG_LOAD_PCT: 23.52941
   response: |-
     22F404
