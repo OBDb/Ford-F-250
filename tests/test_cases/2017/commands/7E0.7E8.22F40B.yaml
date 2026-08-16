@@ -11,8 +11,8 @@ test_cases:
     22F40B
     7E80462F40B68
 - expected_values:
-    FORD_MAP: 12.18327
-  response: 7E80462F40B54
+    FORD_MAP: 10.87792
+  response: 7E80462F40B4B
 - expected_values:
     FORD_MAP: 36
   response: 7E80462F40BFE
