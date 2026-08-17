@@ -6,14 +6,19 @@ test_cases:
     22F431
     7E80562F431056C
 - expected_values:
+    FORD_DIST_DTC_CLR: 1563
+  response: |-
+    22F431
+    7E80562F431061B
+- expected_values:
     FORD_DIST_DTC_CLR: 4
   response: 7E80562F4310004
 - expected_values:
-    FORD_DIST_DTC_CLR: 29439
-  response: 7E80562F43172FF
+    FORD_DIST_DTC_CLR: 1535
+  response: 7E80562F43105FF
 - expected_values:
-    FORD_DIST_DTC_CLR: 29440
-  response: 7E80562F4317300
+    FORD_DIST_DTC_CLR: 1536
+  response: 7E80562F4310600
 - expected_values:
     FORD_DIST_DTC_CLR: 30065
   response: 7E80562F4317571

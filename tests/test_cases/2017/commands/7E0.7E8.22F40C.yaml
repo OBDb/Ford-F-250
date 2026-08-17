@@ -16,10 +16,10 @@ test_cases:
     22F40C
     7E80562F40C0A08
 - expected_values:
-    FORD_RPM: 1613
+    FORD_RPM: 1449
   response: |-
     22F40C
-    7E80562F40C1934
+    7E80562F40C16A4
 - expected_values:
     FORD_RPM: 0
   response: 7E80562F40C0000

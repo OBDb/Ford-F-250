@@ -6,6 +6,11 @@ test_cases:
     22F430
     7E80462F43018
 - expected_values:
+    FORD_WARMUP_CLR: 30
+  response: |-
+    22F430
+    7E80462F4301E
+- expected_values:
     FORD_WARMUP_CLR: 1
   response: 7E80462F43001
 - expected_values:
