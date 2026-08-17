@@ -6,6 +6,11 @@ test_cases:
     22DD01
     7E80662DD01040103
 - expected_values:
+    FORD_ODO: 262581
+  response: |-
+    22DD01
+    7E80662DD010401B5
+- expected_values:
     FORD_ODO: 69567
   response: 7E80662DD01010FBF
 - expected_values:
