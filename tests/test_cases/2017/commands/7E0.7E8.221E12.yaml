@@ -12,11 +12,16 @@ test_cases:
     221E12
     7E804621E1202
 - expected_values:
-    FORD_GEAR: '2'
+    FORD_GEAR: '6'
   response: |-
     221E12
-    7E804621E1202
-    7E904621E1202
+    7E804621E1206
+- expected_values:
+    FORD_GEAR: '6'
+  response: |-
+    221E12
+    7E804621E1206
+    7E904621E1206
 - expected_values:
     FORD_GEAR: '1'
   response: 7E804621E1201
