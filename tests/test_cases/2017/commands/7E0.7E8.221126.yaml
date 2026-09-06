@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.221126
+test_cases:
+- expected_values:
+    FORD_ERT: 9
+  response: '7E80462112609'
+- expected_values:
+    FORD_ERT: 40
+  response: '7E80462112628'
+- expected_values:
+    FORD_ERT: 69
+  response: '7E80462112645'
+- expected_values:
+    FORD_ERT: 82
+  response: '7E80462112652'
+- expected_values:
+    FORD_ERT: 120
+  response: '7E80462112678'
+- expected_values:
+    FORD_ERT: 150
+  response: '7E80462112696'
+- expected_values:
+    FORD_ERT: 183
+  response: 7E804621126B7
+- expected_values:
+    FORD_ERT: 214
+  response: 7E804621126D6
+- expected_values:
+    FORD_ERT: 245
+  response: 7E804621126F5
+- expected_values:
+    FORD_ERT: 255
+  response: 7E804621126FF
