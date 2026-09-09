@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     FORD_IAT_FAULT: 0
   response: '7E80762070000000400'
+- expected_values:
+    FORD_IAT_FAULT: 0
+  response: |-
+    7E80762070000000400
+    7E8100B6206100ADC0C
+    7E821390C390ADC0000
