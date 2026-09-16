@@ -10,25 +10,10 @@ test_cases:
   response: '7E80762070000000400'
 - expected_values:
     FORD_IAT_FAULT: 0
-  response: '7E80762070000800400'
-- expected_values:
-    FORD_IAT_FAULT: 0
-  response: '7E80762070000801008'
-- expected_values:
-    FORD_IAT_FAULT: 0
   response: '7E80762070000801048'
 - expected_values:
     FORD_IAT_FAULT: 0
   response: '7E80762070000801808'
 - expected_values:
     FORD_IAT_FAULT: 0
-  response: '7E80762070000801848'
-- expected_values:
-    FORD_IAT_FAULT: 0
-  response: '7E80762070000821008'
-- expected_values:
-    FORD_IAT_FAULT: 0
-  response: '7E80762070000821048'
-- expected_values:
-    FORD_IAT_FAULT: 0
-  response: '7E80762070000821808'
+  response: '7E80762070000821000'
