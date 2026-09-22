@@ -1,26 +1,11 @@
 command_id: 760.768.222B11
 test_cases:
 - expected_values:
-    FORD_LAT_G: -1
-  response: 76805622B11FFC6
+    FORD_LAT_G: 0
+  response: 76805622B110000
 - expected_values:
     FORD_LAT_G: -1
-  response: 76805622B11FFC9
+  response: 76805622B11FF82
 - expected_values:
-    FORD_LAT_G: -1
-  response: 76805622B11FFCA
-- expected_values:
-    FORD_LAT_G: -1
-  response: 76805622B11FFCB
-- expected_values:
-    FORD_LAT_G: -1
-  response: 76805622B11FFCD
-- expected_values:
-    FORD_LAT_G: -1
-  response: 76805622B11FFCE
-- expected_values:
-    FORD_LAT_G: -0.96
-  response: 76805622B11FFD0
-- expected_values:
-    FORD_LAT_G: -0.94
-  response: 76805622B11FFD1
+    FORD_LAT_G: -0.04
+  response: 76805622B11FFFE
