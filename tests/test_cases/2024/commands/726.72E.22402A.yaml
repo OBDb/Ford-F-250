@@ -1,6 +1,12 @@
 command_id: 726.72E.22402A
 test_cases:
 - expected_values:
+    FORD_12V_V: 12.65
+  response: 72E0462402A85
+- expected_values:
+    FORD_12V_V: 13.05
+  response: 72E0462402A8D
+- expected_values:
     FORD_12V_V: 14.4
   response: 72E0462402AA8
 - expected_values:
@@ -12,3 +18,15 @@ test_cases:
 - expected_values:
     FORD_12V_V: 14.55
   response: 72E0462402AAB
+- expected_values:
+    FORD_12V_V: 14.7
+  response: 72E0462402AAE
+- expected_values:
+    FORD_12V_V: 14.75
+  response: 72E0462402AAF
+- expected_values:
+    FORD_12V_V: 14.8
+  response: 72E0462402AB0
+- expected_values:
+    FORD_12V_V: 14.85
+  response: 72E0462402AB1
