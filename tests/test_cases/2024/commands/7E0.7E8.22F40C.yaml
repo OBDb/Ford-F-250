@@ -7,5 +7,5 @@ test_cases:
     FORD_RPM: 1467.5
   response: 7E80562F40C16EE
 - expected_values:
-    FORD_RPM: 1619.5
-  response: 7E80562F40C194E
+    FORD_RPM: 1617.5
+  response: 7E80562F40C1946
