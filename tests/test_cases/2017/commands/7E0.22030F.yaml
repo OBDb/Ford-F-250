@@ -4,11 +4,11 @@ test_cases:
     FORD_CL: 0.83774
   response: 7E80562030F6B3B
 - expected_values:
+    FORD_CL: 0.95313
+  response: 7E80562030F7A00
+- expected_values:
     FORD_CL: 0.96091
   response: 7E80562030F7AFF
-- expected_values:
-    FORD_CL: 0.96094
-  response: 7E80562030F7B00
 - expected_values:
     FORD_CL: 1.23111
   response: 7E80562030F9D95
