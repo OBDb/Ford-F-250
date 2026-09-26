@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.224195
 test_cases:
 - expected_values:
-    FORD_DTE_DISP: 485
-  response: 7E80562419512F2
+    FORD_DTE_DISP: 404.8
+  response: 7E8056241950FD0
 - expected_values:
-    FORD_DTE_DISP: 485.8
-  response: 7E80562419512FA
+    FORD_DTE_DISP: 434.6
+  response: 7E80562419510FA
 - expected_values:
     FORD_DTE_DISP: 486.4
   response: '7E8056241951300'
