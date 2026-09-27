@@ -1,32 +1,8 @@
 command_id: 7E0.7E8.22051D
 test_cases:
 - expected_values:
-    FORD_CYL_HEAD_T: 52
-  response: 7E80462051D5C
-- expected_values:
-    FORD_CYL_HEAD_T: 53
-  response: 7E80462051D5D
-- expected_values:
-    FORD_CYL_HEAD_T: 54
-  response: 7E80462051D5E
-- expected_values:
-    FORD_CYL_HEAD_T: 55
-  response: 7E80462051D5F
-- expected_values:
-    FORD_CYL_HEAD_T: 56
-  response: 7E80462051D60
-- expected_values:
-    FORD_CYL_HEAD_T: 57
-  response: 7E80462051D61
-- expected_values:
-    FORD_CYL_HEAD_T: 58
-  response: 7E80462051D62
-- expected_values:
-    FORD_CYL_HEAD_T: 59
-  response: 7E80462051D63
-- expected_values:
-    FORD_CYL_HEAD_T: 60
-  response: 7E80462051D64
+    FORD_CYL_HEAD_T: 49
+  response: 7E80462051D59
 - expected_values:
     FORD_CYL_HEAD_T: 61
   response: 7E80462051D65
