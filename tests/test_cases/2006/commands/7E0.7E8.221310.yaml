@@ -1,17 +1,17 @@
-command_id: 7DF.221310
+command_id: 7E0.7E8.221310
 test_cases:
 - expected_values:
-    FORD_EOT: 46
+    FORD_EOT_V2: 12031
   response: 7E8056213102EFF
 - expected_values:
-    FORD_EOT: 47
+    FORD_EOT_V2: 12153
   response: 7E8056213102F79
 - expected_values:
-    FORD_EOT: 49
+    FORD_EOT_V2: 12571
   response: 7E805621310311B
 - expected_values:
-    FORD_EOT: 49
+    FORD_EOT_V2: 12579
   response: '7E8056213103123'
 - expected_values:
-    FORD_EOT: 49
+    FORD_EOT_V2: 12650
   response: 7E805621310316A

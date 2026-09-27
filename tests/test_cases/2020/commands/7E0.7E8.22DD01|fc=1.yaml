@@ -2,13 +2,17 @@ command_id: 7E0.7E8.22DD01|fc=1
 test_cases:
 - expected_values:
     FORD_ODO: 97002
+    FORD_ODO_7E0: 97002
   response: 7E80662DD01017AEA
 - expected_values:
     FORD_ODO: 97003
+    FORD_ODO_7E0: 97003
   response: 7E80662DD01017AEB
 - expected_values:
     FORD_ODO: 97004
+    FORD_ODO_7E0: 97004
   response: 7E80662DD01017AEC
 - expected_values:
     FORD_ODO: 97006
+    FORD_ODO_7E0: 97006
   response: 7E80662DD01017AEE
