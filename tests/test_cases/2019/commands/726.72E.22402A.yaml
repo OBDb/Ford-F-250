@@ -2,12 +2,15 @@ command_id: 726.72E.22402A
 test_cases:
 - expected_values:
     FORD_12V_V: 12.3
+    FORD_VEH_BAT_V: 6
   response: 72E0462402A7E
 - expected_values:
     FORD_12V_V: 14.7
+    FORD_VEH_BAT_V: 6
   response: |-
     72E0462402AAE
     72E07622B0040000000
 - expected_values:
     FORD_12V_V: 14.8
+    FORD_VEH_BAT_V: 6
   response: 72E0462402AB0
