@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     FORD_BAT_QUIESCENT: 34
   response: '72E056240250814'
+- expected_values:
+    FORD_BAT_QUIESCENT: 47
+  response: 72E05624025082E
