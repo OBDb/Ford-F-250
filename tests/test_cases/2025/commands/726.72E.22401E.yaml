@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     FORD_NORM_CUM_CHG_IGN_ON: 0.1
   response: 72E0562401E0172
+- expected_values:
+    FORD_NORM_CUM_CHG_IGN_ON: 0.1
+  response: 72E0562401E0173
