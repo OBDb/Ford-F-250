@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.22DD01
+test_cases:
+- expected_values:
+    FORD_TRANS_ODO: 253477
+  response: 7E90662DD0103DE25
+- expected_values:
+    FORD_TRANS_ODO: 253478
+  response: 7E90662DD0103DE26
+- expected_values:
+    FORD_TRANS_ODO: 253479
+  response: 7E90662DD0103DE27
+- expected_values:
+    FORD_TRANS_ODO: 253480
+  response: 7E90662DD0103DE28
