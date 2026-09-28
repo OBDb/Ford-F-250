@@ -1,29 +1,17 @@
 command_id: 726.72E.224209
 test_cases:
 - expected_values:
-    FORD_BAT_CURRENT: 72.5
-  response: 72E07624209000122E0
+    FORD_BAT_CURRENT: 62
+  response: 72E076242090000F880
 - expected_values:
-    FORD_BAT_CURRENT: 75
-  response: 72E0762420900012CA0
+    FORD_BAT_CURRENT: 62.5
+  response: 72E076242090000FAE0
 - expected_values:
-    FORD_BAT_CURRENT: 75.75
-  response: 72E0762420900012FA0
+    FORD_BAT_CURRENT: 63.75
+  response: 72E076242090000FFE0
+- expected_values:
+    FORD_BAT_CURRENT: 64.25
+  response: '72E0762420900010160'
 - expected_values:
     FORD_BAT_CURRENT: 76.25
   response: '72E0762420900013100'
-- expected_values:
-    FORD_BAT_CURRENT: 76.5
-  response: '72E0762420900013240'
-- expected_values:
-    FORD_BAT_CURRENT: 77.75
-  response: '72E0762420900013740'
-- expected_values:
-    FORD_BAT_CURRENT: 77.75
-  response: '72E0762420900013760'
-- expected_values:
-    FORD_BAT_CURRENT: 77.75
-  response: '72E0762420900013780'
-- expected_values:
-    FORD_BAT_CURRENT: 81.25
-  response: '72E0762420900014580'
