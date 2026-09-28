@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220304
+test_cases:
+- expected_values:
+    FORD_CMD_GEN_V: 14.77127
+  response: 7E805620304763D
+- expected_values:
+    FORD_CMD_GEN_V: 14.79128
+  response: '7E8056203047666'
+- expected_values:
+    FORD_CMD_GEN_V: 14.81129
+  response: 7E805620304768F
+- expected_values:
+    FORD_CMD_GEN_V: 14.8513
+  response: 7E80562030476E1
