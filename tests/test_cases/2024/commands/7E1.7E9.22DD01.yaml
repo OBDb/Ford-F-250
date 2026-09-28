@@ -9,3 +9,9 @@ test_cases:
 - expected_values:
     FORD_TRANS_ODO: 53700
   response: 7E90662DD0100D1C4
+- expected_values:
+    FORD_TRANS_ODO: 53729
+  response: 7E90662DD0100D1E1
+- expected_values:
+    FORD_TRANS_ODO: 53730
+  response: 7E90662DD0100D1E2

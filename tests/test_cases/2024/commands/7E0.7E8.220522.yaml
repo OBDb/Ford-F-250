@@ -4,17 +4,5 @@ test_cases:
     FORD_FUEL_T: 16
   response: '7E80462052238'
 - expected_values:
-    FORD_FUEL_T: 17
-  response: '7E80462052239'
-- expected_values:
-    FORD_FUEL_T: 18
-  response: 7E8046205223A
-- expected_values:
-    FORD_FUEL_T: 19
-  response: 7E8046205223B
-- expected_values:
-    FORD_FUEL_T: 20
-  response: 7E8046205223C
-- expected_values:
-    FORD_FUEL_T: 21
-  response: 7E8046205223D
+    FORD_FUEL_T: 28
+  response: '7E80462052244'
