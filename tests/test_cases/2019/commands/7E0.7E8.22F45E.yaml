@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22F45E
+test_cases:
+- expected_values:
+    FORD_ENG_FUEL_RATE: 0
+  response: 7E80562F45E0000
+- expected_values:
+    FORD_ENG_FUEL_RATE: 3.6
+  response: 7E80562F45E0048
+- expected_values:
+    FORD_ENG_FUEL_RATE: 5.3
+  response: 7E80562F45E006A
+- expected_values:
+    FORD_ENG_FUEL_RATE: 5.8
+  response: 7E80562F45E0074
+- expected_values:
+    FORD_ENG_FUEL_RATE: 9.4
+  response: 7E80562F45E00BC
+- expected_values:
+    FORD_ENG_FUEL_RATE: 9.7
+  response: 7E80562F45E00C2
+- expected_values:
+    FORD_ENG_FUEL_RATE: 13
+  response: 7E80562F45E0104
+- expected_values:
+    FORD_ENG_FUEL_RATE: 13.55
+  response: 7E80562F45E010F

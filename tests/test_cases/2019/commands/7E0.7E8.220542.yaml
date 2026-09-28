@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220542
+test_cases:
+- expected_values:
+    FORD_DIST_SINCE_OIL: 12089
+  response: 7E8056205422F39
+- expected_values:
+    FORD_DIST_SINCE_OIL: 12090
+  response: 7E8056205422F3A
+- expected_values:
+    FORD_DIST_SINCE_OIL: 12091
+  response: 7E8056205422F3B
+- expected_values:
+    FORD_DIST_SINCE_OIL: 12092
+  response: 7E8056205422F3C
