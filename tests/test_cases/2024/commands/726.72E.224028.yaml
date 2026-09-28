@@ -32,3 +32,11 @@ test_cases:
     FORD_12V_SOC: 80
     FORD_BATT_SOC: 31.37255
   response: '72E0462402850'
+- expected_values:
+    FORD_12V_SOC: 82
+    FORD_BATT_SOC: 32.15686
+  response: '72E0462402852'
+- expected_values:
+    FORD_12V_SOC: 83
+    FORD_BATT_SOC: 32.54902
+  response: '72E0462402853'
