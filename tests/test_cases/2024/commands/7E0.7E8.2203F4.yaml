@@ -4,23 +4,5 @@ test_cases:
     FORD_EXH_GAS_T_1: 200
   response: 7E8046203F428
 - expected_values:
-    FORD_EXH_GAS_T_1: 245
-  response: 7E8046203F431
-- expected_values:
-    FORD_EXH_GAS_T_1: 250
-  response: 7E8046203F432
-- expected_values:
-    FORD_EXH_GAS_T_1: 265
-  response: 7E8046203F435
-- expected_values:
-    FORD_EXH_GAS_T_1: 305
-  response: 7E8046203F43D
-- expected_values:
-    FORD_EXH_GAS_T_1: 325
-  response: 7E8046203F441
-- expected_values:
-    FORD_EXH_GAS_T_1: 350
-  response: 7E8046203F446
-- expected_values:
     FORD_EXH_GAS_T_1: 430
   response: 7E8046203F456

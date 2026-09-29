@@ -4,5 +4,5 @@ test_cases:
     FORD_EXH_GAS_T_2: 45
   response: 7E8046203F509
 - expected_values:
-    FORD_EXH_GAS_T_2: 255
-  response: 7E8046203F533
+    FORD_EXH_GAS_T_2: 275
+  response: 7E8046203F537
