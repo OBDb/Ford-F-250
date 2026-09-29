@@ -4,8 +4,8 @@ test_cases:
     FORD_GEN_CTRL: 0
   response: '7E8056203780000'
 - expected_values:
-    FORD_GEN_CTRL: 28.8414
-  response: 7E80562037824EA
+    FORD_GEN_CTRL: 17.13088
+  response: 7E80562037815ED
 - expected_values:
     FORD_GEN_CTRL: 35.35132
   response: 7E8056203782D3F
