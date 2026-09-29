@@ -18,3 +18,15 @@ test_cases:
 - expected_values:
     FORD_DIST_SINCE_OIL: 12121
   response: 7E8056205422F59
+- expected_values:
+    FORD_DIST_SINCE_OIL: 12151
+  response: 7E8056205422F77
+- expected_values:
+    FORD_DIST_SINCE_OIL: 12152
+  response: 7E8056205422F78
+- expected_values:
+    FORD_DIST_SINCE_OIL: 12153
+  response: 7E8056205422F79
+- expected_values:
+    FORD_DIST_SINCE_OIL: 12154
+  response: 7E8056205422F7A
