@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22DD01
+test_cases:
+- expected_values:
+    FORD_TRANS_ODO: 12517
+  response: 7E90662DD010030E5

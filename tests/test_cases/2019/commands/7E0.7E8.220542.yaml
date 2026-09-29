@@ -4,29 +4,5 @@ test_cases:
     FORD_DIST_SINCE_OIL: 12089
   response: 7E8056205422F39
 - expected_values:
-    FORD_DIST_SINCE_OIL: 12090
-  response: 7E8056205422F3A
-- expected_values:
-    FORD_DIST_SINCE_OIL: 12091
-  response: 7E8056205422F3B
-- expected_values:
-    FORD_DIST_SINCE_OIL: 12092
-  response: 7E8056205422F3C
-- expected_values:
-    FORD_DIST_SINCE_OIL: 12120
-  response: 7E8056205422F58
-- expected_values:
-    FORD_DIST_SINCE_OIL: 12121
-  response: 7E8056205422F59
-- expected_values:
-    FORD_DIST_SINCE_OIL: 12151
-  response: 7E8056205422F77
-- expected_values:
-    FORD_DIST_SINCE_OIL: 12152
-  response: 7E8056205422F78
-- expected_values:
-    FORD_DIST_SINCE_OIL: 12153
-  response: 7E8056205422F79
-- expected_values:
-    FORD_DIST_SINCE_OIL: 12154
-  response: 7E8056205422F7A
+    FORD_DIST_SINCE_OIL: 12182
+  response: 7E8056205422F96

@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2203F5
+test_cases:
+- expected_values:
+    FORD_EXH_GAS_T_2: 60
+  response: 7E8046203F50C
+- expected_values:
+    FORD_EXH_GAS_T_2: 80
+  response: 7E8046203F510
+- expected_values:
+    FORD_EXH_GAS_T_2: 85
+  response: 7E8046203F511
+- expected_values:
+    FORD_EXH_GAS_T_2: 95
+  response: 7E8046203F513
+- expected_values:
+    FORD_EXH_GAS_T_2: 105
+  response: 7E8046203F515
