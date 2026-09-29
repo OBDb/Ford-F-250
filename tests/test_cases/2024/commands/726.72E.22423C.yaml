@@ -4,11 +4,11 @@ test_cases:
     FORD_VEH_BAT_B_CURRENT: 0
   response: 72E0562423C00A6
 - expected_values:
-    FORD_VEH_BAT_B_CURRENT: 0
-  response: 72E0562423C00F0
-- expected_values:
     FORD_VEH_BAT_B_CURRENT: -0.0312
-  response: 72E0562423C0106
+  response: 72E0562423C0100
 - expected_values:
     FORD_VEH_BAT_B_CURRENT: 0
   response: 72E0562423CFE18
+- expected_values:
+    FORD_VEH_BAT_B_CURRENT: 0
+  response: 72E0562423CFEFE
