@@ -7,8 +7,8 @@ test_cases:
     FORD_CMD_GEN_V: 14.2413
   response: 7E80562030471FF
 - expected_values:
-    FORD_CMD_GEN_V: 14.24326
-  response: '7E8056203047203'
+    FORD_CMD_GEN_V: 14.24179
+  response: '7E8056203047200'
 - expected_values:
     FORD_CMD_GEN_V: 14.6278
   response: '7E8056203047517'
