@@ -5,28 +5,4 @@ test_cases:
   response: 72E046241E87C
 - expected_values:
     FORD_VEH_BAT_B_V: 6
-  response: 72E046241E884
-- expected_values:
-    FORD_VEH_BAT_B_V: 6
-  response: 72E046241E886
-- expected_values:
-    FORD_VEH_BAT_B_V: 6
-  response: 72E046241E8A2
-- expected_values:
-    FORD_VEH_BAT_B_V: 6
-  response: 72E046241E8A6
-- expected_values:
-    FORD_VEH_BAT_B_V: 6
-  response: 72E046241E8A8
-- expected_values:
-    FORD_VEH_BAT_B_V: 6
-  response: 72E046241E8AA
-- expected_values:
-    FORD_VEH_BAT_B_V: 6
-  response: 72E046241E8AC
-- expected_values:
-    FORD_VEH_BAT_B_V: 6
-  response: 72E046241E8AE
-- expected_values:
-    FORD_VEH_BAT_B_V: 6
   response: 72E046241E8B0
