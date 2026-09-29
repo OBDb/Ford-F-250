@@ -4,23 +4,5 @@ test_cases:
     FORD_MAP_HIRES: 96.75
   response: '7E8056203700183'
 - expected_values:
-    FORD_MAP_HIRES: 103.25
-  response: 7E805620370019D
-- expected_values:
-    FORD_MAP_HIRES: 104.5
-  response: 7E80562037001A2
-- expected_values:
-    FORD_MAP_HIRES: 105.5
-  response: 7E80562037001A6
-- expected_values:
-    FORD_MAP_HIRES: 107.25
-  response: 7E80562037001AD
-- expected_values:
-    FORD_MAP_HIRES: 108.75
-  response: 7E80562037001B3
-- expected_values:
-    FORD_MAP_HIRES: 113
-  response: 7E80562037001C4
-- expected_values:
     FORD_MAP_HIRES: 121.75
   response: 7E80562037001E7

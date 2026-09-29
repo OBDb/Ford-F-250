@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     FORD_TIME_SINCE_OIL: 141.9852
   response: 7E80562053F2459
+- expected_values:
+    FORD_TIME_SINCE_OIL: 142.99229
+  response: 7E80562053F249B
