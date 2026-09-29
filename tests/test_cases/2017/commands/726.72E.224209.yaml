@@ -1,0 +1,5 @@
+command_id: 726.72E.224209
+test_cases:
+- expected_values:
+    FORD_BAT_CURRENT: 114.25
+  response: 72E076242090001C900
