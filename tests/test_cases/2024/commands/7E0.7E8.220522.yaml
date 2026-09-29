@@ -4,5 +4,5 @@ test_cases:
     FORD_FUEL_T: 16
   response: '7E80462052238'
 - expected_values:
-    FORD_FUEL_T: 30
-  response: '7E80462052246'
+    FORD_FUEL_T: 59
+  response: '7E80462052263'

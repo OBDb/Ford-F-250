@@ -4,23 +4,8 @@ test_cases:
     FORD_TRANS_ODO: 53698
   response: 7E90662DD0100D1C2
 - expected_values:
-    FORD_TRANS_ODO: 53699
-  response: 7E90662DD0100D1C3
+    FORD_TRANS_ODO: 53736
+  response: 7E90662DD0100D1E8
 - expected_values:
-    FORD_TRANS_ODO: 53700
-  response: 7E90662DD0100D1C4
-- expected_values:
-    FORD_TRANS_ODO: 53729
-  response: 7E90662DD0100D1E1
-- expected_values:
-    FORD_TRANS_ODO: 53730
-  response: 7E90662DD0100D1E2
-- expected_values:
-    FORD_TRANS_ODO: 53731
-  response: 7E90662DD0100D1E3
-- expected_values:
-    FORD_TRANS_ODO: 53732
-  response: 7E90662DD0100D1E4
-- expected_values:
-    FORD_TRANS_ODO: 53733
-  response: 7E90662DD0100D1E5
+    FORD_TRANS_ODO: 53770
+  response: 7E90662DD0100D20A
