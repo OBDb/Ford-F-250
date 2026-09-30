@@ -14,6 +14,9 @@ test_cases:
   response: 72E046241E88A
 - expected_values:
     FORD_VEH_BAT_B_V: 6
+  response: 72E046241E88C
+- expected_values:
+    FORD_VEH_BAT_B_V: 6
   response: 72E046241E8AC
 - expected_values:
     FORD_VEH_BAT_B_V: 6
