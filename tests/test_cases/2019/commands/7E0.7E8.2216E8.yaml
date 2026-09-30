@@ -7,5 +7,8 @@ test_cases:
     FORD_CMD_GEN_DUTY: 5.4997
   response: 7E8056216E8070A
 - expected_values:
+    FORD_CMD_GEN_DUTY: 65.15104
+  response: 7E8056216E85363
+- expected_values:
     FORD_CMD_GEN_DUTY: 65.30975
   response: 7E8056216E85397

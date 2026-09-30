@@ -13,6 +13,9 @@ test_cases:
     FORD_CHG_AIR_T: 22
   response: 7E80462051C3E
 - expected_values:
+    FORD_CHG_AIR_T: 31
+  response: 7E80462051C47
+- expected_values:
     FORD_CHG_AIR_T: 32
   response: 7E80462051C48
 - expected_values:
@@ -21,3 +24,9 @@ test_cases:
 - expected_values:
     FORD_CHG_AIR_T: 34
   response: 7E80462051C4A
+- expected_values:
+    FORD_CHG_AIR_T: 35
+  response: 7E80462051C4B
+- expected_values:
+    FORD_CHG_AIR_T: 36
+  response: 7E80462051C4C
