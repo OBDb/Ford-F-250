@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221505
 test_cases:
 - expected_values:
-    FORD_VSS_HD: 0
+    F250_VSS_HD: 0
   response: '7E8056215050000'
 - expected_values:
-    FORD_VSS_HD: 1.95312
+    F250_VSS_HD: 1.95312
   response: 7E80562150500FA
 - expected_values:
-    FORD_VSS_HD: 104.05469
+    F250_VSS_HD: 104.05469
   response: '7E8056215053407'

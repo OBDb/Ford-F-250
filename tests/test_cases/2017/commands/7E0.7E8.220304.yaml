@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.220304
 test_cases:
 - expected_values:
-    FORD_CMD_GEN_V: 11.98284
+    F250_CMD_GEN_V: 11.98284
   response: 7E8056203045FEB
 - expected_values:
-    FORD_CMD_GEN_V: 14.2413
+    F250_CMD_GEN_V: 14.2413
   response: 7E80562030471FF
 - expected_values:
-    FORD_CMD_GEN_V: 14.24179
+    F250_CMD_GEN_V: 14.24179
   response: '7E8056203047200'
 - expected_values:
-    FORD_CMD_GEN_V: 14.6278
+    F250_CMD_GEN_V: 14.6278
   response: '7E8056203047517'

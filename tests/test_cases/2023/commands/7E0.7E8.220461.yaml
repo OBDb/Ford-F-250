@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.220461
 test_cases:
 - expected_values:
-    FORD_CAT: -40
+    F250_CHG_AIR_T_2: -40
   response: '7E8056204610000'

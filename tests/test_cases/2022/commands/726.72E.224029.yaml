@@ -1,8 +1,8 @@
 command_id: 726.72E.224029
 test_cases:
 - expected_values:
-    FORD_BATT_TEMP: -8
+    F250_12V_T: -8
   response: '72E0462402920'
 - expected_values:
-    FORD_BATT_TEMP: 40
+    F250_12V_T: 40
   response: '72E0462402950'

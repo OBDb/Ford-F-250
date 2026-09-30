@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.22F431
 test_cases:
 - expected_values:
-    FORD_DIST_DTC_CLR: 17116
+    F250_DIST_DTC_CLR: 17116
   response: 7E80562F43142DC
 - expected_values:
-    FORD_DIST_DTC_CLR: 17117
+    F250_DIST_DTC_CLR: 17117
   response: 7E80562F43142DD
 - expected_values:
-    FORD_DIST_DTC_CLR: 17118
+    F250_DIST_DTC_CLR: 17118
   response: 7E80562F43142DE
 - expected_values:
-    FORD_DIST_DTC_CLR: 17119
+    F250_DIST_DTC_CLR: 17119
   response: 7E80562F43142DF
 - expected_values:
-    FORD_DIST_DTC_CLR: 17120
+    F250_DIST_DTC_CLR: 17120
   response: 7E80562F43142E0

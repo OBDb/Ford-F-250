@@ -1,18 +1,14 @@
 command_id: 7E0.7E8.22038E
 test_cases:
 - expected_values:
-    FORD_EVAP_V: 5
-    FORD_[ECU] EVAP PRES SENSOR V: 5
+    F250_EVAP_RAW: 1206
   response: 7E80562038E04B6
 - expected_values:
-    FORD_EVAP_V: 5
-    FORD_[ECU] EVAP PRES SENSOR V: 5
+    F250_EVAP_RAW: 1536
   response: 7E80562038E0600
 - expected_values:
-    FORD_EVAP_V: 5
-    FORD_[ECU] EVAP PRES SENSOR V: 5
+    F250_EVAP_RAW: 2046
   response: 7E80562038E07FE
 - expected_values:
-    FORD_EVAP_V: 5
-    FORD_[ECU] EVAP PRES SENSOR V: 5
+    F250_EVAP_RAW: 2862
   response: 7E80562038E0B2E

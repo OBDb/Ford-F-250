@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22051C
 test_cases:
 - expected_values:
-    FORD_CHG_AIR_T: 14
+    F250_CHG_AIR_T: 14
   response: 7E80462051C36
 - expected_values:
-    FORD_CHG_AIR_T: 56
+    F250_CHG_AIR_T: 56
   response: 7E80462051C60

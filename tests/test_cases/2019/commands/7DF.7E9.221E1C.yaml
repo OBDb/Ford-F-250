@@ -1,0 +1,14 @@
+command_id: 7DF.7E9.221E1C
+test_cases:
+- expected_values:
+    F250_TOT_V2: 23.9375
+  response: 7E905621E1C017F
+- expected_values:
+    F250_TOT_V2: 31.9375
+  response: 7E905621E1C01FF
+- expected_values:
+    F250_TOT_V2: 48
+  response: 7E905621E1C0300
+- expected_values:
+    F250_TOT_V2: 80
+  response: 7E905621E1C0500

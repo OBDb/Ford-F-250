@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2216E8
 test_cases:
 - expected_values:
-    FORD_CMD_GEN_DUTY: 0
+    F250_CMD_GEN_DUTY: 0
   response: 7E8056216E80000
 - expected_values:
-    FORD_CMD_GEN_DUTY: 53.88001
+    F250_CMD_GEN_DUTY: 53.88001
   response: 7E8056216E844F6
 - expected_values:
-    FORD_CMD_GEN_DUTY: 65.63326
+    F250_CMD_GEN_DUTY: 65.63326
   response: 7E8056216E85401

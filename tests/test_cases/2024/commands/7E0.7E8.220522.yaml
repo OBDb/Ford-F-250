@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220522
 test_cases:
 - expected_values:
-    FORD_FUEL_T: 16
+    F250_FUEL_T: 16
   response: '7E80462052238'
 - expected_values:
-    FORD_FUEL_T: 59
+    F250_FUEL_T: 59
   response: '7E80462052263'

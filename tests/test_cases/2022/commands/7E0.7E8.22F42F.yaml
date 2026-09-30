@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
-    FORD_FLI: 4.70588
+    F250_FLI_7E0_7E0: 4.70588
   response: 7E80462F42F0C
 - expected_values:
-    FORD_FLI: 100
+    F250_FLI_7E0_7E0: 100
   response: 7E80462F42FFF

@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2203B9
 test_cases:
 - expected_values:
-    FORD_FAN_SPD_DES: 0
+    F250_FAN_SPD_DES: 0
   response: 7E8056203B90000
 - expected_values:
-    FORD_FAN_SPD_DES: 52.24689
+    F250_FAN_SPD_DES: 52.24689
   response: 7E8056203B942E0
 - expected_values:
-    FORD_FAN_SPD_DES: 82.49638
+    F250_FAN_SPD_DES: 82.49638
   response: 7E8056203B96998

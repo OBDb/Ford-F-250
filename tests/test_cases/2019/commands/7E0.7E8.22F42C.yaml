@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F42C
 test_cases:
 - expected_values:
-    FORD_EGR: 12
-  response: 7E80462F42C0C
+    F250_EGR: 0
+  response: 7E80462F42C00
 - expected_values:
-    FORD_EGR: 50
+    F250_EGR: 50
   response: 7E80462F42C32

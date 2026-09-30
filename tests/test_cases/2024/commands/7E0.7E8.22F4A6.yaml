@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F4A6
 test_cases:
 - expected_values:
-    FORD_PCM_VEH_ODO: 53507.3
+    F250_PCM_VEH_ODO: 53507.3
   response: 7E80762F4A600082A21
 - expected_values:
-    FORD_PCM_VEH_ODO: 53734.3
+    F250_PCM_VEH_ODO: 53734.3
   response: 7E80762F4A6000832FF
 - expected_values:
-    FORD_PCM_VEH_ODO: 53734.4
+    F250_PCM_VEH_ODO: 53734.4
   response: 7E80762F4A600083300
 - expected_values:
-    FORD_PCM_VEH_ODO: 53813.2
+    F250_PCM_VEH_ODO: 53813.2
   response: 7E80762F4A600083614

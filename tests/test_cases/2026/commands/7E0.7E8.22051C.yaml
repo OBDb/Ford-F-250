@@ -1,32 +1,32 @@
 command_id: 7E0.7E8.22051C
 test_cases:
 - expected_values:
-    FORD_CHG_AIR_T: 33
+    F250_CHG_AIR_T: 33
   response: 7E80462051C49
 - expected_values:
-    FORD_CHG_AIR_T: 34
+    F250_CHG_AIR_T: 34
   response: 7E80462051C4A
 - expected_values:
-    FORD_CHG_AIR_T: 35
+    F250_CHG_AIR_T: 35
   response: 7E80462051C4B
 - expected_values:
-    FORD_CHG_AIR_T: 36
+    F250_CHG_AIR_T: 36
   response: 7E80462051C4C
 - expected_values:
-    FORD_CHG_AIR_T: 37
+    F250_CHG_AIR_T: 37
   response: 7E80462051C4D
 - expected_values:
-    FORD_CHG_AIR_T: 38
+    F250_CHG_AIR_T: 38
   response: 7E80462051C4E
 - expected_values:
-    FORD_CHG_AIR_T: 39
+    F250_CHG_AIR_T: 39
   response: 7E80462051C4F
 - expected_values:
-    FORD_CHG_AIR_T: 40
+    F250_CHG_AIR_T: 40
   response: 7E80462051C50
 - expected_values:
-    FORD_CHG_AIR_T: 41
+    F250_CHG_AIR_T: 41
   response: 7E80462051C51
 - expected_values:
-    FORD_CHG_AIR_T: 42
+    F250_CHG_AIR_T: 42
   response: 7E80462051C52

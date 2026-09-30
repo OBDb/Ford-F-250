@@ -1,7 +1,7 @@
 command_id: 7E1.7E9.22DD01
 test_cases:
 - expected_values:
-    FORD_TRANS_ODO: 262403
+    F250_TRANS_ODO: 262403
   response: |-
     7E80662DD01040103
     7E90662DD01040103
