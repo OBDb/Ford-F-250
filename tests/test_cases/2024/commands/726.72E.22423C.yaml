@@ -8,7 +8,7 @@ test_cases:
   response: 72E0562423C0100
 - expected_values:
     FORD_VEH_BAT_B_CURRENT: 0
-  response: 72E0562423CFE18
+  response: 72E0562423CFE14
 - expected_values:
     FORD_VEH_BAT_B_CURRENT: 0
   response: 72E0562423CFEFE
