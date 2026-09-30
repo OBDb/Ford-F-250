@@ -4,6 +4,9 @@ test_cases:
     FORD_CMD_GEN_V: 11.97308
   response: 7E8056203045FD7
 - expected_values:
+    FORD_CMD_GEN_V: 14.69124
+  response: '7E8056203047599'
+- expected_values:
     FORD_CMD_GEN_V: 14.8313
   response: 7E80562030476B8
 - expected_values:

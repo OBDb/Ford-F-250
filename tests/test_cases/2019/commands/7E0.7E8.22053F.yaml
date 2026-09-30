@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22053F
 test_cases:
 - expected_values:
+    FORD_TIME_SINCE_OIL: 98.98528
+  response: 7E80562053F1957
+- expected_values:
     FORD_TIME_SINCE_OIL: 141.9852
   response: 7E80562053F2459
 - expected_values:
