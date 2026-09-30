@@ -1,26 +1,26 @@
 command_id: 726.72E.2241E8
 test_cases:
 - expected_values:
-    F250_VEH_BAT_B_V: 12.6
+    FORD_VEH_BAT_B_V: 6
   response: 72E046241E884
 - expected_values:
-    F250_VEH_BAT_B_V: 12.7
+    FORD_VEH_BAT_B_V: 6
   response: 72E046241E886
 - expected_values:
-    F250_VEH_BAT_B_V: 12.8
+    FORD_VEH_BAT_B_V: 6
   response: 72E046241E888
 - expected_values:
-    F250_VEH_BAT_B_V: 12.9
+    FORD_VEH_BAT_B_V: 6
   response: 72E046241E88A
 - expected_values:
-    F250_VEH_BAT_B_V: 13
+    FORD_VEH_BAT_B_V: 6
   response: 72E046241E88C
 - expected_values:
-    F250_VEH_BAT_B_V: 14.6
+    FORD_VEH_BAT_B_V: 6
   response: 72E046241E8AC
 - expected_values:
-    F250_VEH_BAT_B_V: 14.7
+    FORD_VEH_BAT_B_V: 6
   response: 72E046241E8AE
 - expected_values:
-    F250_VEH_BAT_B_V: 14.8
+    FORD_VEH_BAT_B_V: 6
   response: 72E046241E8B0

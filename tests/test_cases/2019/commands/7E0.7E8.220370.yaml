@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220370
 test_cases:
 - expected_values:
-    F250_MAP_HIRES: 49.75
+    FORD_MAP_HIRES: 49.75
   response: 7E80562037000C7
 - expected_values:
-    F250_MAP_HIRES: 124.5
+    FORD_MAP_HIRES: 124.5
   response: 7E80562037001F2
 - expected_values:
-    F250_MAP_HIRES: 138.5
+    FORD_MAP_HIRES: 138.5
   response: 7E805620370022A

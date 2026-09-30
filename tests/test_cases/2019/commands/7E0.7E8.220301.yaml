@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.220301
 test_cases:
 - expected_values:
-    F250_MAP_V: 0.50293
+    FORD_MAP_V: 0.50293
   response: '7E8056203010203'
 - expected_values:
-    F250_MAP_V: 1.24902
+    FORD_MAP_V: 1.24902
   response: 7E80562030104FF
 - expected_values:
-    F250_MAP_V: 1.25
+    FORD_MAP_V: 1.25
   response: '7E8056203010500'
 - expected_values:
-    F250_MAP_V: 3.13086
+    FORD_MAP_V: 3.13086
   response: 7E8056203010C86
