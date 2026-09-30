@@ -4,14 +4,5 @@ test_cases:
     FORD_SUMP_OIL_T_MEAS: 31
   response: 7E8046203F347
 - expected_values:
-    FORD_SUMP_OIL_T_MEAS: 32
-  response: 7E8046203F348
-- expected_values:
-    FORD_SUMP_OIL_T_MEAS: 34
-  response: 7E8046203F34A
-- expected_values:
-    FORD_SUMP_OIL_T_MEAS: 35
-  response: 7E8046203F34B
-- expected_values:
-    FORD_SUMP_OIL_T_MEAS: 37
-  response: 7E8046203F34D
+    FORD_SUMP_OIL_T_MEAS: 90
+  response: 7E8046203F382
