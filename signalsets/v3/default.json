@@ -1,4 +1,8 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "7E0", "type": "engine" },
+    { "hdr": "7E1", "type": "transmission" }
+  ],
+  "commands": [
 { "hdr": "720", "rax": "728", "cmd": {"22": "404C"}, "freq": 30, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2014, 2015, 2017, 2018, 2019, 2020, 2021], "from": 2023 },
   "signals": [
     {"id": "F250_ODO", "path": "Trips", "fmt": { "len": 24, "max": 1677721, "div": 10, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
