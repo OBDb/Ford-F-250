@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     F250_TP_RRO: 64
   response: '72E056228150500'
+- expected_values:
+    F250_TP_RRO: null
+  response: 72E056228150BB8
