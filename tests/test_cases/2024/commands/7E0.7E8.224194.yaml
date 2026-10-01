@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.224194
 test_cases:
 - expected_values:
-    F250_DTE: 213.4
-  response: '7E8056241940856'
+    F250_DTE: 188.6
+  response: 7E805624194075E
 - expected_values:
     F250_DTE: 256.5
   response: 7E8056241940A05

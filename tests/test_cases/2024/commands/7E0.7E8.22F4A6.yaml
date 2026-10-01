@@ -10,5 +10,5 @@ test_cases:
     F250_PCM_VEH_ODO: 53734.4
   response: 7E80762F4A600083300
 - expected_values:
-    F250_PCM_VEH_ODO: 53813.2
-  response: 7E80762F4A600083614
+    F250_PCM_VEH_ODO: 53840
+  response: 7E80762F4A600083720
