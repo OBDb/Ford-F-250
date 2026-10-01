@@ -262,7 +262,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0318"}, "freq": 1,
   "signals": [
-    {"id": "F250_VCT_INT_ACT", "path": "Engine", "fmt": { "len": 16, "max": 0, "div": 16, "unit": "degrees" }, "name": "Camshaft position, intake actual"}
+    {"id": "F250_VCT_INT_ACT", "path": "Engine", "fmt": { "len": 16, "max": 2047.93, "min": -2048, "div": 16, "sign": true, "unit": "degrees" }, "name": "Camshaft position, intake actual"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0319"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020, 2024] },
   "signals": [
