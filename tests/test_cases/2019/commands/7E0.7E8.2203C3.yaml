@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2203C3
+test_cases:
+- expected_values:
+    F250_FUEL_RAIL_P_CTRL: 22.5
+  response: 7E8046203C32D
+- expected_values:
+    F250_FUEL_RAIL_P_CTRL: 64
+  response: 7E8046203C380

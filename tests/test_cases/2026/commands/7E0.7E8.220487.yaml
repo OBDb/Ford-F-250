@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220487
+test_cases:
+- expected_values:
+    F250_DEF_LEVEL: 8.75
+  response: 7E805620487231A
+- expected_values:
+    F250_DEF_LEVEL: 9.25
+  response: 7E80562048725FE
+- expected_values:
+    F250_DEF_LEVEL: 10
+  response: '7E8056204872800'
+- expected_values:
+    F250_DEF_LEVEL: 63.75
+  response: 7E805620487FFFE

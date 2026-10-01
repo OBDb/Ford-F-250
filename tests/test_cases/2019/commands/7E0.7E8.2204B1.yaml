@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2204B1
+test_cases:
+- expected_values:
+    F250_CYL_8_FUEL_QTY: 0
+  response: 7E8076204B100000000
+- expected_values:
+    F250_CYL_8_FUEL_QTY: 4.09599
+  response: 7E8076204B10007FFFF
+- expected_values:
+    F250_CYL_8_FUEL_QTY: -57.05729
+  response: 7E8076204B100908F5B
