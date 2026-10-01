@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     F250_EXH_GAS_T_2: 95
   response: 7E8046203F513
+- expected_values:
+    F250_EXH_GAS_T_2: null
+  response: 7E8046203F5FF

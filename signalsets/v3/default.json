@@ -432,7 +432,7 @@
   "signals": [
     {"id": "F250_PCM_ENG_EOP_RAW", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "kilopascal" }, "name": "Oil pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0416"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0416"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "F250_GLOW_PLUG_CMD_STAT", "path": "Engine", "fmt": {           "len": 8, "max": 251, "min": -4, "add": -4, "unit": "scalar" }, "name": "Glow plug, commanded status"},
     {"id": "F250_LOW_OIL_P_SWITCH",   "path": "Engine", "fmt": {"bix": 22, "len": 1, "max": 1,                         "unit": "offon"  }, "name": "Low oil pressure switch"}
@@ -1056,7 +1056,7 @@
   "signals": [
     {"id": "F250_ENG_LOAD_ACT", "path": "Engine", "fmt": { "len": 16, "max": 25700, "mul": 100, "div": 255, "unit": "percent" }, "name": "Engine load, actual"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "F446"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F446"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "F250_AAT_7E0", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Ambient air temperature"}
   ]},
