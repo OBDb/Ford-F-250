@@ -4,11 +4,11 @@ test_cases:
     F250_CYL_3_FUEL_BALANCE: 0
   response: 7E80762098C00000000
 - expected_values:
+    F250_CYL_3_FUEL_BALANCE: 0.03584
+  response: 7E80762098C000011EB
+- expected_values:
     F250_CYL_3_FUEL_BALANCE: -0.41984
   response: 7E80762098CFFFF2E14
-- expected_values:
-    F250_CYL_3_FUEL_BALANCE: -0.13824
-  response: 7E80762098CFFFFBAE1
 - expected_values:
     F250_CYL_3_FUEL_BALANCE: -0.01024
   response: 7E80762098CFFFFFAE1
