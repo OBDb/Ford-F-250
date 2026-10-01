@@ -4,6 +4,9 @@ test_cases:
     F250_CMD_GEN_V: 11.97308
   response: 7E8056203045FD7
 - expected_values:
+    F250_CMD_GEN_V: 14.53118
+  response: '7E8056203047451'
+- expected_values:
     F250_CMD_GEN_V: 14.69124
   response: '7E8056203047599'
 - expected_values:

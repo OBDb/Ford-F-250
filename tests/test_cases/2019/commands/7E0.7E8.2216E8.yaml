@@ -7,6 +7,9 @@ test_cases:
     F250_CMD_GEN_DUTY: 5.4997
   response: 7E8056216E8070A
 - expected_values:
+    F250_CMD_GEN_DUTY: 61.47033
+  response: 7E8056216E84EAD
+- expected_values:
     F250_CMD_GEN_DUTY: 65.15104
   response: 7E8056216E85363
 - expected_values:

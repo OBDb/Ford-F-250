@@ -4,5 +4,5 @@ test_cases:
     F250_SUMP_OIL_T_MEAS: 26
   response: 7E8046203F342
 - expected_values:
-    F250_SUMP_OIL_T_MEAS: 66
-  response: 7E8046203F36A
+    F250_SUMP_OIL_T_MEAS: 71
+  response: 7E8046203F36F
