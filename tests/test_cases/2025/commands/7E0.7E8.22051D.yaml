@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22051D
 test_cases:
 - expected_values:
-    FORD_CYL_HEAD_T: 49
+    F250_CYL_HEAD_T: 49
   response: 7E80462051D59
 - expected_values:
-    FORD_CYL_HEAD_T: 61
+    F250_CYL_HEAD_T: 61
   response: 7E80462051D65

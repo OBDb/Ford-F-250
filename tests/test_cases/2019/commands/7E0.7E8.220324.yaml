@@ -1,18 +1,14 @@
 command_id: 7E0.7E8.220324
 test_cases:
 - expected_values:
-    FORD_HPFP_V: 0.32258
-    FORD_[ECU] HPFP SENSOR VOLTAGE: 0.32258
+    F250_HPFP_V: 0.32258
   response: '7E8056203240042'
 - expected_values:
-    FORD_HPFP_V: 1.24633
-    FORD_[ECU] HPFP SENSOR VOLTAGE: 1.24633
+    F250_HPFP_V: 1.24633
   response: 7E80562032400FF
 - expected_values:
-    FORD_HPFP_V: 1.25122
-    FORD_[ECU] HPFP SENSOR VOLTAGE: 1.25122
+    F250_HPFP_V: 1.25122
   response: '7E8056203240100'
 - expected_values:
-    FORD_HPFP_V: 2.51222
-    FORD_[ECU] HPFP SENSOR VOLTAGE: 2.51222
+    F250_HPFP_V: 2.51222
   response: '7E8056203240202'

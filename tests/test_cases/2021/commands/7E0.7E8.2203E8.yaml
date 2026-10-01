@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.2203E8
 test_cases:
 - expected_values:
-    FORD_OAR: 1
+    F250_OAR: 0
   response: 7E8056203E8FD28

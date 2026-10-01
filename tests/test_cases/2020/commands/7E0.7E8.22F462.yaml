@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F462
 test_cases:
 - expected_values:
-    FORD_PCM_ACT_ENG_PCT_TRQ: 2
+    F250_PCM_ACT_ENG_PCT_TRQ: 2
   response: 7E80462F4627F
 - expected_values:
-    FORD_PCM_ACT_ENG_PCT_TRQ: 33
+    F250_PCM_ACT_ENG_PCT_TRQ: 33
   response: 7E80462F4629E

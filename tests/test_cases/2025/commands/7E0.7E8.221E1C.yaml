@@ -1,19 +1,19 @@
 command_id: 7E0.7E8.221E1C
 test_cases:
 - expected_values:
-    FORD_TOT: 9.5
+    F250_TOT: 9.5
   response: 7E805621E1C0098
 - expected_values:
-    FORD_TOT: 32
+    F250_TOT: 32
   response: 7E805621E1C0200
 - expected_values:
-    FORD_TOT: 47.9375
+    F250_TOT: 47.9375
   response: 7E805621E1C02FF
 - expected_values:
-    FORD_TOT: 84.875
+    F250_TOT: 84.875
   response: |-
     7E805621E1C0548
     7E805621E1C054E
 - expected_values:
-    FORD_TOT: 96.0625
+    F250_TOT: 96.0625
   response: 7E805621E1C0601

@@ -1,17 +1,17 @@
 command_id: 760.768.22DD01
 test_cases:
 - expected_values:
-    FORD_ODO_BCM: 8216
+    F250_ABS_ODO: 8216
   response: 7680662DD01002018
 - expected_values:
-    FORD_ODO_BCM: 10495
+    F250_ABS_ODO: 10495
   response: 7680662DD010028FF
 - expected_values:
-    FORD_ODO_BCM: 26368
+    F250_ABS_ODO: 26368
   response: 7680662DD01006700
 - expected_values:
-    FORD_ODO_BCM: 63233
+    F250_ABS_ODO: 63233
   response: 7680662DD0100F701
 - expected_values:
-    FORD_ODO_BCM: 82251
+    F250_ABS_ODO: 82251
   response: 7680662DD0101414B

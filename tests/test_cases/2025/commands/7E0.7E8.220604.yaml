@@ -1,19 +1,19 @@
 command_id: 7E0.7E8.220604
 test_cases:
 - expected_values:
-    FORD_PCM_A_C_REFRIG_P: 216
+    F250_PCM_A_C_REFRIG_P: 216
   response: 7E80562060400D8
 - expected_values:
-    FORD_PCM_A_C_REFRIG_P: 511
+    F250_PCM_A_C_REFRIG_P: 511
   response: 7E80562060401FF
 - expected_values:
-    FORD_PCM_A_C_REFRIG_P: 1159
+    F250_PCM_A_C_REFRIG_P: 1159
   response: |-
     7E8056206040473
     7E8056206040487
 - expected_values:
-    FORD_PCM_A_C_REFRIG_P: 1280
+    F250_PCM_A_C_REFRIG_P: 1280
   response: '7E8056206040500'
 - expected_values:
-    FORD_PCM_A_C_REFRIG_P: 1546
+    F250_PCM_A_C_REFRIG_P: 1546
   response: 7E805620604060A

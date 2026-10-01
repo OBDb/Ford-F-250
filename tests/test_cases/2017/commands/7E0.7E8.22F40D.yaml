@@ -1,28 +1,28 @@
 command_id: 7E0.7E8.22F40D
 test_cases:
 - expected_values:
-    FORD_VSS: 0
+    F250_VSS: 0
   response: |-
     22F40D
     7E80462F40D00
 - expected_values:
-    FORD_VSS: 17
+    F250_VSS: 17
   response: |-
     22F40D
     7E80462F40D11
 - expected_values:
-    FORD_VSS: 20
+    F250_VSS: 20
   response: |-
     22F40D
     7E80462F40D14
 - expected_values:
-    FORD_VSS: 0
+    F250_VSS: 0
   response: 7E80462F40D00
 - expected_values:
-    FORD_VSS: 56
+    F250_VSS: 56
   response: |-
     7E80462F40D38
     7E90462F40D38
 - expected_values:
-    FORD_VSS: 139
+    F250_VSS: 139
   response: 7E80462F40D8B

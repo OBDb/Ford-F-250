@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2203F3
 test_cases:
 - expected_values:
-    FORD_SUMP_OIL_T_MEAS: 31
+    F250_SUMP_OIL_T_MEAS: 31
   response: 7E8046203F347
 - expected_values:
-    FORD_SUMP_OIL_T_MEAS: 90
+    F250_SUMP_OIL_T_MEAS: 90
   response: 7E8046203F382

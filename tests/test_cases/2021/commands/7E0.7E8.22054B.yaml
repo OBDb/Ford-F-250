@@ -1,20 +1,20 @@
 command_id: 7E0.7E8.22054B
 test_cases:
 - expected_values:
-    FORD_PCM_ENG_OIL_LIFE_REM: 40
+    F250_PCM_ENG_OIL_LIFE_REM: 40
   response: 7E80462054B28
 - expected_values:
-    FORD_PCM_ENG_OIL_LIFE_REM: 95
+    F250_PCM_ENG_OIL_LIFE_REM: 95
   response: 7E80462054B5F
 - expected_values:
-    FORD_PCM_ENG_OIL_LIFE_REM: 96
+    F250_PCM_ENG_OIL_LIFE_REM: 96
   response: 7E80462054B60
 - expected_values:
-    FORD_PCM_ENG_OIL_LIFE_REM: 97
+    F250_PCM_ENG_OIL_LIFE_REM: 97
   response: 7E80462054B61
 - expected_values:
-    FORD_PCM_ENG_OIL_LIFE_REM: 98
+    F250_PCM_ENG_OIL_LIFE_REM: 98
   response: 7E80462054B62
 - expected_values:
-    FORD_PCM_ENG_OIL_LIFE_REM: 99
+    F250_PCM_ENG_OIL_LIFE_REM: 99
   response: 7E80462054B63

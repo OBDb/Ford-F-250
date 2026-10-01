@@ -1,13 +1,13 @@
 command_id: 7E0.7E8.221E1F
 test_cases:
 - expected_values:
-    FORD_GEAR_ENG: 1
+    F250_GEAR_ENG: 1
   response: 7E804621E1F01
 - expected_values:
-    FORD_GEAR_ENG: 6
+    F250_GEAR_ENG: 6
   response: |-
     7E804621E1F0A
     7E804621E1F0A
 - expected_values:
-    FORD_GEAR_ENG: 6
+    F250_GEAR_ENG: 6
   response: 7E804621E1F82

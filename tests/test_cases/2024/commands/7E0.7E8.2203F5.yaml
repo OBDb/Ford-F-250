@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2203F5
 test_cases:
 - expected_values:
-    FORD_EXH_GAS_T_2: 45
+    F250_EXH_GAS_T_2: 45
   response: 7E8046203F509
 - expected_values:
-    FORD_EXH_GAS_T_2: 305
+    F250_EXH_GAS_T_2: 305
   response: 7E8046203F53D

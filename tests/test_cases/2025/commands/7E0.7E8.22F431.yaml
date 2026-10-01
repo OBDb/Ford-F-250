@@ -1,24 +1,24 @@
 command_id: 7E0.7E8.22F431
 test_cases:
 - expected_values:
-    FORD_DIST_DTC_CLR: 2069
+    F250_DIST_DTC_CLR: 2069
   response: 7E80562F4310815
 - expected_values:
-    FORD_DIST_DTC_CLR: 3840
+    F250_DIST_DTC_CLR: 3840
   response: 7E80562F4310F00
 - expected_values:
-    FORD_DIST_DTC_CLR: 4095
+    F250_DIST_DTC_CLR: 4095
   response: 7E80562F4310FFF
 - expected_values:
-    FORD_DIST_DTC_CLR: 43911
+    F250_DIST_DTC_CLR: 43911
   response: |-
     7E80562F431AB84
     7E80562F431AB87
 - expected_values:
-    FORD_DIST_DTC_CLR: 44309
+    F250_DIST_DTC_CLR: 44309
   response: |-
     7E80562F431AD12
     7E80562F431AD15
 - expected_values:
-    FORD_DIST_DTC_CLR: 49153
+    F250_DIST_DTC_CLR: 49153
   response: 7E80562F431C001

@@ -1,23 +1,23 @@
 command_id: 7E0.7E8.22035A
 test_cases:
 - expected_values:
-    FORD_BARO_V: 3.97361
+    F250_BARO_V: 3.97361
   response: 7E80562035A032D
 - expected_values:
-    FORD_BARO_V: 3.97849
+    F250_BARO_V: 3.97849
   response: 7E80562035A032E
 - expected_values:
-    FORD_BARO_V: 3.98338
+    F250_BARO_V: 3.98338
   response: 7E80562035A032F
 - expected_values:
-    FORD_BARO_V: 3.98827
+    F250_BARO_V: 3.98827
   response: 7E80562035A0330
 - expected_values:
-    FORD_BARO_V: 3.99316
+    F250_BARO_V: 3.99316
   response: 7E80562035A0331
 - expected_values:
-    FORD_BARO_V: 3.99804
+    F250_BARO_V: 3.99804
   response: 7E80562035A0332
 - expected_values:
-    FORD_BARO_V: 4.00293
+    F250_BARO_V: 4.00293
   response: 7E80562035A0333

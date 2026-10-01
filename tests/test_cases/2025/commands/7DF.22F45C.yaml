@@ -1,29 +1,29 @@
 command_id: 7DF.22F45C
 test_cases:
 - expected_values:
-    FORD_EOP: 70
+    F250_EOT_7DF: 30
   response: 7E80462F45C46
 - expected_values:
-    FORD_EOP: 73
+    F250_EOT_7DF: 33
   response: 7E80462F45C49
 - expected_values:
-    FORD_EOP: 74
+    F250_EOT_7DF: 34
   response: 7E80462F45C4A
 - expected_values:
-    FORD_EOP: 75
+    F250_EOT_7DF: 35
   response: 7E80462F45C4B
 - expected_values:
-    FORD_EOP: 87
+    F250_EOT_7DF: 47
   response: 7E80462F45C57
 - expected_values:
-    FORD_EOP: 88
+    F250_EOT_7DF: 48
   response: 7E80462F45C58
 - expected_values:
-    FORD_EOP: 89
+    F250_EOT_7DF: 49
   response: 7E80462F45C59
 - expected_values:
-    FORD_EOP: 92
+    F250_EOT_7DF: 52
   response: 7E80462F45C5C
 - expected_values:
-    FORD_EOP: 95
+    F250_EOT_7DF: 55
   response: 7E80462F45C5F

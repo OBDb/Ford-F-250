@@ -1,20 +1,16 @@
 command_id: 726.72E.222816
 test_cases:
 - expected_values:
-    FORD_TP_RL: 50.7
-    FORD_TP_RLO: 50.7
+    F250_TP_RLO: 50.7
   response: 72E0562281603F6
 - expected_values:
-    FORD_TP_RL: 51.1
-    FORD_TP_RLO: 51.1
+    F250_TP_RLO: 51.1
   response: 72E0562281603FE
 - expected_values:
-    FORD_TP_RL: 51.2
-    FORD_TP_RLO: 51.2
+    F250_TP_RLO: 51.2
   response: '72E056228160400'
 - expected_values:
-    FORD_TP_RL: 52.35
-    FORD_TP_RLO: 52.35
+    F250_TP_RLO: 52.35
   response: |-
     72E056228160417
     72E10235902CA9D0115
@@ -24,6 +20,5 @@ test_cases:
     72E2490F3154890F415
     72E2548000000000000
 - expected_values:
-    FORD_TP_RL: 64.25
-    FORD_TP_RLO: 64.25
+    F250_TP_RLO: 64.25
   response: '72E056228160505'

@@ -1,29 +1,29 @@
 command_id: 7E0.7E8.22F421
 test_cases:
 - expected_values:
-    FORD_MIL_DIST: 0
+    F250_MIL_DIST: 0
   response: 7E80562F4210000
 - expected_values:
-    FORD_MIL_DIST: 2
+    F250_MIL_DIST: 2
   response: 7E80562F4210002
 - expected_values:
-    FORD_MIL_DIST: 4
+    F250_MIL_DIST: 4
   response: 7E80562F4210004
 - expected_values:
-    FORD_MIL_DIST: 15
+    F250_MIL_DIST: 15
   response: 7E80562F421000F
 - expected_values:
-    FORD_MIL_DIST: 32
+    F250_MIL_DIST: 32
   response: 7E80562F4210020
 - expected_values:
-    FORD_MIL_DIST: 57
+    F250_MIL_DIST: 57
   response: 7E80562F4210039
 - expected_values:
-    FORD_MIL_DIST: 111
+    F250_MIL_DIST: 111
   response: 7E80562F421006F
 - expected_values:
-    FORD_MIL_DIST: 127
+    F250_MIL_DIST: 127
   response: 7E80562F421007F
 - expected_values:
-    FORD_MIL_DIST: 136
+    F250_MIL_DIST: 136
   response: 7E80562F4210088

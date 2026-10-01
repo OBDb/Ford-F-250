@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220378
 test_cases:
 - expected_values:
-    FORD_GEN_CTRL: 0
+    F250_GEN_CTRL: 0
   response: '7E8056203780000'
 - expected_values:
-    FORD_GEN_CTRL: 36.71861
+    F250_GEN_CTRL: 36.71861
   response: 7E8056203782EFF
 - expected_values:
-    FORD_GEN_CTRL: 88.91392
+    F250_GEN_CTRL: 88.91392
   response: 7E80562037871CD

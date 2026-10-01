@@ -1,0 +1,12 @@
+command_id: 7DF.7E9.221E12
+test_cases:
+- expected_values:
+    F250_GEAR_V2: '2'
+  response: |-
+    7E804621E1202
+    7E904621E1202
+- expected_values:
+    F250_GEAR_V2: PARK
+  response: |-
+    7E804621E1246
+    7E904621E1246

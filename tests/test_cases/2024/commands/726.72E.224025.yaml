@@ -1,23 +1,23 @@
 command_id: 726.72E.224025
 test_cases:
 - expected_values:
-    FORD_BAT_QUIESCENT: 18
+    F250_BAT_QUIESCENT: 18
   response: 72E0562402507F4
 - expected_values:
-    FORD_BAT_QUIESCENT: 22
+    F250_BAT_QUIESCENT: 22
   response: 72E0562402507FC
 - expected_values:
-    FORD_BAT_QUIESCENT: 24
+    F250_BAT_QUIESCENT: 24
   response: '72E056240250800'
 - expected_values:
-    FORD_BAT_QUIESCENT: 28
+    F250_BAT_QUIESCENT: 28
   response: '72E056240250808'
 - expected_values:
-    FORD_BAT_QUIESCENT: 29
+    F250_BAT_QUIESCENT: 29
   response: 72E05624025080A
 - expected_values:
-    FORD_BAT_QUIESCENT: 30
+    F250_BAT_QUIESCENT: 30
   response: 72E05624025080C
 - expected_values:
-    FORD_BAT_QUIESCENT: 31
+    F250_BAT_QUIESCENT: 31
   response: 72E05624025080E

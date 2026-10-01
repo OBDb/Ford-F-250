@@ -1,8 +1,8 @@
 command_id: 7DF.22F45C
 test_cases:
 - expected_values:
-    FORD_EOP: 64
+    F250_EOT_7DF: 24
   response: 7E80462F45C40
 - expected_values:
-    FORD_EOP: 130
+    F250_EOT_7DF: 90
   response: 7E80462F45C82
