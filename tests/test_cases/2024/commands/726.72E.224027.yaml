@@ -1,34 +1,26 @@
 command_id: 726.72E.224027
 test_cases:
 - expected_values:
-    FORD_12V_AGE: 19968
-    FORD_BATT_AGE: 832
+    F250_12V_AGE: 19968
   response: '72E056240270340'
 - expected_values:
-    FORD_12V_AGE: 20016
-    FORD_BATT_AGE: 834
+    F250_12V_AGE: 20016
   response: '72E056240270342'
 - expected_values:
-    FORD_12V_AGE: 20040
-    FORD_BATT_AGE: 835
+    F250_12V_AGE: 20040
   response: '72E056240270343'
 - expected_values:
-    FORD_12V_AGE: 20112
-    FORD_BATT_AGE: 838
+    F250_12V_AGE: 20112
   response: '72E056240270346'
 - expected_values:
-    FORD_12V_AGE: 20136
-    FORD_BATT_AGE: 839
+    F250_12V_AGE: 20136
   response: '72E056240270347'
 - expected_values:
-    FORD_12V_AGE: 20160
-    FORD_BATT_AGE: 840
+    F250_12V_AGE: 20160
   response: '72E056240270348'
 - expected_values:
-    FORD_12V_AGE: 20184
-    FORD_BATT_AGE: 841
+    F250_12V_AGE: 20184
   response: '72E056240270349'
 - expected_values:
-    FORD_12V_AGE: 20208
-    FORD_BATT_AGE: 842
+    F250_12V_AGE: 20208
   response: 72E05624027034A

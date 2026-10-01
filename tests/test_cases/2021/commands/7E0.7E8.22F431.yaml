@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F431
 test_cases:
 - expected_values:
-    FORD_DIST_DTC_CLR: 906
+    F250_DIST_DTC_CLR: 906
   response: 7E80562F431038A
 - expected_values:
-    FORD_DIST_DTC_CLR: 1250
+    F250_DIST_DTC_CLR: 1250
   response: 7E80562F43104E2
 - expected_values:
-    FORD_DIST_DTC_CLR: 1286
+    F250_DIST_DTC_CLR: 1286
   response: 7E80562F4310506
 - expected_values:
-    FORD_DIST_DTC_CLR: 9236
+    F250_DIST_DTC_CLR: 9236
   response: 7E80562F4312414

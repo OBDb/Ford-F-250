@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22DD01
+test_cases:
+- expected_values:
+    F250_ODO_7E0: 436
+  response: 7E80662DD010001B4
+- expected_values:
+    F250_ODO_7E0: 1023
+  response: 7E80662DD010003FF
+- expected_values:
+    F250_ODO_7E0: 1024
+  response: 7E80662DD01000400
+- expected_values:
+    F250_ODO_7E0: 63232
+  response: 7E80662DD0100F700
+- expected_values:
+    F250_ODO_7E0: 82251
+  response: 7E80662DD0101414B

@@ -1,23 +1,23 @@
 command_id: 726.72E.224029
 test_cases:
 - expected_values:
-    FORD_BATT_TEMP: -21
+    F250_12V_T: -21
   response: '72E0462402913'
 - expected_values:
-    FORD_BATT_TEMP: -20
+    F250_12V_T: -20
   response: '72E0462402914'
 - expected_values:
-    FORD_BATT_TEMP: -19
+    F250_12V_T: -19
   response: '72E0462402915'
 - expected_values:
-    FORD_BATT_TEMP: -18
+    F250_12V_T: -18
   response: '72E0462402916'
 - expected_values:
-    FORD_BATT_TEMP: -17
+    F250_12V_T: -17
   response: '72E0462402917'
 - expected_values:
-    FORD_BATT_TEMP: -16
+    F250_12V_T: -16
   response: '72E0462402918'
 - expected_values:
-    FORD_BATT_TEMP: -15
+    F250_12V_T: -15
   response: '72E0462402919'

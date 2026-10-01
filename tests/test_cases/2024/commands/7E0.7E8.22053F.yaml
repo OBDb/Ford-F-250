@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22053F
 test_cases:
 - expected_values:
-    FORD_TIME_SINCE_OIL: 0
+    F250_TIME_SINCE_OIL: 0
   response: 7E80562053F0000
 - expected_values:
-    FORD_TIME_SINCE_OIL: 98.98528
+    F250_TIME_SINCE_OIL: 98.98528
   response: 7E80562053F1957
 - expected_values:
-    FORD_TIME_SINCE_OIL: 99.99237
+    F250_TIME_SINCE_OIL: 99.99237
   response: 7E80562053F1999
 - expected_values:
-    FORD_TIME_SINCE_OIL: 100.99947
+    F250_TIME_SINCE_OIL: 100.99947
   response: 7E80562053F19DB

@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.221310
 test_cases:
 - expected_values:
-    FORD_EOT_V2: 80.31
+    F250_EOT: 80.31
   response: 7E8056213102EFF
 - expected_values:
-    FORD_EOT_V2: 81.53
+    F250_EOT: 81.53
   response: 7E8056213102F79
 - expected_values:
-    FORD_EOT_V2: 85.71
+    F250_EOT: 85.71
   response: 7E805621310311B
 - expected_values:
-    FORD_EOT_V2: 85.79
+    F250_EOT: 85.79
   response: '7E8056213103123'
 - expected_values:
-    FORD_EOT_V2: 86.5
+    F250_EOT: 86.5
   response: 7E805621310316A

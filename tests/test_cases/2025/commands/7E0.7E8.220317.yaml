@@ -1,16 +1,16 @@
 command_id: 7E0.7E8.220317
 test_cases:
 - expected_values:
-    FORD_VCT_EXH_DUTY: 0
+    F250_VCT_EXH_DUTY: 0
   response: '7E8056203170000'
 - expected_values:
-    FORD_VCT_EXH_DUTY: 35.93445
+    F250_VCT_EXH_DUTY: 35.93445
   response: 7E8056203172DFF
 - expected_values:
-    FORD_VCT_EXH_DUTY: 48.59924
+    F250_VCT_EXH_DUTY: 48.59924
   response: |-
     7E8056203173E34
     7E8056203173E35
 - expected_values:
-    FORD_VCT_EXH_DUTY: 71.89636
+    F250_VCT_EXH_DUTY: 71.89636
   response: 7E8056203175C07
