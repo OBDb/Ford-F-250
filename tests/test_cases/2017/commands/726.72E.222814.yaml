@@ -1,6 +1,11 @@
 command_id: 726.72E.222814
 test_cases:
 - expected_values:
+    F250_TP_FR: null
+  response: |-
+    222814
+    72E056228140BB8
+- expected_values:
     F250_TP_FR: 52.5
   response: 72E05622814041A
 - expected_values:
@@ -9,3 +14,6 @@ test_cases:
 - expected_values:
     F250_TP_FR: 64
   response: '72E056228140500'
+- expected_values:
+    F250_TP_FR: null
+  response: 72E056228140BB8
