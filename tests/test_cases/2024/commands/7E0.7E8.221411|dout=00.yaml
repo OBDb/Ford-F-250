@@ -4,8 +4,8 @@ test_cases:
     F250_VOLUME_FUEL_DES: 0
   response: '7E8056214110000'
 - expected_values:
-    F250_VOLUME_FUEL_DES: 39.875
-  response: 7E805621411027E
+    F250_VOLUME_FUEL_DES: 15.9375
+  response: 7E80562141100FF
 - expected_values:
-    F250_VOLUME_FUEL_DES: 47
-  response: 7E80562141102F0
+    F250_VOLUME_FUEL_DES: 48
+  response: '7E8056214110300'
