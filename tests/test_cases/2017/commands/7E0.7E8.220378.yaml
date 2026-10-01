@@ -4,8 +4,8 @@ test_cases:
     F250_GEN_CTRL: 0
   response: '7E8056203780000'
 - expected_values:
-    F250_GEN_CTRL: 36.71861
-  response: 7E8056203782EFF
+    F250_GEN_CTRL: 28.12418
+  response: 7E80562037823FF
 - expected_values:
     F250_GEN_CTRL: 88.91392
   response: 7E80562037871CD
