@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     F250_TIME_SINCE_OIL: 143.99939
   response: 7E80562053F24DD
+- expected_values:
+    F250_TIME_SINCE_OIL: 144.99123
+  response: 7E80562053F251E
