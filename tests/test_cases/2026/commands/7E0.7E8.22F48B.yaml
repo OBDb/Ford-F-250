@@ -1,0 +1,22 @@
+command_id: 7E0.7E8.22F48B
+test_cases:
+- expected_values:
+    F250_DPF_REGEN_STAT_F48B: 2944.2
+  response: |-
+    7E8100A62F48B730239
+    7E82102940320CCCCCC
+- expected_values:
+    F250_DPF_REGEN_STAT_F48B: 2944.2
+  response: |-
+    7E8100A62F48B73023A
+    7E82102940320CCCCCC
+- expected_values:
+    F250_DPF_REGEN_STAT_F48B: 2944.2
+  response: |-
+    7E8100A62F48B73023B
+    7E82102940320CCCCCC
+- expected_values:
+    F250_DPF_REGEN_STAT_F48B: 2944.2
+  response: |-
+    7E8100A62F48B73023C
+    7E82102940320CCCCCC

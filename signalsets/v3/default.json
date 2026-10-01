@@ -296,7 +296,7 @@
   "signals": [
     {"id": "F250_TIP_V", "path": "Engine", "fmt": { "len": 16, "max": 5, "mul": 5, "div": 1024, "unit": "volts" }, "name": "Throttle inlet pressure sensor voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "033D"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "033D"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_MASS_AIRFLOW_SENS", "path": "Engine", "fmt": { "len": 16, "max": 16383, "div": 4, "unit": "hertz" }, "name": "Mass airflow sensor frequency"}
   ]},
@@ -388,7 +388,7 @@
   "signals": [
     {"id": "F250_CL_LC", "path": "Engine", "fmt": { "len": 16, "max": 3.9, "min": -4, "div": 8192, "sign": true, "unit": "scalar" }, "name": "Lambda correction"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "03C3"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03C3"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_FUEL_RAIL_P_CTRL", "path": "Fuel", "fmt": { "len": 8, "max": 127, "div": 2, "unit": "percent" }, "name": "Fuel rail pressure control"}
   ]},
@@ -432,7 +432,7 @@
   "signals": [
     {"id": "F250_PCM_ENG_EOP_RAW", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "kilopascal" }, "name": "Oil pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0416"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0416"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018, 2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_GLOW_PLUG_CMD_STAT", "path": "Engine", "fmt": {           "len": 8, "max": 251, "min": -4, "add": -4, "unit": "scalar" }, "name": "Glow plug, commanded status"},
     {"id": "F250_LOW_OIL_P_SWITCH",   "path": "Engine", "fmt": {"bix": 22, "len": 1, "max": 1,                         "unit": "offon"  }, "name": "Low oil pressure switch"}
@@ -453,7 +453,7 @@
   "signals": [
     {"id": "F250_DIST_SINCE_COMPLETE", "path": "Trips", "fmt": { "len": 24, "max": 4026531, "mul": 6, "div": 25, "unit": "miles" }, "name": "Distance since last complete regeneration"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0455"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0455"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "F250_ALTERNATOR_2_MON", "path": "Engine", "fmt": { "len": 16, "max": 200, "mul": 100, "div": 32767, "unit": "percent" }, "name": "Alternator 2 monitor"}
   ]},
@@ -477,51 +477,51 @@
   "signals": [
     {"id": "F250_INJ_MODE", "path": "Engine", "fmt": { "len": 8, "max": 7, "unit": "scalar" }, "name": "Injection mode"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0487"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0487"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_DEF_LEVEL", "path": "Engine", "fmt": { "len": 8, "max": 63.75, "div": 4, "unit": "liters" }, "name": "Diesel exhaust fluid level"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "048F"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "048F"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_CYL_6_FUEL_BALANCE", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 6 fuel balance correction"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "04A5"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "04A5"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_CYL_8_FUEL_BALANCE", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 8 fuel balance correction"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "04A6"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "04A6"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_CYL_7_FUEL_BALANCE", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 7 fuel balance correction"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "04AA"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "04AA"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_CYL_1_FUEL_QTY", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 1 fuel quantity"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "04AB"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "04AB"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_CYL_2_FUEL_QTY", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 2 fuel quantity"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "04AC"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "04AC"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_CYL_3_FUEL_QTY", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 3 fuel quantity"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "04AD"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "04AD"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_CYL_4_FUEL_QTY", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 4 fuel quantity"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "04AE"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "04AE"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_CYL_5_FUEL_QTY", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 5 fuel quantity"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "04AF"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "04AF"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_CYL_6_FUEL_QTY", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 6 fuel quantity"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "04B0"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "04B0"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_CYL_7_FUEL_QTY", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 7 fuel quantity"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "04B1"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "04B1"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_CYL_8_FUEL_QTY", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 8 fuel quantity"}
   ]},
@@ -529,7 +529,7 @@
   "signals": [
     {"id": "F250_GEN_CURRENT", "path": "Engine", "fmt": { "len": 16, "max": 511.8205, "min": -511.8361, "mul": 781, "div": 50000, "sign": true, "unit": "amps" }, "name": "Generator current"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0508"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0508"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "F250_CALC_SOOT_OIL", "path": "Engine", "fmt": {"bix": 7, "len": 1, "max": 8, "mul": 8, "unit": "offon" }, "name": "Calculated soot in oil"}
   ]},
@@ -565,7 +565,7 @@
   "signals": [
     {"id": "F250_LPFP_SENS_V", "path": "Engine", "fmt": { "len": 16, "max": 5, "div": 1024, "sign": true, "unit": "volts" }, "name": "Fuel pressure sensor voltage, low"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0579"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0579"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_DPF_SOOT_LOAD", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "percent" }, "name": "Diesel particulate filter soot load, variant 2"}
   ]},
@@ -653,19 +653,19 @@
   "signals": [
     {"id": "F250_VGT_DUTY", "path": "Engine", "fmt": { "len": 16, "max": 200, "mul": 100, "div": 32767, "unit": "percent" }, "name": "Variable geometry turbo duty cycle"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "098A"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "098A"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_CYL_1_FUEL_BALANCE", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 1 fuel balance correction"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "098B"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "098B"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_CYL_2_FUEL_BALANCE", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 2 fuel balance correction"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "098C"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "098C"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_CYL_3_FUEL_BALANCE", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 3 fuel balance correction"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "098D"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "098D"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_CYL_4_FUEL_BALANCE", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 4 fuel balance correction"}
   ]},
@@ -789,7 +789,7 @@
   "signals": [
     {"id": "F250_TQ_CONV_LINE_P", "path": "Transmission", "fmt": { "len": 8, "max": 8790.819, "mul": 172369, "div": 5000, "unit": "kilopascal" }, "name": "Torque converter line pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "11D3"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11D3"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_CYL_5_FUEL_BALANCE", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 5 fuel balance correction"}
   ]},
@@ -805,7 +805,7 @@
   "signals": [
     {"id": "F250_EOT_VAR_2", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Engine oil temperature, variant 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dout": "00", "dbg": true, "cmd": {"22": "1411"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "dout": "00", "cmd": {"22": "1411"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_VOLUME_FUEL_DES", "path": "Fuel", "fmt": { "len": 16, "max": 4095, "div": 16, "unit": "scalar" }, "name": "Volume fuel, desired"}
   ]},
@@ -1056,7 +1056,7 @@
   "signals": [
     {"id": "F250_ENG_LOAD_ACT", "path": "Engine", "fmt": { "len": 16, "max": 25700, "mul": 100, "div": 255, "unit": "percent" }, "name": "Engine load, actual"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F446"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F446"}, "freq": 5, "dbgfilter": { "to": 2016, "years": [2018, 2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_AAT_7E0", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Ambient air temperature"}
   ]},
@@ -1072,15 +1072,15 @@
   "signals": [
     {"id": "F250_PCM_ENG_REFERENCE_TRQ", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "newtonMeters" }, "name": "Engine reference torque"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "F46B"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F46B"}, "freq": 5, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_EGR_T_7E0", "path": "Engine", "fmt": { "len": 16, "max": 6513, "min": -40, "div": 10, "add": -40, "unit": "celsius" }, "name": "Exhaust gas recirculation temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "F478"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F478"}, "freq": 5, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_EGT_B1", "path": "Engine", "fmt": { "len": 16, "max": 6513, "min": -40, "div": 10, "add": -40, "unit": "celsius" }, "name": "Exhaust gas temperature, bank 1"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "F48B"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F48B"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023] },
   "signals": [
     {"id": "F250_DPF_REGEN_STAT_F48B", "path": "Engine", "fmt": { "len": 16, "max": 6553, "div": 10, "unit": "scalar" }, "name": "Diesel particulate filter regeneration status"}
   ]},

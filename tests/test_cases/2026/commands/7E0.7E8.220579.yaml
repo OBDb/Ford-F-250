@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.220579
+test_cases:
+- expected_values:
+    F250_DPF_SOOT_LOAD: 13
+  response: 7E805620579000D
+- expected_values:
+    F250_DPF_SOOT_LOAD: 14
+  response: 7E805620579000E
+- expected_values:
+    F250_DPF_SOOT_LOAD: 15
+  response: 7E805620579000F
+- expected_values:
+    F250_DPF_SOOT_LOAD: 16
+  response: '7E8056205790010'
+- expected_values:
+    F250_DPF_SOOT_LOAD: 17
+  response: '7E8056205790011'

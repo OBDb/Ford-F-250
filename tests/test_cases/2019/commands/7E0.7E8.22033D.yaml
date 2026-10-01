@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22033D
+test_cases:
+- expected_values:
+    F250_MASS_AIRFLOW_SENS: 3386.75
+  response: 7E80562033D34EB
+- expected_values:
+    F250_MASS_AIRFLOW_SENS: 5055.5
+  response: 7E80562033D4EFE
+- expected_values:
+    F250_MASS_AIRFLOW_SENS: 6529.5
+  response: 7E80562033D6606
+- expected_values:
+    F250_MASS_AIRFLOW_SENS: 7547
+  response: 7E80562033D75EC
