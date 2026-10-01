@@ -4,5 +4,5 @@ test_cases:
     F250_ENG_LOAD_PCT: 0
   response: 7E80462F40400
 - expected_values:
-    F250_ENG_LOAD_PCT: 48.23529
-  response: 7E80462F4047B
+    F250_ENG_LOAD_PCT: 62.7451
+  response: 7E80462F404A0
