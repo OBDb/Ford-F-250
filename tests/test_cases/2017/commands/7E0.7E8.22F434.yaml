@@ -7,6 +7,9 @@ test_cases:
     F250_AIR_FUEL_RAT: 11.3962
   response: 7E80762F43463A37F19
 - expected_values:
+    F250_AIR_FUEL_RAT: 14.29674
+  response: 7E80762F4347CFF7FDF
+- expected_values:
     F250_AIR_FUEL_RAT: 14.56972
   response: 7E80762F4347F627FFF
 - expected_values:

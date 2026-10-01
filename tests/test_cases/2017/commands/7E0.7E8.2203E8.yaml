@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     F250_OAR: 0
   response: 7E8056203E8F76C
+- expected_values:
+    F250_OAR: 0
+  response: 7E8056203E8FAFA
