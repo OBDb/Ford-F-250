@@ -4,11 +4,11 @@ test_cases:
     F250_ECT: 16.76562
   response: 7E80562038F0431
 - expected_values:
+    F250_ECT: 36.0625
+  response: 7E80562038F0904
+- expected_values:
     F250_ECT: 39.96875
   response: 7E80562038F09FE
-- expected_values:
-    F250_ECT: 40.0625
-  response: 7E80562038F0A04
 - expected_values:
     F250_ECT: 92.17188
   response: 7E80562038F170B

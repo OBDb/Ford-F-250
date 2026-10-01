@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     F250_12V_AGE: 20208
   response: 72E05624027034A
+- expected_values:
+    F250_12V_AGE: 20232
+  response: 72E05624027034B

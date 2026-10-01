@@ -7,5 +7,5 @@ test_cases:
     F250_RPM: 1599.5
   response: 7E80562F40C18FE
 - expected_values:
-    F250_RPM: 1801
-  response: 7E80562F40C1C24
+    F250_RPM: 2034.5
+  response: 7E80562F40C1FCA
