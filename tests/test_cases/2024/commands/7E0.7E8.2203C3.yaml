@@ -4,5 +4,5 @@ test_cases:
     F250_FUEL_RAIL_P_CTRL: 6.5
   response: 7E8046203C30D
 - expected_values:
-    F250_FUEL_RAIL_P_CTRL: 36.5
-  response: 7E8046203C349
+    F250_FUEL_RAIL_P_CTRL: 42.5
+  response: 7E8046203C355
