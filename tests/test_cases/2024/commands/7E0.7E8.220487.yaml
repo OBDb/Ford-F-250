@@ -4,8 +4,8 @@ test_cases:
     F250_DEF_LEVEL: 11
   response: 7E8056204872CA3
 - expected_values:
-    F250_DEF_LEVEL: 12.5
-  response: '7E8056204873209'
+    F250_DEF_LEVEL: 12.25
+  response: '7E8056204873104'
 - expected_values:
     F250_DEF_LEVEL: 63.75
   response: 7E805620487FFFE
