@@ -180,6 +180,7 @@ supported_commands_by_ecu:
   "7E1":
   - 7E1.7E9.0105
   - 7E1.7E9.010C
+  - 7E1.7E9.010D
   - 7E1.7E9.0131
   - 7E1.7E9.22DD01:F250_TRANS_ODO
   "7E2":
