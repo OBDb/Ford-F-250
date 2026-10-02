@@ -25,3 +25,8 @@ test_cases:
   response: |-
     7E8100A62F48B730247
     7E82102AB0320CCCCCC
+- expected_values:
+    F250_DPF_REGEN_STAT_F48B: 2944.2
+  response: |-
+    7E8100A62F48B730249
+    7E82102AB0320CCCCCC

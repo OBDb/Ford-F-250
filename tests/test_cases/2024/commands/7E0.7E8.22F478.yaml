@@ -14,7 +14,12 @@ test_cases:
     F250_EGT_B1: 344.9
   response: |-
     7E8100C62F4780F0960
-    7E82107FA0A840620CC
+    7E82105C6060205D0CC
+- expected_values:
+    F250_EGT_B1: 344.9
+  response: |-
+    7E8100C62F4780F0960
+    7E821063405FF0648CC
 - expected_values:
     F250_EGT_B1: 344.9
   response: |-
@@ -30,11 +35,6 @@ test_cases:
   response: |-
     7E8100C62F4780F0985
     7E82108D2099008AACC
-- expected_values:
-    F250_EGT_B1: 344.9
-  response: |-
-    7E8100C62F4780F09CB
-    7E82109120A0F04E4CC
 - expected_values:
     F250_EGT_B1: 344.9
   response: |-
