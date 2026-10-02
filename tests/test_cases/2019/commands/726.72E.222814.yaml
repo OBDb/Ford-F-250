@@ -17,5 +17,5 @@ test_cases:
     F250_TP_FR: 62.6
   response: 72E0562281404E4
 - expected_values:
-    F250_TP_FR: 64.75
-  response: 72E05622814050F
+    F250_TP_FR: null
+  response: 72E056228140BB8
