@@ -17,5 +17,5 @@ test_cases:
     F250_TP_RRO: 63.75
   response: 72E0562281504FB
 - expected_values:
-    F250_TP_RRO: 64.75
-  response: 72E05622815050F
+    F250_TP_RRO: null
+  response: 72E056228150BB8
