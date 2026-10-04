@@ -18,6 +18,7 @@ supported_commands_by_ecu:
   - 760.768.222B00:F250_PARKING_BRAKE
   - 760.768.22DD01:F250_ABS_ODO
   "7DF":
+  - 7DF.0104
   - 7DF.0105
   - 7DF.010C
   - 7DF.010D
