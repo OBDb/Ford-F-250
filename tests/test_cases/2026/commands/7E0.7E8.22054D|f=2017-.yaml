@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22054D|f=2017-
+test_cases:
+- expected_values:
+    F250_LPFP_SENS_V: 0.46387
+  response: 7E80562054D01DB
+- expected_values:
+    F250_LPFP_SENS_V: 0.49902
+  response: 7E80562054D01FF
+- expected_values:
+    F250_LPFP_SENS_V: 0.50195
+  response: 7E80562054D0202
+- expected_values:
+    F250_LPFP_SENS_V: 2.00391
+  response: 7E80562054D0804

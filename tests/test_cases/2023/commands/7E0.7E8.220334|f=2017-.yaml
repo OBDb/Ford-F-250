@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220334|f=2017-
+test_cases:
+- expected_values:
+    F250_PCM_CYL_HEAD_T_CORR: 48.625
+  response: 7E8056203340C28
+- expected_values:
+    F250_PCM_CYL_HEAD_T_CORR: 55.98438
+  response: 7E8056203340DFF
+- expected_values:
+    F250_PCM_CYL_HEAD_T_CORR: 92
+  response: '7E8056203341700'
+- expected_values:
+    F250_PCM_CYL_HEAD_T_CORR: 100.1875
+  response: 7E805620334190C

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F4A6|f=2017-
+test_cases:
+- expected_values:
+    F250_PCM_VEH_ODO: 138882.8
+  response: 7E80762F4A60015311C
+- expected_values:
+    F250_PCM_VEH_ODO: 139263.4
+  response: 7E80762F4A600153FFA
+- expected_values:
+    F250_PCM_VEH_ODO: 139264.3
+  response: 7E80762F4A600154003
+- expected_values:
+    F250_PCM_VEH_ODO: 173015.9
+  response: 7E80762F4A6001A666F

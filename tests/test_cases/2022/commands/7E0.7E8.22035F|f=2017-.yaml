@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22035F|f=2017-
+test_cases:
+- expected_values:
+    F250_RO2_V: 0.10547
+  response: 7E80562035F006C
+- expected_values:
+    F250_RO2_V: 0.74805
+  response: 7E80562035F02FE
+- expected_values:
+    F250_RO2_V: 0.75684
+  response: 7E80562035F0307
+- expected_values:
+    F250_RO2_V: 1
+  response: 7E80562035F061B

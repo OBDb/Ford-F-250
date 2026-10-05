@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22041F|f=2017-
+test_cases:
+- expected_values:
+    F250_LPFP_DES: 86.13
+  response: |-
+    22041F
+    7E80462041FC6
+- expected_values:
+    F250_LPFP_DES: 101.355
+  response: |-
+    22041F
+    7E80462041FE9
+- expected_values:
+    F250_LPFP_DES: 107.445
+  response: |-
+    22041F
+    7E80462041FF7
+- expected_values:
+    F250_LPFP_DES: 0
+  response: 7E80462041F00
+- expected_values:
+    F250_LPFP_DES: 110
+  response: 7E80462041FFF

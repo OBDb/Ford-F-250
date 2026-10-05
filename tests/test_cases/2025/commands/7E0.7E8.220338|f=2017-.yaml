@@ -1,0 +1,18 @@
+command_id: 7E0.7E8.220338|f=2017-
+test_cases:
+- expected_values:
+    F250_ETC_TRIM_LRN: 0.02148
+  response: 7E805620338000B
+- expected_values:
+    F250_ETC_TRIM_LRN: 0.28906
+  response: |-
+    7E8056203380094
+    7E8056203380094
+- expected_values:
+    F250_ETC_TRIM_LRN: 0.31836
+  response: |-
+    7E80562033800A3
+    7E80562033800A3
+- expected_values:
+    F250_ETC_TRIM_LRN: 0.38281
+  response: 7E80562033800C4

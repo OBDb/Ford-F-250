@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.220345|f=2017-
+test_cases:
+- expected_values:
+    F250_PCM_MISF_EVENTS_LATEST_CYC: 0
+  response: '7E80762034500000000'
+- expected_values:
+    F250_PCM_MISF_EVENTS_LATEST_CYC: 3
+  response: |-
+    7E80762034500000003
+    7E80762034500000003
+- expected_values:
+    F250_PCM_MISF_EVENTS_LATEST_CYC: 13
+  response: |-
+    7E8076203450000000D
+    7E8076203450000000D
+- expected_values:
+    F250_PCM_MISF_EVENTS_LATEST_CYC: 34
+  response: |-
+    7E80762034500000022
+    7E80762034500000022
+- expected_values:
+    F250_PCM_MISF_EVENTS_LATEST_CYC: 69
+  response: '7E80762034500000045'

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22038E|f=2017-
+test_cases:
+- expected_values:
+    F250_EVAP_RAW: 1161
+  response: 7E80562038E0489
+- expected_values:
+    F250_EVAP_RAW: 1536
+  response: 7E80562038E0600
+- expected_values:
+    F250_EVAP_RAW: 2287
+  response: 7E80562038E08EF
+- expected_values:
+    F250_EVAP_RAW: 2892
+  response: 7E80562038E0B4C

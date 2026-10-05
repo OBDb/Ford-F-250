@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2203E8|f=2017-
+test_cases:
+- expected_values:
+    F250_OAR: 0
+  response: 7E8056203E8E7DF
+- expected_values:
+    F250_OAR: 0
+  response: 7E8056203E8EE0C
+- expected_values:
+    F250_OAR: 0
+  response: 7E8056203E8FC12

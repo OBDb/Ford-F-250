@@ -1,8 +1,0 @@
-command_id: 7E0.7E8.22054D
-test_cases:
-- expected_values:
-    F250_LPFP_SENS_V: 2.16797
-  response: 7E80562054D08AC
-- expected_values:
-    F250_LPFP_SENS_V: 4.99707
-  response: 7E80562054D13FD

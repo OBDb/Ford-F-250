@@ -1,8 +1,0 @@
-command_id: 7E0.7E8.221E1F
-test_cases:
-- expected_values:
-    F250_GEAR_ENG: 0
-  response: 7E804621E1F00
-- expected_values:
-    F250_GEAR_ENG: 6
-  response: 7E804621E1F82

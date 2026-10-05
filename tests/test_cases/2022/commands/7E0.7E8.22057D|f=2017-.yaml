@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22057D|f=2017-
+test_cases:
+- expected_values:
+    F250_AAT_ALT: 27
+  response: 7E80462057D86
+- expected_values:
+    F250_AAT_ALT: 42
+  response: 7E80462057DA4

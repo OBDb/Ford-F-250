@@ -1,0 +1,24 @@
+command_id: 7E0.7E8.220466|f=2017-
+test_cases:
+- expected_values:
+    F250_TIP_DES_ABS: 14.16115
+  response: |-
+    220466
+    7E80562046631FF
+- expected_values:
+    F250_TIP_DES_ABS: 17.05113
+  response: |-
+    220466
+    7E8056204663C33
+- expected_values:
+    F250_TIP_DES_ABS: 13.26937
+  response: 7E8056204662ED9
+- expected_values:
+    F250_TIP_DES_ABS: 13.31141
+  response: 7E8056204662EFF
+- expected_values:
+    F250_TIP_DES_ABS: 13.3258
+  response: 7E8056204662F0C
+- expected_values:
+    F250_TIP_DES_ABS: 33.6774
+  response: 7E80562046676E6
