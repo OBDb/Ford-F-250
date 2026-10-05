@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22033C|f=2017-
+test_cases:
+- expected_values:
+    F250_TIP_V: 0.91797
+  response: 7E80562033C00BC
+- expected_values:
+    F250_TIP_V: 1.24512
+  response: 7E80562033C00FF
+- expected_values:
+    F250_TIP_V: 1.25
+  response: 7E80562033C0100
+- expected_values:
+    F250_TIP_V: 2.51953
+  response: 7E80562033C0204

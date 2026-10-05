@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221E16|f=2017-
+test_cases:
+- expected_values:
+    F250_AXLE_GEAR_RATIO_MEAS: 0.63184
+  response: 7E805621E160A1C
+- expected_values:
+    F250_AXLE_GEAR_RATIO_MEAS: 0.68726
+  response: 7E805621E160AFF
+- expected_values:
+    F250_AXLE_GEAR_RATIO_MEAS: 0.6875
+  response: 7E805621E160B00
+- expected_values:
+    F250_AXLE_GEAR_RATIO_MEAS: 10
+  response: 7E805621E16A000

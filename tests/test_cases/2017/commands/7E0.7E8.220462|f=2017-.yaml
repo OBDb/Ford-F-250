@@ -1,0 +1,21 @@
+command_id: 7E0.7E8.220462|f=2017-
+test_cases:
+- expected_values:
+    F250_WGDC: 73.14453
+  response: |-
+    220462
+    7E8056204625DA0
+- expected_values:
+    F250_WGDC: 89.5874
+  response: |-
+    220462
+    7E80562046272AC
+- expected_values:
+    F250_WGDC: 0
+  response: '7E8056204620000'
+- expected_values:
+    F250_WGDC: 53.11279
+  response: 7E80562046243FC
+- expected_values:
+    F250_WGDC: 97.99805
+  response: 7E8056204627D70

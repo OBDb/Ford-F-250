@@ -1,0 +1,18 @@
+command_id: 7E0.7E8.220353|f=2017-
+test_cases:
+- expected_values:
+    F250_BARO: 12.14555
+  response: 7E805620353014F
+- expected_values:
+    F250_BARO: 14.24836
+  response: |-
+    7E8056203530189
+    7E8056203530189
+- expected_values:
+    F250_BARO: 14.32087
+  response: |-
+    7E805620353018B
+    7E805620353018B
+- expected_values:
+    F250_BARO: 14.71968
+  response: '7E8056203530196'

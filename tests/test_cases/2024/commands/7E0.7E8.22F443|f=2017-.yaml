@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F443|f=2017-
+test_cases:
+- expected_values:
+    F250_ENG_LOAD_ACT: 0
+  response: 7E80562F4430000
+- expected_values:
+    F250_ENG_LOAD_ACT: 100
+  response: 7E80562F44300FF
+- expected_values:
+    F250_ENG_LOAD_ACT: 100.39216
+  response: 7E80562F4430100

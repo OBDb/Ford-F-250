@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220461|f=2017-
+test_cases:
+- expected_values:
+    F250_CHG_AIR_T_2: -40
+  response: '7E8056204610000'

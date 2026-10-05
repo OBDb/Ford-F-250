@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220604|f=2017-
+test_cases:
+- expected_values:
+    F250_PCM_A_C_REFRIG_P: 1593
+  response: '7E8056206040639'
+- expected_values:
+    F250_PCM_A_C_REFRIG_P: 1789
+  response: 7E80562060406FD
+- expected_values:
+    F250_PCM_A_C_REFRIG_P: 1793
+  response: '7E8056206040701'
+- expected_values:
+    F250_PCM_A_C_REFRIG_P: 3199
+  response: 7E8056206040C7F

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221505|f=2017-
+test_cases:
+- expected_values:
+    F250_VSS_HD: 0
+  response: '7E8056215050000'
+- expected_values:
+    F250_VSS_HD: 3.99219
+  response: 7E80562150501FF
+- expected_values:
+    F250_VSS_HD: 147.8125
+  response: 7E80562150549E8

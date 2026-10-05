@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F40B|f=2017-
+test_cases:
+- expected_values:
+    F250_MAP: 5.2214
+  response: 7E80462F40B24
+- expected_values:
+    F250_MAP: 25.96197
+  response: 7E80462F40BB3

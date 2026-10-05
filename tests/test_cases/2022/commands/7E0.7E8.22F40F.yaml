@@ -1,8 +1,0 @@
-command_id: 7E0.7E8.22F40F
-test_cases:
-- expected_values:
-    F250_IAT_ALT2: 29
-  response: 7E80462F40F45
-- expected_values:
-    F250_IAT_ALT2: 53
-  response: 7E80462F40F5D

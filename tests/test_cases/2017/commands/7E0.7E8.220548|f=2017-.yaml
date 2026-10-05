@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.220548|f=2017-
+test_cases:
+- expected_values:
+    F250_LPFP_ACT: 59.90195
+  response: |-
+    220548
+    7E805620548033A
+- expected_values:
+    F250_LPFP_ACT: 60.26455
+  response: |-
+    220548
+    7E805620548033F
+- expected_values:
+    F250_LPFP_ACT: 60.4096
+  response: |-
+    220548
+    7E8056205480341
+- expected_values:
+    F250_LPFP_ACT: 0
+  response: '7E8056205480000'
+- expected_values:
+    F250_LPFP_ACT: 57.50877
+  response: '7E8056205480319'
+- expected_values:
+    F250_LPFP_ACT: 72.66556
+  response: 7E80562054803EA
