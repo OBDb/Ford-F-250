@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22093C|f=2017-;-2010
+test_cases:
+- expected_values:
+    F250_ETC_ANG_ACT: 1.46094
+  response: 7E80562093C02EC
+- expected_values:
+    F250_ETC_ANG_ACT: 2.99219
+  response: 7E80562093C05FC
+- expected_values:
+    F250_ETC_ANG_ACT: 3.5
+  response: 7E80562093C0700
+- expected_values:
+    F250_ETC_ANG_ACT: 85.78906
+  response: 7E80562093CAB94

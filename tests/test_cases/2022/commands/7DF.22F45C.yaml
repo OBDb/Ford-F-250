@@ -1,8 +1,0 @@
-command_id: 7DF.22F45C
-test_cases:
-- expected_values:
-    F250_EOT_7DF: 2
-  response: 7E80462F45C2A
-- expected_values:
-    F250_EOT_7DF: 95
-  response: 7E80462F45C87

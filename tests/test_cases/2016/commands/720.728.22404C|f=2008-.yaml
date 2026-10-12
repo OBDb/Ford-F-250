@@ -1,0 +1,14 @@
+command_id: 720.728.22404C|f=2008-
+test_cases:
+- expected_values:
+    F250_ODO: 167265.5
+  response: '728 06 62 40 4C 19 85 CF '
+- expected_values:
+    F250_ODO: 167231.8
+  response: 7280662404C19847E
+- expected_values:
+    F250_ODO: 167266.6
+  response: 7280662404C1985DA
+- expected_values:
+    F250_ODO: 167296.8
+  response: 7280662404C198708
