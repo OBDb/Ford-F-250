@@ -25,27 +25,27 @@
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2813"}, "freq": 15, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2014, 2015, 2018] },
   "signals": [
-    {"id": "F250_TP_FL", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmax": 150, "unit": "psi" }, "name": "Front left tire pressure", "suggestedMetric": "frontLeftTirePressure"}
+    {"id": "F250_TP_FL", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmin": 0, "nullmax": 150, "unit": "psi" }, "name": "Front left tire pressure", "suggestedMetric": "frontLeftTirePressure"}
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2814"}, "freq": 15, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2014, 2015, 2018] },
   "signals": [
-    {"id": "F250_TP_FR", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmax": 150, "unit": "psi" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"}
+    {"id": "F250_TP_FR", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmin": 0, "nullmax": 150, "unit": "psi" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"}
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2815"}, "freq": 15, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2014, 2015, 2018] },
   "signals": [
-    {"id": "F250_TP_RRO", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmax": 150, "unit": "psi" }, "name": "Rear right outer tire pressure", "suggestedMetric": "rearRightTirePressure"}
+    {"id": "F250_TP_RRO", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmin": 0, "nullmax": 150, "unit": "psi" }, "name": "Rear right outer tire pressure", "suggestedMetric": "rearRightTirePressure"}
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2816"}, "freq": 15, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2014, 2015, 2018] },
   "signals": [
-    {"id": "F250_TP_RLO", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmax": 150, "unit": "psi" }, "name": "Rear left outer tire pressure", "suggestedMetric": "rearLeftTirePressure"}
+    {"id": "F250_TP_RLO", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmin": 0, "nullmax": 150, "unit": "psi" }, "name": "Rear left outer tire pressure", "suggestedMetric": "rearLeftTirePressure"}
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2817"}, "freq": 15, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2014, 2015, 2018] },
   "signals": [
-    {"id": "F250_TP_RRI", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmax": 150, "unit": "psi" }, "name": "Tire pressure, rear right inner"}
+    {"id": "F250_TP_RRI", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmin": 0, "nullmax": 150, "unit": "psi" }, "name": "Tire pressure, rear right inner"}
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2818"}, "freq": 15, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2014, 2015, 2018] },
   "signals": [
-    {"id": "F250_TP_RLI", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmax": 150, "unit": "psi" }, "name": "Tire pressure, rear left inner"}
+    {"id": "F250_TP_RLI", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmin": 0, "nullmax": 150, "unit": "psi" }, "name": "Tire pressure, rear left inner"}
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "401E"}, "freq": 1, "dbgfilter": { "to": 2023 },
   "signals": [
@@ -463,7 +463,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0461"}, "freq": 5, "filter": { "from": 2017 }, "dbgfilter": { "to": 2020, "years": [2024] },
   "signals": [
-    {"id": "F250_CHG_AIR_T_2", "path": "Engine", "fmt": { "len": 16, "max": 189, "min": -40, "div": 64, "add": -40, "sign": true, "unit": "celsius" }, "name": "Charge air temperature 2"}
+    {"id": "F250_CHG_AIR_T_2", "path": "Engine", "fmt": { "len": 16, "max": 189, "min": -40, "div": 64, "add": -40, "sign": true, "nullmin": -40, "unit": "celsius" }, "name": "Charge air temperature 2"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0462"}, "freq": 1, "filter": { "from": 2017 }, "dbgfilter": { "years": [2018] },
   "signals": [
