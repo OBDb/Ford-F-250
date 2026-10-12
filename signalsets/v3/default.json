@@ -3,7 +3,7 @@
     { "hdr": "7E1", "type": "transmission" }
   ],
   "commands": [
-{ "hdr": "720", "rax": "728", "cmd": {"22": "404C"}, "freq": 30, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2014, 2015, 2017, 2018, 2019, 2020, 2021], "from": 2023 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "404C"}, "freq": 30, "filter": { "from": 2008 }, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2014, 2015, 2017, 2018, 2019, 2020, 2021], "from": 2023 },
   "signals": [
     {"id": "F250_ODO", "path": "Trips", "fmt": { "len": 24, "max": 1677721, "div": 10, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
@@ -11,11 +11,11 @@
   "signals": [
     {"id": "F250_ODO_720", "path": "Trips", "fmt": { "len": 24, "max": 1677721, "div": 10, "unit": "kilometers" }, "name": "Odometer"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "6185"}, "freq": 30, "dbgfilter": { "to": 2005, "years": [2007, 2008, 2009], "from": 2011 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "6185"}, "freq": 30, "filter": { "to": 2010, "from": 2026 }, "dbgfilter": { "to": 2005, "years": [2007, 2008, 2009] },
   "signals": [
     {"id": "F250_FLI", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel tank level", "suggestedMetric": "fuelTankLevel"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "61A5"}, "freq": 15, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2014, 2015, 2017, 2018, 2019, 2020, 2021], "from": 2023 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "61A5"}, "freq": 15, "filter": { "from": 2008 }, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2014, 2015, 2017, 2018, 2019, 2020, 2021], "from": 2023 },
   "signals": [
     {"id": "F250_TPMS_WARN", "path": "Tires", "fmt": {"bix": 2, "len": 1, "max": 1, "unit": "offon" }, "name": "Tire pressure warning"}
   ]},
@@ -63,11 +63,11 @@
   "signals": [
     {"id": "F250_NORM_CUM_DCHG_BAT_OFF", "path": "Battery", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "scalar" }, "name": "Normalized cumulative discharge from battery with engine off"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "4027"}, "freq": 3600, "dbgfilter": { "to": 2019 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "4027"}, "freq": 3600, "filter": { "to": 2010, "from": 2017 }, "dbgfilter": { "to": 2019 },
   "signals": [
     {"id": "F250_12V_AGE", "path": "Battery", "fmt": { "len": 16, "max": 1572840, "mul": 24, "unit": "hours" }, "name": "12V battery age"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "4028"}, "freq": 5, "dbgfilter": { "to": 2019 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "4028"}, "freq": 5, "filter": { "to": 2010, "from": 2017 }, "dbgfilter": { "to": 2019 },
   "signals": [
     {"id": "F250_12V_SOC", "path": "Battery", "fmt": { "len": 8, "max": 100, "unit": "percent" }, "name": "12V battery state of charge"}
   ]},
@@ -79,7 +79,7 @@
   "signals": [
     {"id": "F250_12V_V", "path": "Battery", "fmt": { "len": 8, "max": 18.75, "div": 20, "add": 6, "unit": "volts" }, "name": "12V battery voltage", "suggestedMetric": "starterBatteryVoltage"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "402B"}, "freq": 1, "dbgfilter": { "to": 2019 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "402B"}, "freq": 1, "filter": { "to": 2010, "from": 2017 }, "dbgfilter": { "to": 2019 },
   "signals": [
     {"id": "F250_VEH_BAT_CURRENT", "path": "Battery", "fmt": { "len": 8, "max": 128, "min": -127, "add": -127, "unit": "amps" }, "name": "Vehicle battery current"}
   ]},
@@ -142,7 +142,7 @@
         }}
     }
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "DD01"}, "freq": 30, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022], "from": 2024 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "DD01"}, "freq": 30, "filter": { "to": 2010, "from": 2017 }, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022], "from": 2024 },
   "signals": [
     {"id": "F250_ODO_726", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer, instrument panel", "suggestedMetric": "odometer"}
   ]},
@@ -197,7 +197,7 @@
   "signals": [
     {"id": "F250_ABS_LATERAL_ACCEL", "path": "Control", "fmt": { "len": 16, "max": 1310.7, "div": 50, "unit": "gravity" }, "name": "Anti-lock brake lateral acceleration"}
   ]},
-{ "hdr": "760", "rax": "768", "cmd": {"22": "DD01"}, "freq": 5, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022] },
+{ "hdr": "760", "rax": "768", "cmd": {"22": "DD01"}, "freq": 5, "filter": { "to": 2010, "from": 2017 }, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022] },
   "signals": [
     {"id": "F250_ABS_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer, brake module", "suggestedMetric": "odometer"}
   ]},
@@ -205,7 +205,7 @@
   "signals": [
     {"id": "F250_CC_TGT_VSS", "path": "Cruise control", "fmt": { "len": 16, "max": 736, "min": -736, "mul": 3.6, "div": 10, "sign": true, "unit": "kilometersPerHour" }, "name": "Target speed", "description": "The speed of the vehicle ahead of you."}
   ]},
-{ "hdr": "7DF", "cmd": {"22": "F45C"}, "freq": 30, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2014, 2015, 2018] },
+{ "hdr": "7DF", "cmd": {"22": "F45C"}, "freq": 30, "filter": { "from": 2008 }, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2014, 2015, 2018] },
   "signals": [
     {"id": "F250_EOT_7DF", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Engine oil temperature", "suggestedMetric": "engineOilTemperature"}
   ]},
@@ -457,7 +457,7 @@
   "signals": [
     {"id": "F250_ALTERNATOR_2_MON", "path": "Engine", "fmt": { "len": 16, "max": 200, "mul": 100, "div": 32767, "unit": "percent" }, "name": "Alternator 2 monitor"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0460"}, "freq": 1, "dbgfilter": { "to": 2010, "from": 2012 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0460"}, "freq": 1, "filter": { "to": 2016, "from": 2026 }, "dbgfilter": { "to": 2010, "from": 2012 },
   "signals": [
     {"id": "F250_CAT_SENS_V", "path": "Engine", "fmt": { "len": 16, "max": 5, "div": 1024, "sign": true, "unit": "volts" }, "name": "Charge air temperature sensor voltage"}
   ]},
@@ -629,7 +629,7 @@
   "signals": [
     {"id": "F250_TRANSFER_CASE_FLUID_T", "path": "Engine", "fmt": { "len": 16, "max": 2047.9375, "min": -2048, "div": 16, "sign": true, "unit": "celsius" }, "name": "Transfer case fluid temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "091A"}, "freq": 0.25, "dbgfilter": { "to": 2009, "years": [2011, 2012, 2013, 2014, 2015, 2016, 2018, 2019, 2020, 2024] },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "091A"}, "freq": 0.25, "filter": { "to": 2010, "from": 2017 }, "dbgfilter": { "to": 2009, "years": [2018, 2019, 2020, 2024] },
   "signals": [
     {"id": "F250_ETC_ANG_DES", "path": "Engine", "fmt": { "len": 16, "max": 127.99, "div": 512, "unit": "degrees" }, "name": "Throttle angle, desired"}
   ]},
@@ -637,7 +637,7 @@
   "signals": [
     {"id": "F250_ATF_T_VAR", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "fahrenheit" }, "name": "Transmission fluid temperature, variant 6"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "093C"}, "freq": 0.25, "dbgfilter": { "to": 2009, "years": [2011, 2012, 2013, 2014, 2015, 2016, 2018, 2019, 2020, 2024] },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "093C"}, "freq": 0.25, "filter": { "to": 2010, "from": 2017 }, "dbgfilter": { "to": 2009, "years": [2018, 2019, 2020, 2024] },
   "signals": [
     {"id": "F250_ETC_ANG_ACT", "path": "Engine", "fmt": { "len": 16, "max": 127.99, "div": 512, "unit": "degrees" }, "name": "Throttle angle, actual"}
   ]},

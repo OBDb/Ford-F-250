@@ -1,0 +1,29 @@
+command_id: 7DF.22F45C|f=2008-
+test_cases:
+- expected_values:
+    F250_EOT_7DF: 30
+  response: 7E80462F45C46
+- expected_values:
+    F250_EOT_7DF: 33
+  response: 7E80462F45C49
+- expected_values:
+    F250_EOT_7DF: 34
+  response: 7E80462F45C4A
+- expected_values:
+    F250_EOT_7DF: 35
+  response: 7E80462F45C4B
+- expected_values:
+    F250_EOT_7DF: 47
+  response: 7E80462F45C57
+- expected_values:
+    F250_EOT_7DF: 48
+  response: 7E80462F45C58
+- expected_values:
+    F250_EOT_7DF: 49
+  response: 7E80462F45C59
+- expected_values:
+    F250_EOT_7DF: 52
+  response: 7E80462F45C5C
+- expected_values:
+    F250_EOT_7DF: 55
+  response: 7E80462F45C5F
