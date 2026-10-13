@@ -38,6 +38,7 @@ supported_commands_by_ecu:
   - 7DF.0104
   - 7DF.0110
   - 7DF.015C
+  - 7DF.015E
   - 7DF.22F42F
   - 7DF.22F45C|f=2008-:F250_EOT_7DF
   - 7DF.7E9.221E12:F250_GEAR_V2
