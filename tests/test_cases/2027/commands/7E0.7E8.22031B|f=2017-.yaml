@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22031B|f=2017-
+test_cases:
+- expected_values:
+    F250_VCT_EXH_ERR: 11.8125
+  response: 7E80562031B00BD
+- expected_values:
+    F250_VCT_EXH_ERR: 50
+  response: 7E80562031BFFFB
+- expected_values:
+    F250_VCT_EXH_ERR: 50
+  response: 7E80562031BFFFD

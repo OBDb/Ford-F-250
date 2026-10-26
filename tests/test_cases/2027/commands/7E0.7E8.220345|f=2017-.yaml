@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220345|f=2017-
+test_cases:
+- expected_values:
+    F250_PCM_MISF_EVENTS_LATEST_CYC: 21
+  response: '7E80762034500000015'
+- expected_values:
+    F250_PCM_MISF_EVENTS_LATEST_CYC: 22
+  response: '7E80762034500000016'
+- expected_values:
+    F250_PCM_MISF_EVENTS_LATEST_CYC: 23
+  response: '7E80762034500000017'

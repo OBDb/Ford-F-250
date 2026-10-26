@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220307|f=2017-
+test_cases:
+- expected_values:
+    F250_LPFP_DUTY: 30.06592
+  response: 7E805620307267C
+- expected_values:
+    F250_LPFP_DUTY: 30.18799
+  response: 7E80562030726A4
+- expected_values:
+    F250_LPFP_DUTY: 30.24597
+  response: 7E80562030726B7

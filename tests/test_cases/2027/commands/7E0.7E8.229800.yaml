@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.229800
+test_cases:
+- expected_values:
+    F250_AC_P_SENS_V: 1.81152
+  response: 7E805629800073F

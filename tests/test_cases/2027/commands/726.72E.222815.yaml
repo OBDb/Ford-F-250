@@ -1,0 +1,14 @@
+command_id: 726.72E.222815
+test_cases:
+- expected_values:
+    F250_TP_RRO: 65.65
+  response: '72E056228150521'
+- expected_values:
+    F250_TP_RRO: 65.9
+  response: '72E056228150526'
+- expected_values:
+    F250_TP_RRO: 66.15
+  response: 72E05622815052B
+- expected_values:
+    F250_TP_RRO: 66.4
+  response: '72E056228150530'

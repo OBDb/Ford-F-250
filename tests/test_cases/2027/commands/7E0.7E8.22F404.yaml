@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F404
+test_cases:
+- expected_values:
+    F250_ENG_LOAD_PCT: 16.86275
+  response: 7E80462F4042B
+- expected_values:
+    F250_ENG_LOAD_PCT: 18.03922
+  response: 7E80462F4042E
+- expected_values:
+    F250_ENG_LOAD_PCT: 25.4902
+  response: 7E80462F40441

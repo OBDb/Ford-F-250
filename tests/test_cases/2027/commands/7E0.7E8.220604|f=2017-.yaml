@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220604|f=2017-
+test_cases:
+- expected_values:
+    F250_PCM_A_C_REFRIG_P: 1205
+  response: 7E80562060404B5

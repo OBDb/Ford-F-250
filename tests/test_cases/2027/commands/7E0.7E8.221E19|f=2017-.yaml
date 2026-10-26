@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221E19|f=2017-
+test_cases:
+- expected_values:
+    F250_PCM_CMD_TRANS_GEAR_RATIO: 1.76883
+  response: 7E805621E191C4D
+- expected_values:
+    F250_PCM_CMD_TRANS_GEAR_RATIO: 2.14603
+  response: 7E805621E192256
+- expected_values:
+    F250_PCM_CMD_TRANS_GEAR_RATIO: 4.69587
+  response: 7E805621E194B22

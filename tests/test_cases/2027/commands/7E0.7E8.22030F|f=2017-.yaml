@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22030F|f=2017-
+test_cases:
+- expected_values:
+    F250_CL: 0.875
+  response: 7E80562030F7000
+- expected_values:
+    F250_CL: 0.90363
+  response: 7E80562030F73AA
+- expected_values:
+    F250_CL: 0.99222
+  response: 7E80562030F7F01

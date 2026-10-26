@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    F250_RPM: 529.75
+  response: 7E80562F40C0847
+- expected_values:
+    F250_RPM: 1035
+  response: 7E80562F40C102C
+- expected_values:
+    F250_RPM: 1280.25
+  response: 7E80562F40C1401

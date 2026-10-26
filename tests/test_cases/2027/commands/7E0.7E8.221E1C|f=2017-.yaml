@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221E1C|f=2017-
+test_cases:
+- expected_values:
+    F250_TOT: 88.125
+  response: 7E805621E1C0582
+- expected_values:
+    F250_TOT: 89.5625
+  response: 7E805621E1C0599

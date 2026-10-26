@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220415|f=2017-
+test_cases:
+- expected_values:
+    F250_PCM_ENG_EOP_RAW: 232
+  response: 7E80562041500E8
+- expected_values:
+    F250_PCM_ENG_EOP_RAW: 287
+  response: 7E805620415011F
+- expected_values:
+    F250_PCM_ENG_EOP_RAW: 289
+  response: '7E8056204150121'

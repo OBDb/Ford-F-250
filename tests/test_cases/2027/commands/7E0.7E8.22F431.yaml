@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    F250_DIST_DTC_CLR: 1884
+  response: 7E80562F431075C
+- expected_values:
+    F250_DIST_DTC_CLR: 1885
+  response: 7E80562F431075D

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220403|f=2017-
+test_cases:
+- expected_values:
+    F250_KS1_RAW: 20
+  response: '7E8056204030014'
+- expected_values:
+    F250_KS1_RAW: 30
+  response: 7E805620403001E
+- expected_values:
+    F250_KS1_RAW: 34
+  response: '7E8056204030022'
