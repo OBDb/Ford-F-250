@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221166|f=2017-
+test_cases:
+- expected_values:
+    F250_EVAP_PURGE_CMD: 5.7312
+  response: '7E8056211660756'
+- expected_values:
+    F250_EVAP_PURGE_CMD: 89.97498
+  response: 7E805621166732B
+- expected_values:
+    F250_EVAP_PURGE_CMD: 97.45178
+  response: 7E8056211667CBD

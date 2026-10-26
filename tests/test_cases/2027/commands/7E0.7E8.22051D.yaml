@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22051D
+test_cases:
+- expected_values:
+    F250_CYL_HEAD_T: 52
+  response: 7E80462051D5C
+- expected_values:
+    F250_CYL_HEAD_T: 53
+  response: 7E80462051D5D
+- expected_values:
+    F250_CYL_HEAD_T: 55
+  response: 7E80462051D5F

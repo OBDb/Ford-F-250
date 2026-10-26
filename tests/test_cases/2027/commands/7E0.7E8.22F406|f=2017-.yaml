@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F406|f=2017-
+test_cases:
+- expected_values:
+    F250_STFT: -4.6875
+  response: 7E80462F4067A
+- expected_values:
+    F250_STFT: 0
+  response: 7E80462F40680
+- expected_values:
+    F250_STFT: 1.5625
+  response: 7E80462F40682

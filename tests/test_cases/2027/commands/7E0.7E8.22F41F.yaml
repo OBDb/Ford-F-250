@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F41F
+test_cases:
+- expected_values:
+    F250_RUN_TIME: 1440
+  response: 7E80562F41F05A0
+- expected_values:
+    F250_RUN_TIME: 1595
+  response: 7E80562F41F063B
+- expected_values:
+    F250_RUN_TIME: 1649
+  response: 7E80562F41F0671

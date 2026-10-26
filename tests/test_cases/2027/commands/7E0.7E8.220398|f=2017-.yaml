@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220398|f=2017-
+test_cases:
+- expected_values:
+    F250_PCM_MISF_ACCEL_CYL6_NORM: 0
+  response: '7E80462039800'
+- expected_values:
+    F250_PCM_MISF_ACCEL_CYL6_NORM: 0.09375
+  response: '7E80462039806'
+- expected_values:
+    F250_PCM_MISF_ACCEL_CYL6_NORM: -0.14062
+  response: 7E804620398F7

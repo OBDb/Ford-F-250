@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F43C|f=2017-
+test_cases:
+- expected_values:
+    F250_CAT_TEMP: 373.9
+  response: 7E80562F43C102B
+- expected_values:
+    F250_CAT_TEMP: 490.1
+  response: 7E80562F43C14B5
+- expected_values:
+    F250_CAT_TEMP: 573.7
+  response: 7E80562F43C17F9

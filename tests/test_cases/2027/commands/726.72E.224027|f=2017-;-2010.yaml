@@ -1,0 +1,5 @@
+command_id: 726.72E.224027|f=2017-;-2010
+test_cases:
+- expected_values:
+    F250_12V_AGE: 1512
+  response: 72E05624027003F

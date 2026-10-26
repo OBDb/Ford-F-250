@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22F45E
+test_cases:
+- expected_values:
+    F250_ENG_FUEL_RATE: 2.5
+  response: 7E80562F45E0032

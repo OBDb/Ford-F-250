@@ -1,0 +1,8 @@
+command_id: 726.72E.22423C
+test_cases:
+- expected_values:
+    F250_VEH_BAT_B_CURRENT: 4.3125
+  response: 72E0562423C008A
+- expected_values:
+    F250_VEH_BAT_B_CURRENT: 5.3125
+  response: 72E0562423C00AA

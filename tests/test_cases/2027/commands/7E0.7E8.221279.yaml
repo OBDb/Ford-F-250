@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221279
+test_cases:
+- expected_values:
+    F250_IAT_SENS_V: 0.94819
+  response: 7E80562127900C2
+- expected_values:
+    F250_IAT_SENS_V: 0.96285
+  response: 7E80562127900C5
+- expected_values:
+    F250_IAT_SENS_V: 0.96774
+  response: 7E80562127900C6
