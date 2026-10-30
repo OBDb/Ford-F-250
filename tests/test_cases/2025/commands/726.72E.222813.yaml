@@ -4,6 +4,11 @@ test_cases:
     F250_TP_FL: 52.15
   response: '72E056228130413'
 - expected_values:
+    F250_TP_FL: 59.65
+  response: |-
+    72E0562281304A7
+    72E0562281304A9
+- expected_values:
     F250_TP_FL: 63.95
   response: 72E0562281304FF
 - expected_values:
