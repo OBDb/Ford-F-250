@@ -10,5 +10,5 @@ test_cases:
     F250_DTE: 537.5
   response: 7E80562419414FF
 - expected_values:
-    F250_DTE: 563.5
-  response: '7E8056241941603'
+    F250_DTE: 599.3
+  response: '7E8056241941769'
