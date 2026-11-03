@@ -4,6 +4,11 @@ test_cases:
     F250_TP_RLO: 56.55
   response: 72E05622816046B
 - expected_values:
+    F250_TP_RLO: 63.55
+  response: |-
+    72E0562281604F7
+    72E0562281604F7
+- expected_values:
     F250_TP_RLO: 63.95
   response: 72E0562281604FF
 - expected_values:
