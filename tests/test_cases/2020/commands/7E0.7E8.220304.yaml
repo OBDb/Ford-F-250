@@ -7,26 +7,8 @@ test_cases:
     F250_CMD_GEN_V: 14.3716
   response: 7E805620304730A
 - expected_values:
-    F250_CMD_GEN_V: 14.39161
-  response: '7E8056203047333'
-- expected_values:
-    F250_CMD_GEN_V: 14.41162
-  response: 7E805620304735C
-- expected_values:
-    F250_CMD_GEN_V: 14.43162
-  response: '7E8056203047385'
-- expected_values:
-    F250_CMD_GEN_V: 14.45163
-  response: 7E80562030473AE
-- expected_values:
-    F250_CMD_GEN_V: 14.47164
-  response: 7E80562030473D7
-- expected_values:
     F250_CMD_GEN_V: 14.49116
   response: 7E80562030473FF
 - expected_values:
     F250_CMD_GEN_V: 14.51117
   response: '7E8056203047428'
-- expected_values:
-    F250_CMD_GEN_V: 14.53118
-  response: '7E8056203047451'

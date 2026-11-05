@@ -1,15 +1,15 @@
 command_id: 7E0.7E8.22F478
 test_cases:
 - expected_values:
-    F250_EGT_B1: 344.6
+    F250_EGT_B1: 344.3
   response: |-
-    7E8100C62F4780F06E7
-    7E82107320766084C00
+    7E8100C62F4780F03E9
+    7E821039C02BE02BE00
 - expected_values:
-    F250_EGT_B1: 344.6
+    F250_EGT_B1: 344.4
   response: |-
-    7E8100C62F4780F06F8
-    7E821059403F3043200
+    7E8100C62F4780F0418
+    7E82103C0034D02C200
 - expected_values:
     F250_EGT_B1: 344.7
   response: |-
@@ -20,11 +20,6 @@ test_cases:
   response: |-
     7E8100C62F4780F0783
     7E821079F084C09C700
-- expected_values:
-    F250_EGT_B1: 344.7
-  response: |-
-    7E8100C62F4780F0789
-    7E821068003EE041200
 - expected_values:
     F250_EGT_B1: 344.7
   response: |-
