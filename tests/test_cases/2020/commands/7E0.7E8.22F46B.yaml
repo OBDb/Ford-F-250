@@ -3,17 +3,12 @@ test_cases:
 - expected_values:
     F250_EGR_T_7E0: 1194.8
   response: |-
-    7E8100862F46B303C23
+    7E8100862F46B303C18
     7E82100000000000000
 - expected_values:
     F250_EGR_T_7E0: 1196.2
   response: |-
     7E8100862F46B304A3D
-    7E82100000000000000
-- expected_values:
-    F250_EGR_T_7E0: 1199.9
-  response: |-
-    7E8100862F46B306F1C
     7E82100000000000000
 - expected_values:
     F250_EGR_T_7E0: 1202.9

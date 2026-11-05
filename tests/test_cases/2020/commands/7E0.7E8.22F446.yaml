@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     F250_AAT_7E0: 21
   response: 7E80462F4463D
+- expected_values:
+    F250_AAT_7E0: 26
+  response: 7E80462F44642

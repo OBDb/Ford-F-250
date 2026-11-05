@@ -7,6 +7,12 @@ test_cases:
     F250_12V_V: 13
   response: 72E0462402A8C
 - expected_values:
+    F250_12V_V: 13.9
+  response: 72E0462402A9E
+- expected_values:
+    F250_12V_V: 14
+  response: 72E0462402AA0
+- expected_values:
     F250_12V_V: 14.1
   response: 72E0462402AA2
 - expected_values:
