@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2211D3
+test_cases:
+- expected_values:
+    F250_CYL_5_FUEL_BALANCE: 0
+  response: 7E8076211D300000000
+- expected_values:
+    F250_CYL_5_FUEL_BALANCE: 0.08191
+  response: 7E8076211D3000028F5
+- expected_values:
+    F250_CYL_5_FUEL_BALANCE: -0.61441
+  response: 7E8076211D3FFFECCCC
+- expected_values:
+    F250_CYL_5_FUEL_BALANCE: -0.50177
+  response: 7E8076211D3FFFF051E
+- expected_values:
+    F250_CYL_5_FUEL_BALANCE: -0.00512
+  response: 7E8076211D3FFFFFD70

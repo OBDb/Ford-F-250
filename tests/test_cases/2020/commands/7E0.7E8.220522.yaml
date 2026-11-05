@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220522
+test_cases:
+- expected_values:
+    F250_FUEL_T: 21
+  response: 7E8046205223D
+- expected_values:
+    F250_FUEL_T: 34
+  response: 7E8046205224A

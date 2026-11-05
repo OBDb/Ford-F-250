@@ -1,0 +1,16 @@
+command_id: 7E0.01A1
+test_cases:
+- expected_values:
+    NOXC11: 128
+    NOXC11_NA: 0
+    NOXC11_SUP: 1
+    NOXC12: 7
+    NOXC12_NA: 0
+    NOXC12_SUP: 1
+    NOXC21_NA: 0
+    NOXC21_SUP: 0
+    NOXC22_NA: 0
+    NOXC22_SUP: 0
+  response: |-
+    7E8100B41A103008000
+    7E82107FFFFFFFF0000

@@ -1,26 +1,8 @@
 command_id: 726.72E.222813
 test_cases:
 - expected_values:
-    F250_TP_FL: 55.05
-  response: 72E05622813044D
+    F250_TP_FL: 54.55
+  response: '72E056228130443'
 - expected_values:
-    F250_TP_FL: 55.3
-  response: '72E056228130452'
-- expected_values:
-    F250_TP_FL: 55.8
-  response: 72E05622813045C
-- expected_values:
-    F250_TP_FL: 56.05
-  response: '72E056228130461'
-- expected_values:
-    F250_TP_FL: 56.3
-  response: '72E056228130466'
-- expected_values:
-    F250_TP_FL: 56.55
-  response: 72E05622813046B
-- expected_values:
-    F250_TP_FL: 56.8
-  response: '72E056228130470'
-- expected_values:
-    F250_TP_FL: 57.05
-  response: '72E056228130475'
+    F250_TP_FL: 61.3
+  response: 72E0562281304CA
