@@ -4,5 +4,5 @@ test_cases:
     F250_TRANS_ODO: 138081
   response: 7E90662DD01021B61
 - expected_values:
-    F250_TRANS_ODO: 138126
-  response: 7E90662DD01021B8E
+    F250_TRANS_ODO: 138148
+  response: 7E90662DD01021BA4

@@ -10,5 +10,5 @@ test_cases:
     F250_TOT_V2: 48
   response: 7E905621E1C0300
 - expected_values:
-    F250_TOT_V2: 80.5
-  response: 7E905621E1C0508
+    F250_TOT_V2: 96.25
+  response: 7E905621E1C0604
