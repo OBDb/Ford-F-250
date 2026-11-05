@@ -11,40 +11,35 @@ test_cases:
     7E8100C62F4780F0418
     7E82103C0034D02C200
 - expected_values:
-    F250_EGT_B1: 344.7
+    F250_EGT_B1: 344.4
   response: |-
-    7E8100C62F4780F076C
-    7E821078907DF094400
+    7E8100C62F4780F047F
+    7E8210427048F034900
 - expected_values:
-    F250_EGT_B1: 344.7
+    F250_EGT_B1: 344.4
   response: |-
-    7E8100C62F4780F0783
-    7E821079F084C09C700
+    7E8100C62F4780F04BD
+    7E82104750441048F00
+- expected_values:
+    F250_EGT_B1: 344.5
+  response: |-
+    7E8100C62F4780F0505
+    7E82104C803D0045000
+- expected_values:
+    F250_EGT_B1: 344.6
+  response: |-
+    7E8100C62F4780F0674
+    7E821052F03E903EE00
 - expected_values:
     F250_EGT_B1: 344.7
   response: |-
     7E8100C62F4780F07FC
     7E821078903EE040800
 - expected_values:
-    F250_EGT_B1: 344.8
-  response: |-
-    7E8100C62F4780F0864
-    7E821092E099A0AC000
-- expected_values:
-    F250_EGT_B1: 344.9
-  response: |-
-    7E8100C62F4780F0994
-    7E8210AE709500A5100
-- expected_values:
     F250_EGT_B1: 345
   response: |-
     7E8100C62F4780F0A00
     7E8210BB309C10A0000
-- expected_values:
-    F250_EGT_B1: 345
-  response: |-
-    7E8100C62F4780F0A57
-    7E8210B560AFB0A9F00
 - expected_values:
     F250_EGT_B1: 345
   response: |-

@@ -4,5 +4,5 @@ test_cases:
     F250_DIST_SINCE_OIL: 5701
   response: '7E8056205421645'
 - expected_values:
-    F250_DIST_SINCE_OIL: 5746
-  response: '7E8056205421672'
+    F250_DIST_SINCE_OIL: 5768
+  response: '7E8056205421688'

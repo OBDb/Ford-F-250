@@ -4,11 +4,8 @@ test_cases:
     F250_CYL_7_FUEL_QTY: 0
   response: 7E8076204B000000000
 - expected_values:
-    F250_CYL_7_FUEL_QTY: 11.76576
-  response: 7E8076204B00016FAE1
-- expected_values:
-    F250_CYL_7_FUEL_QTY: 16.63999
-  response: 7E8076204B000207FFF
+    F250_CYL_7_FUEL_QTY: 14.84799
+  response: 7E8076204B0001CFFFF
 - expected_values:
     F250_CYL_7_FUEL_QTY: 64.10239
   response: 7E8076204B0007D3332
