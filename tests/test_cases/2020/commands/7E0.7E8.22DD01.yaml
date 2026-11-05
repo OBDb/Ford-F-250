@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     F250_ODO_7E0: 97006
   response: 7E80662DD01017AEE
+- expected_values:
+    F250_ODO_7E0: 138126
+  response: 7E80662DD01021B8E

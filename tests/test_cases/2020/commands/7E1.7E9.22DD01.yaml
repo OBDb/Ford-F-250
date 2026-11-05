@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22DD01
+test_cases:
+- expected_values:
+    F250_TRANS_ODO: 138081
+  response: 7E90662DD01021B61
+- expected_values:
+    F250_TRANS_ODO: 138126
+  response: 7E90662DD01021B8E

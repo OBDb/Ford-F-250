@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22051C
+test_cases:
+- expected_values:
+    F250_CHG_AIR_T: 19
+  response: 7E80462051C3B
+- expected_values:
+    F250_CHG_AIR_T: 41
+  response: 7E80462051C51

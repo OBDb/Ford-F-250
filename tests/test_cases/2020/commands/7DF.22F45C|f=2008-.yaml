@@ -4,5 +4,5 @@ test_cases:
     F250_EOT_7DF: 38
   response: 7E80462F45C4E
 - expected_values:
-    F250_EOT_7DF: 72
-  response: 7E80462F45C70
+    F250_EOT_7DF: 90
+  response: 7E80462F45C82

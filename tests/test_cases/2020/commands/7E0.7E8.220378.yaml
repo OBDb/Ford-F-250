@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220378
+test_cases:
+- expected_values:
+    F250_GEN_CTRL: 0
+  response: '7E8056203780000'
+- expected_values:
+    F250_GEN_CTRL: 18.65077
+  response: 7E80562037817DF
+- expected_values:
+    F250_GEN_CTRL: 68.8928
+  response: 7E805620378582D

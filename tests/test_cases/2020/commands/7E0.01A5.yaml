@@ -1,0 +1,8 @@
+command_id: 7E0.01A5
+test_cases:
+- expected_values:
+    DEF_CMD: 1
+    DEF_CMD_SUP: 1
+    DEF_UCDC: 0.0925
+    DEF_UCDC_SUP: 1
+  response: 7E80641A5030200B9
