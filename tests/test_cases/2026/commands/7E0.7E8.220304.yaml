@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220304
 test_cases:
 - expected_values:
-    F250_CMD_GEN_V: 14.27156
-  response: 7E805620304723D
+    F250_CMD_GEN_V: 13.81186
+  response: 7E8056203046E8F
 - expected_values:
     F250_CMD_GEN_V: 14.49116
   response: 7E80562030473FF

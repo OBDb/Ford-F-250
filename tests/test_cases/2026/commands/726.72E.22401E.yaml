@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     F250_NORM_CUM_CHG_IGN_ON: 9.7
   response: 72E0562401E0061
+- expected_values:
+    F250_NORM_CUM_CHG_IGN_ON: 28.6
+  response: 72E0562401E011E
