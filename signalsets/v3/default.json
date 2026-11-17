@@ -39,11 +39,11 @@
   "signals": [
     {"id": "F250_TP_RLO", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmin": 0, "nullmax": 150, "unit": "psi" }, "name": "Rear left outer tire pressure", "suggestedMetric": "rearLeftTirePressure"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "2817"}, "freq": 15, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2014, 2015, 2018] },
+{ "hdr": "726", "rax": "72E", "dbg": true, "cmd": {"22": "2817"}, "freq": 15,
   "signals": [
     {"id": "F250_TP_RRI", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmin": 0, "nullmax": 150, "unit": "psi" }, "name": "Tire pressure, rear right inner"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "2818"}, "freq": 15, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2014, 2015, 2018] },
+{ "hdr": "726", "rax": "72E", "dbg": true, "cmd": {"22": "2818"}, "freq": 15,
   "signals": [
     {"id": "F250_TP_RLI", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmin": 0, "nullmax": 150, "unit": "psi" }, "name": "Tire pressure, rear left inner"}
   ]},
@@ -474,7 +474,7 @@
   "signals": [
     {"id": "F250_CAT_SENS_V", "path": "Engine", "fmt": { "len": 16, "max": 5, "div": 1024, "sign": true, "unit": "volts" }, "name": "Charge air temperature sensor voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0461"}, "freq": 5, "filter": { "from": 2017 }, "dbgfilter": { "to": 2020, "years": [2024] },
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0461"}, "freq": 5, "filter": { "from": 2017 },
   "signals": [
     {"id": "F250_CHG_AIR_T_2", "path": "Engine", "fmt": { "len": 16, "max": 189, "min": -40, "div": 64, "add": -40, "sign": true, "nullmin": -40, "unit": "celsius" }, "name": "Charge air temperature 2"}
   ]},
