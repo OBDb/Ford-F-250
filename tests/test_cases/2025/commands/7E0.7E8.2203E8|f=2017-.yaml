@@ -22,8 +22,8 @@ test_cases:
     7E8056203E810CC
     7E8056203E810CC
 - expected_values:
-    F250_OAR: 0
+    F250_OAR: -1
   response: 7E8056203E8C000
 - expected_values:
-    F250_OAR: 0
+    F250_OAR: -0.01117
   response: 7E8056203E8FF49
