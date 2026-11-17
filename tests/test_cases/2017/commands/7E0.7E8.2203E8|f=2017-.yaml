@@ -1,32 +1,32 @@
 command_id: 7E0.7E8.2203E8|f=2017-
 test_cases:
 - expected_values:
-    F250_OAR: 0
+    F250_OAR: -0.22382
   response: 7E8056203E8F1AD
 - expected_values:
-    F250_OAR: 0
+    F250_OAR: -0.21985
   response: 7E8056203E8F1EE
 - expected_values:
-    F250_OAR: 0
+    F250_OAR: -0.20984
   response: 7E8056203E8F292
 - expected_values:
-    F250_OAR: 0
+    F250_OAR: -0.18286
   response: 7E8056203E8F44C
 - expected_values:
-    F250_OAR: 0
+    F250_OAR: -0.1828
   response: 7E8056203E8F44D
 - expected_values:
-    F250_OAR: 0
+    F250_OAR: -0.17889
   response: 7E8056203E8F48D
 - expected_values:
-    F250_OAR: 0
+    F250_OAR: -0.17316
   response: 7E8056203E8F4EB
 - expected_values:
-    F250_OAR: 0
+    F250_OAR: -0.15295
   response: 7E8056203E8F636
 - expected_values:
-    F250_OAR: 0
+    F250_OAR: -0.13403
   response: 7E8056203E8F76C
 - expected_values:
-    F250_OAR: 0
+    F250_OAR: -0.07849
   response: 7E8056203E8FAFA

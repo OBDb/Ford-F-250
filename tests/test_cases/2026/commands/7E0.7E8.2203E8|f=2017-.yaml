@@ -10,5 +10,5 @@ test_cases:
     F250_OAR: 0.07782
   response: 7E8056203E804FB
 - expected_values:
-    F250_OAR: 0
+    F250_OAR: -0.00958
   response: 7E8056203E8FF63

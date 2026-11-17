@@ -199,7 +199,7 @@
   ]},
 { "hdr": "760", "rax": "768", "cmd": {"22": "DD01"}, "freq": 5, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022] },
   "signals": [
-    {"id": "F250_ABS_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer, brake module", "suggestedMetric": "odometer"}
+    {"id": "F250_ABS_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "nullmin": 0, "unit": "kilometers" }, "name": "Odometer, brake module", "suggestedMetric": "odometer"}
   ]},
 { "hdr": "764", "rax": "76C", "cmd": {"22": "A224"}, "freq": 0.5, "dbgfilter": { "to": 2021 },
   "signals": [
@@ -415,7 +415,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03E8"}, "freq": 5, "filter": { "from": 2017 }, "dbgfilter": { "years": [2018, 2019, 2020, 2024] },
   "signals": [
-    {"id": "F250_OAR", "path": "Engine", "fmt": { "len": 16, "max": 1, "div": 16384, "sign": true, "unit": "scalar" }, "name": "Octane adjustment"}
+    {"id": "F250_OAR", "path": "Engine", "fmt": { "len": 16, "max": 1, "min": -1, "div": 16384, "sign": true, "unit": "scalar" }, "name": "Octane adjustment"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03EC"}, "freq": 1, "filter": { "from": 2017 }, "dbgfilter": { "years": [2018, 2019, 2020, 2024] },
   "signals": [
