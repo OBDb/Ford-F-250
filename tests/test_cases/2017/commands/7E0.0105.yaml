@@ -11,8 +11,8 @@ test_cases:
     0105
     7E803410580
 - expected_values:
-    ECT: 33
-  response: '7E803410549'
+    ECT: 26
+  response: '7E803410542'
 - expected_values:
     ECT: 97
   response: '7E803410589'
