@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220455
+test_cases:
+- expected_values:
+    F250_ALTERNATOR_2_MON: 5.46892
+  response: '7E8056204550700'
+- expected_values:
+    F250_ALTERNATOR_2_MON: 5.47807
+  response: '7E8056204550703'

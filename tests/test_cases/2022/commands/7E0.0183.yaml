@@ -1,0 +1,14 @@
+command_id: 7E0.0183
+test_cases:
+- expected_values:
+    NOX11_NA: 1
+    NOX11_SUP: 1
+    NOX12_NA: 1
+    NOX12_SUP: 1
+    NOX21_NA: 0
+    NOX21_SUP: 0
+    NOX22_NA: 0
+    NOX22_SUP: 0
+  response: |-
+    7E8100B418333FFFFFF
+    7E821FFFFFFFFFF0000

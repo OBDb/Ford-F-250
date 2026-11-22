@@ -1,0 +1,6 @@
+command_id: 7E0.0197
+test_cases:
+- expected_values:
+    NOX_EO_SUP: 1
+    NOX_TP_SUP: 1
+  response: 7E807419703FFFFFFFF

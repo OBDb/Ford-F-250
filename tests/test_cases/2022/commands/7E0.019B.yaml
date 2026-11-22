@@ -1,0 +1,22 @@
+command_id: 7E0.019B
+test_cases:
+- expected_values:
+    DEF_CON: 32.25
+    DEF_CON_SUP: 1
+    DEF_LVL: 86.66667
+    DEF_LVL_SUP: 1
+    DEF_T: 16
+    DEF_TYPE: Unknown
+    DEF_TYPE_SUP: 1
+    DEF_T_SUP: 1
+  response: 7E806419BDF8138DD
+- expected_values:
+    DEF_CON: 32.25
+    DEF_CON_SUP: 1
+    DEF_LVL: 87.05882
+    DEF_LVL_SUP: 1
+    DEF_T: 16
+    DEF_TYPE: Unknown
+    DEF_TYPE_SUP: 1
+    DEF_T_SUP: 1
+  response: 7E806419BDF8138DE

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2203F5
+test_cases:
+- expected_values:
+    F250_EXH_GAS_T_2: 70
+  response: 7E8046203F50E
+- expected_values:
+    F250_EXH_GAS_T_2: 75
+  response: 7E8046203F50F
+- expected_values:
+    F250_EXH_GAS_T_2: 80
+  response: 7E8046203F510
+- expected_values:
+    F250_EXH_GAS_T_2: 85
+  response: 7E8046203F511

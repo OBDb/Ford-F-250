@@ -1,0 +1,26 @@
+command_id: 7E0.0185
+test_cases:
+- expected_values:
+    NWI_TIME: 1487
+    NWI_TIME_SUP: 1
+    REAG_DEMD: 1.365
+    REAG_DEMD_SUP: 1
+    REAG_LVL: 86.66667
+    REAG_LVL_SUP: 1
+    REAG_RATE: 1.365
+    REAG_RATE_SUP: 1
+  response: |-
+    7E8100C41850F011101
+    7E82111DD000005CF00
+- expected_values:
+    NWI_TIME: 1487
+    NWI_TIME_SUP: 1
+    REAG_DEMD: 1.365
+    REAG_DEMD_SUP: 1
+    REAG_LVL: 87.05882
+    REAG_LVL_SUP: 1
+    REAG_RATE: 1.365
+    REAG_RATE_SUP: 1
+  response: |-
+    7E8100C41850F011101
+    7E82111DE000005CF00
