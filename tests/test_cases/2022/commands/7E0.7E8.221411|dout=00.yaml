@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221411|dout=00
+test_cases:
+- expected_values:
+    F250_VOLUME_FUEL_DES: 9.5625
+  response: '7E8056214110099'
+- expected_values:
+    F250_VOLUME_FUEL_DES: 9.625
+  response: 7E805621411009A
+- expected_values:
+    F250_VOLUME_FUEL_DES: 9.6875
+  response: 7E805621411009B
+- expected_values:
+    F250_VOLUME_FUEL_DES: 9.75
+  response: 7E805621411009C
+- expected_values:
+    F250_VOLUME_FUEL_DES: 9.9375
+  response: 7E805621411009F
+- expected_values:
+    F250_VOLUME_FUEL_DES: 10
+  response: 7E80562141100A0

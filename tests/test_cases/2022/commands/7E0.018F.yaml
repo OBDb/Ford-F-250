@@ -1,0 +1,16 @@
+command_id: 7E0.018F
+test_cases:
+- expected_values:
+    PM11_ACTIVE: 0
+    PM11_OUT: 0
+    PM11_OUT_SUP: 1
+    PM11_REGEN: 0
+    PM11_STAT_SUP: 1
+    PM21_ACTIVE: 0
+    PM21_OUT: 0
+    PM21_OUT_SUP: 0
+    PM21_REGEN: 0
+    PM21_STAT_SUP: 0
+  response: |-
+    7E81009418F03000000
+    7E82100000000000000

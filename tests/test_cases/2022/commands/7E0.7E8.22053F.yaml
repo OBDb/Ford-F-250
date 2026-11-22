@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22053F
+test_cases:
+- expected_values:
+    F250_TIME_SINCE_OIL: 286.99168
+  response: 7E80562053F4978

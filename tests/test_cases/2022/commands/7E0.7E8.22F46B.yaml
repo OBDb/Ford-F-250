@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22F46B
+test_cases:
+- expected_values:
+    F250_EGR_T_7E0: 1194.8
+  response: |-
+    7E8100862F46B303C1A
+    7E82100000000000000
+- expected_values:
+    F250_EGR_T_7E0: 1194.8
+  response: |-
+    7E8100862F46B303C1B
+    7E82100000000000000
+- expected_values:
+    F250_EGR_T_7E0: 1194.8
+  response: |-
+    7E8100862F46B303C1C
+    7E82100000000000000

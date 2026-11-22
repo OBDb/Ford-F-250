@@ -1,0 +1,37 @@
+command_id: 7E0.7E8.22F478
+test_cases:
+- expected_values:
+    F250_EGT_B1: 344.4
+  response: |-
+    7E8100C62F4780F0446
+    7E821045A03E4043700
+- expected_values:
+    F250_EGT_B1: 344.4
+  response: |-
+    7E8100C62F4780F04C2
+    7E821047F0475049400
+- expected_values:
+    F250_EGT_B1: 344.4
+  response: |-
+    7E8100C62F4780F04DC
+    7E8210489047A048F00
+- expected_values:
+    F250_EGT_B1: 344.4
+  response: |-
+    7E8100C62F4780F04EB
+    7E82104A3047F049E00
+- expected_values:
+    F250_EGT_B1: 344.4
+  response: |-
+    7E8100C62F4780F04FB
+    7E82104B2047004A800
+- expected_values:
+    F250_EGT_B1: 344.5
+  response: |-
+    7E8100C62F4780F0505
+    7E82104C2045A04B700
+- expected_values:
+    F250_EGT_B1: 344.5
+  response: |-
+    7E8100C62F4780F050F
+    7E82104D2044B04B700

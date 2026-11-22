@@ -1,0 +1,8 @@
+command_id: 7E0.017E
+test_cases:
+- expected_values:
+    PM_NTE_CARVE: 0
+    PM_NTE_DEF: 0
+    PM_NTE_IN: 0
+    PM_NTE_OUT: 1
+  response: 7E803417E02

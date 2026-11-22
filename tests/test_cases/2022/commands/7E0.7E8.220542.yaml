@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220542
+test_cases:
+- expected_values:
+    F250_DIST_SINCE_OIL: 6726
+  response: 7E8056205421A46

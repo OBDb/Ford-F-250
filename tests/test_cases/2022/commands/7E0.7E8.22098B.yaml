@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22098B
+test_cases:
+- expected_values:
+    F250_CYL_2_FUEL_BALANCE: 0.01023
+  response: 7E80762098B0000051E
+- expected_values:
+    F250_CYL_2_FUEL_BALANCE: 0.01536
+  response: 7E80762098B000007AE
+- expected_values:
+    F250_CYL_2_FUEL_BALANCE: 0.02048
+  response: 7E80762098B00000A3D
+- expected_values:
+    F250_CYL_2_FUEL_BALANCE: 0.03072
+  response: 7E80762098B00000F5C
+- expected_values:
+    F250_CYL_2_FUEL_BALANCE: 0.03584
+  response: 7E80762098B000011EB
+- expected_values:
+    F250_CYL_2_FUEL_BALANCE: 0.04095
+  response: 7E80762098B0000147A
+- expected_values:
+    F250_CYL_2_FUEL_BALANCE: 0.04608
+  response: 7E80762098B0000170A
+- expected_values:
+    F250_CYL_2_FUEL_BALANCE: 0.05631
+  response: 7E80762098B00001C28
+- expected_values:
+    F250_CYL_2_FUEL_BALANCE: 0.07168
+  response: 7E80762098B000023D7
+- expected_values:
+    F250_CYL_2_FUEL_BALANCE: -0.00512
+  response: 7E80762098BFFFFFD70
